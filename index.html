@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>~*~ Welcome to my Homepage ~*~</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="stars"></div>
+  <center>
+    <h1 class="rainbow-text">⭐ WELCOME TO MY HOMEPAGE ⭐</h1>
+    <marquee behavior="scroll" direction="left" class="marquee-bar">
+      *** Best viewed in Netscape Navigator at 800x600 *** Sign my guestbook! *** Now with 56k modem sound! ***
+    </marquee>
+    <table border="4" bgcolor="#000080" width="600" cellpadding="10">
+      <tr>
+        <td bgcolor="#c0c0c0">
+          <h2>About This Site</h2>
+          <p>Hi, thanks for stopping by my little corner of the World Wide Web!
+          This page is a throwback to the golden age of the internet &mdash;
+          under construction forever, powered by nostalgia and blinking GIFs.</p>
+          <h2>🚧 Under Construction 🚧</h2>
+          <p class="blink">This page is always under construction!</p>
+          <h2>My Links</h2>
+          <ul class="links">
+            <li><a href="#guestbook">📖 Sign my Guestbook</a></li>
+            <li><a href="#counter">🔢 Visitor Counter</a></li>
+            <li><a href="#webring">🔗 Join the WebRing</a></li>
+            <li><a href="#midi">🎶 Now Playing (MIDI)</a></li>
+          </ul>
+          <h2 id="counter">Visitor Counter</h2>
+          <div class="counter" id="hit-counter">000001</div>
+          <h2 id="guestbook">Guestbook</h2>
+          <p><em>Nobody has signed yet. Be the first!</em></p>
+          <form onsubmit="return signGuestbook(event)">
+            <input type="text" id="guest-name" placeholder="Your name" required>
+            <button type="submit">Sign</button>
+          </form>
+          <ul id="guest-list"></ul>
+          <h2 id="midi">🎶 Now Playing</h2>
+          <div class="midi-player">
+            <div class="midi-screen">
+              <span id="midi-track-name">ode_to_joy.mid</span>
+              <span id="midi-status" class="blink">■ STOPPED</span>
+            </div>
+            <button type="button" id="midi-play-btn" onclick="toggleMidi()">▶ Play MIDI</button>
+            <span class="midi-note">(8-bit synth tribute to background MIDI tracks of yore)</span>
+          </div>
+          <h2 id="webring">WebRing</h2>
+          <p>&laquo; Previous | This Site is a Member of the Retro WebRing | Next &raquo;</p>
+        </td>
+      </tr>
+    </table>
+    <p class="footer">© 1998-forever &mdash; Made with Notepad on a beige computer<br>
+    <span class="blink">Best viewed at 800x600 resolution</span>
+    <a href="secret-vault.html" style="color:#000080; text-decoration:none; font-size:0.7em;" title="you weren't supposed to see this">.</a></p>
+  </center>
+  <script src="script.js"></script>
+  <script>
+    // ---- In-page MIDI synth (no external .mid file or plugin needed) ----
+    let audioCtx = null;
+    let midiPlaying = false;
+    let midiTimeouts = [];
+
+    const odeToJoy = [
+      {note:'E4', dur:0.4}, {note:'E4', dur:0.4}, {note:'F4', dur:0.4}, {note:'G4', dur:0.4},
+      {note:'G4', dur:0.4}, {note:'F4', dur:0.4}, {note:'E4', dur:0.4}, {note:'D4', dur:0.4},
+      {note:'C4', dur:0.4}, {note:'C4', dur:0.4}, {note:'D4', dur:0.4}, {note:'E4', dur:0.4},
+      {note:'E4', dur:0.6}, {note:'D4', dur:0.2}, {note:'D4', dur:0.8},
+    ];
+
+    const noteFreq = { C4:261.63, D4:293.66, E4:329.63, F4:349.23, G4:392.00 };
+
+    function playNote(freq, startTime, duration, ctx) {
+      const osc = ctx.createOscillator();
+      const gain = ctx.createGain();
+      osc.type = 'square'; // gives it that 8-bit sound
+      osc.frequency.value = freq;
+      gain.gain.setValueAtTime(0.15, startTime);
+      gain.gain.exponentialRampToValueAtTime(0.001, startTime + duration);
+      osc.connect(gain);
+      gain.connect(ctx.destination);
+      osc.start(startTime);
+      osc.stop(startTime + duration);
+    }
+
+    function scheduleLoop() {
+      let t = audioCtx.currentTime + 0.1;
+      odeToJoy.forEach(({note, dur}) => {
+        playNote(noteFreq[note], t, dur * 0.9, audioCtx);
+        t += dur;
+      });
+      const totalDuration = odeToJoy.reduce((sum, n) => sum + n.dur, 0);
+      midiTimeouts.push(setTimeout(() => { if (midiPlaying) scheduleLoop(); }, totalDuration * 1000));
+    }
+
+    function toggleMidi() {
+      const btn = document.getElementById('midi-play-btn');
+      const status = document.getElementById('midi-status');
+
+      if (midiPlaying) {
+        stopMidi();
+        return;
+      }
+
+      if (!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+      if (audioCtx.state === 'suspended') audioCtx.resume();
+
+      midiPlaying = true;
+      btn.textContent = '■ Stop MIDI';
+      status.textContent = '▶ PLAYING';
+      status.classList.remove('blink');
+
+      scheduleLoop();
+    }
+
+    function stopMidi() {
+      midiPlaying = false;
+      midiTimeouts.forEach(clearTimeout);
+      midiTimeouts = [];
+      if (audioCtx) { audioCtx.close(); audioCtx = null; }
+
+      document.getElementById('midi-play-btn').textContent = '▶ Play MIDI';
+      const status = document.getElementById('midi-status');
+      status.textContent = '■ STOPPED';
+      status.classList.add('blink');
+    }
+
+    // ---- Konami Code easter egg: ↑ ↑ ↓ ↓ ← → ← → B A ----
+    (function() {
+      const konamiCode = [
+        'ArrowUp', 'ArrowUp', 'ArrowDown', 'ArrowDown',
+        'ArrowLeft', 'ArrowRight', 'ArrowLeft', 'ArrowRight',
+        'b', 'a'
+      ];
+      let progress = 0;
+
+      document.addEventListener('keydown', function(e) {
+        const key = e.key.length === 1 ? e.key.toLowerCase() : e.key;
+        if (key === konamiCode[progress]) {
+          progress++;
+          if (progress === konamiCode.length) {
+            progress = 0;
+            window.location.href = 'secret-vault.html';
+          }
+        } else {
+          progress = (key === konamiCode[0]) ? 1 : 0;
+        }
+      });
+    })();
+  </script>
+</body>
+</html>

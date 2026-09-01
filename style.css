@@ -1,0 +1,126 @@
+body {
+  background-color: #000000;
+  background-image: radial-gradient(#111 1px, transparent 1px);
+  background-size: 20px 20px;
+  color: #00ff00;
+  font-family: "Comic Sans MS", "Papyrus", cursive, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+h1.rainbow-text {
+  font-size: 2.5em;
+  background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: hue 4s linear infinite;
+  text-shadow: 2px 2px 0 #000;
+}
+
+@keyframes hue {
+  from { filter: hue-rotate(0deg); }
+  to { filter: hue-rotate(360deg); }
+}
+
+.marquee-bar {
+  background: #ff00ff;
+  color: #ffff00;
+  font-weight: bold;
+  padding: 6px;
+  border: 3px dashed #00ffff;
+  margin: 15px 0;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+h2 {
+  color: #800080;
+  border-bottom: 2px dotted #000080;
+}
+
+a {
+  color: #0000ee;
+  font-weight: bold;
+}
+
+a:visited {
+  color: #551a8b;
+}
+
+.blink {
+  animation: blinker 1s step-start infinite;
+  color: red;
+  font-weight: bold;
+}
+
+@keyframes blinker {
+  50% { opacity: 0; }
+}
+
+.counter {
+  background: #000;
+  color: #0f0;
+  font-family: "Courier New", monospace;
+  font-size: 1.8em;
+  letter-spacing: 4px;
+  display: inline-block;
+  padding: 8px 16px;
+  border: 2px inset #888;
+}
+
+.links li {
+  list-style: none;
+  margin: 6px 0;
+}
+
+form {
+  margin: 10px 0;
+}
+
+input, button {
+  font-family: inherit;
+  padding: 4px 8px;
+}
+
+.footer {
+  margin-top: 30px;
+  font-size: 0.9em;
+  color: #c0c0c0;
+}
+
+.midi-player {
+  background: #c0c0c0;
+  border: 3px outset #eee;
+  padding: 10px;
+  display: inline-block;
+  margin: 10px 0;
+}
+
+.midi-screen {
+  background: #000;
+  color: #0f0;
+  font-family: "Courier New", monospace;
+  padding: 6px 10px;
+  margin-bottom: 8px;
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  border: 2px inset #888;
+}
+
+.midi-note {
+  display: block;
+  font-size: 0.8em;
+  color: #000080;
+  margin-top: 6px;
+}
+
+.stars {
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  pointer-events: none;
+  z-index: -1;
+}

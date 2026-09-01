@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>~*~ SECRET LEVEL: Spherepop ~*~</title>
+<link rel="stylesheet" href="style.css">
+<style>
+  body {
+    background: #000033 url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="4" height="4"><rect width="4" height="4" fill="%23000033"/><circle cx="1" cy="1" r="0.5" fill="white"/></svg>');
+    color: #ffffff; font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
+  }
+  .rainbow-text {
+    font-size: 2em; font-weight: bold;
+    background: linear-gradient(90deg, red, orange, yellow, green, blue, violet, red);
+    background-size: 400% 100%;
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+    animation: rainbow-move 4s linear infinite;
+  }
+  @keyframes rainbow-move { 0% { background-position: 0% 50%; } 100% { background-position: 100% 50%; } }
+  .blink { animation: blinker 1s steps(1) infinite; }
+  @keyframes blinker { 50% { opacity: 0; } }
+  .marquee-bar { background:#000; color:#00ff00; font-family:monospace; padding:4px; border:2px dashed #00ff00; }
+  table.retro-table { border:4px solid #000080; background:#000080; width:600px; }
+  td.retro-panel { background:#c0c0c0; color:#000; padding:10px; }
+  td.retro-panel h2 { color:#000080; }
+  a { color:#0000ff; } a:visited { color:#800080; }
+  .badge { display:inline-block; background:#ffff00; color:#000; border:2px solid #000; padding:4px 8px; font-weight:bold; font-family:monospace; transform:rotate(-3deg); }
+  .footer { font-size:0.8em; margin-top:20px; }
+  .buttons { display:flex; gap:10px; justify-content:center; flex-wrap:wrap; margin:15px 0; }
+  .buttons div { border:2px outset #ccc; background:#e0e0e0; color:#000; padding:10px; width:100px; font-family:monospace; font-weight:bold; }
+</style>
+</head>
+<body>
+  <center>
+    <span class="badge">🔓 SECRET LEVEL UNLOCKED</span>
+    <h1 class="rainbow-text">🕹️ SPHEREPOP 🕹️</h1>
+    <marquee behavior="scroll" direction="left" class="marquee-bar">
+      *** four buttons, infinite universe *** POP REFUSE BIND COLLAPSE *** insert coin to continue existing ***
+    </marquee>
+    <table class="retro-table" border="4" cellpadding="10">
+      <tr><td class="retro-panel">
+        <h2>🎮 Four Buttons That Run Everything</h2>
+        <p>Spherepop is a tiny operator calculus built from exactly four moves.
+        The claim is that a surprising amount of "what happens next" &mdash; in
+        computer systems, in physics, in reasoning &mdash; reduces to some
+        combination of these:</p>
+
+        <div class="buttons">
+          <div>POP<br><small>introduce something new</small></div>
+          <div>REFUSE<br><small>rule an option out</small></div>
+          <div>BIND<br><small>couple things together</small></div>
+          <div>COLLAPSE<br><small>commit to one outcome</small></div>
+        </div>
+
+        <h2>🖥️ Why an Operating System?</h2>
+        <p>Take those four primitives seriously and you can sketch an entire OS
+        on top of them &mdash; one where the fundamental record isn't files and
+        processes but an append-only log of events. Nothing is silently
+        overwritten; history is retained, and "deleting" something just means
+        appending a note that it's no longer reachable. Everything else &mdash;
+        forking a process, mounting a filesystem, scheduling a task &mdash; turns
+        out to be a named recipe built out of Pop/Refuse/Bind/Collapse rather
+        than a fifth fundamental move.</p>
+
+        <h2>🧩 The Fun Part</h2>
+        <p>Proving that claim means going through ordinary OS features one at a
+        time &mdash; renaming a file, mounting a drive, waiting on a child
+        process &mdash; and either successfully rebuilding them from the four
+        primitives, or discovering exactly where the four primitives run out of
+        room. Both outcomes are useful. The second one tells you something real
+        about the limits of the claim instead of quietly hiding it.</p>
+
+        <p class="blink">⚠️ Do not COLLAPSE while operating heavy machinery ⚠️</p>
+
+        <h2>🔗 Keep Exploring</h2>
+        <ul>
+          <li><a href="theory-rsvp.html">🌀 RSVP: reality as a field of distinctions</a></li>
+          <li><a href="theory-holonomy.html">🌀 Distinction Holonomy: why things stay themselves</a></li>
+          <li><a href="theory-unified.html">📚 The Unified Theory: how it all fits together</a></li>
+          <li><a href="secret-vault.html">🗝️ Back to the Secret Vault</a></li>
+          <li><a href="index.html">🏠 Back to the Homepage</a></li>
+        </ul>
+      </td></tr>
+    </table>
+    <p class="footer">© 1998-forever &mdash; No fifth primitive was found in the making of this page<br>
+    <span class="blink">Press START to continue</span></p>
+  </center>
+</body>
+</html>
