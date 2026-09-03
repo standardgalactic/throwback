@@ -1,0 +1,10476 @@
+1
+00:00:00,000 --> 00:00:06,800
+You know, usually when we talk about a medical diagnosis, there's this expectation of absolute precision.
+
+2
+00:00:07,160 --> 00:00:08,360
+Right. We want it to be like engineering.
+
+3
+00:00:08,580 --> 00:00:10,300
+Yeah, exactly. You treat it like engineering.
+
+4
+00:00:10,460 --> 00:00:12,820
+You fall off a bike, you break your arm, and they take an x-ray.
+
+5
+00:00:13,020 --> 00:00:16,980
+And the x-ray shows that jagged white line on the black background.
+
+6
+00:00:17,360 --> 00:00:18,260
+It's undeniable.
+
+7
+00:00:18,420 --> 00:00:21,400
+Right. The doctor just points at it and says, you know, there it is.
+
+8
+00:00:22,260 --> 00:00:27,400
+Broken or not broken. It's clean. It's visible. And honestly, it's comforting.
+
+9
+00:00:27,400 --> 00:00:30,560
+It really is. It gives us this profound sense of control.
+
+10
+00:00:30,940 --> 00:00:36,940
+I mean, we desperately want the world to be categorized into neat, static snapshots like that.
+
+11
+00:00:37,200 --> 00:00:41,860
+Totally. We want to look at a problem, put it in a box, and say, okay, I understand this.
+
+12
+00:00:41,920 --> 00:00:43,860
+But then you step into the real world.
+
+13
+00:00:43,960 --> 00:00:49,580
+Oh, man. Yeah. You look at things like neurodevelopment or chronic trauma or even just, I don't know,
+
+14
+00:00:49,660 --> 00:00:52,400
+trying to figure out why your car is making that weird rattling noise.
+
+15
+00:00:52,720 --> 00:00:55,940
+And suddenly that perfect x-ray machine is completely useless.
+
+16
+00:00:55,940 --> 00:01:00,660
+Exactly. You lose that perfect, clean snapshot of reality.
+
+17
+00:01:01,180 --> 00:01:07,120
+And that loss of a pristine picture, that feeling of wading into diagnostic muddy waters,
+
+18
+00:01:07,340 --> 00:01:09,620
+that is exactly where we're heading today.
+
+19
+00:01:09,700 --> 00:01:11,640
+Which is honestly the most exciting place to be.
+
+20
+00:01:11,760 --> 00:01:17,020
+It is. We are taking a massive, mind-bending, deep dive into a hidden architecture
+
+21
+00:01:17,020 --> 00:01:19,920
+that dictates literally every part of your life.
+
+22
+00:01:20,020 --> 00:01:25,300
+And it is a blueprint that most of us, you know, we never even realize is operating in the background.
+
+23
+00:01:25,300 --> 00:01:31,700
+So imagine if the rules keeping a massive Boeing 777 in the sky were the exact same rules
+
+24
+00:01:31,700 --> 00:01:36,220
+dictating how a global supply chain completely breaks down during a crisis.
+
+25
+00:01:36,440 --> 00:01:37,600
+Which sounds crazy at first.
+
+26
+00:01:37,780 --> 00:01:42,980
+Right. And what if those are the exact same mechanisms governing the invisible rules of contract law?
+
+27
+00:01:43,080 --> 00:01:46,320
+Or how your brain decides which memories to dream about tonight?
+
+28
+00:01:46,480 --> 00:01:49,320
+Or even how your immune system fights off a flu virus?
+
+29
+00:01:49,320 --> 00:01:50,160
+It's all connected.
+
+30
+00:01:50,520 --> 00:01:54,560
+We are even going to pull the camera all the way back to look at how the earth itself,
+
+31
+00:01:54,640 --> 00:01:57,920
+the literal ground under your feet, records the passage of deep time.
+
+32
+00:01:58,120 --> 00:02:02,120
+I mean, it sounds like we're comparing apples to airplanes to tectonic plates.
+
+33
+00:02:02,480 --> 00:02:03,240
+It really does.
+
+34
+00:02:03,540 --> 00:02:07,600
+But there is a remarkably elegant thread tying all of these together.
+
+35
+00:02:07,720 --> 00:02:11,820
+And we are exploring this through an absolutely fascinating stack of sources today.
+
+36
+00:02:11,820 --> 00:02:15,940
+We have six highly detailed interrelated research papers.
+
+37
+00:02:16,340 --> 00:02:19,740
+And they were all published recently, September 4th, 2026,
+
+38
+00:02:19,980 --> 00:02:22,600
+by an independent researcher who goes by the name Fliction.
+
+39
+00:02:22,860 --> 00:02:25,400
+A very mysterious but brilliant body of work.
+
+40
+00:02:25,540 --> 00:02:25,920
+Truly.
+
+41
+00:02:26,480 --> 00:02:30,780
+Our mission today is to unpack Fliction's grand unified theory of what they call
+
+42
+00:02:30,780 --> 00:02:32,600
+contradiction and continuation.
+
+43
+00:02:33,320 --> 00:02:34,680
+Okay, let's unpack this.
+
+44
+00:02:35,080 --> 00:02:37,920
+The core premise we are exploring is that complex systems,
+
+45
+00:02:37,920 --> 00:02:41,400
+whether that's a human body, a society, or a corporate network,
+
+46
+00:02:42,180 --> 00:02:44,340
+they do not survive by being perfect.
+
+47
+00:02:44,620 --> 00:02:46,120
+And that is the crucial pivot right there.
+
+48
+00:02:46,580 --> 00:02:48,900
+We assume survival requires flawlessness.
+
+49
+00:02:49,100 --> 00:02:50,760
+But they don't survive by never breaking.
+
+50
+00:02:51,080 --> 00:02:55,540
+According to this research, systems survive through two very specific paired monisms.
+
+51
+00:02:55,960 --> 00:02:57,540
+The first is admissibility.
+
+52
+00:02:57,720 --> 00:02:58,660
+Right, admissibility.
+
+53
+00:02:58,840 --> 00:03:02,400
+Think of admissibility as a hyper-strict bouncer at the door of reality.
+
+54
+00:03:02,700 --> 00:03:07,680
+It decides what actions, what cells, or what behaviors are actually allowed to proceed into the future.
+
+55
+00:03:07,680 --> 00:03:09,400
+And the second mechanism is repair.
+
+56
+00:03:09,680 --> 00:03:11,200
+Which isn't what it sounds like, right?
+
+57
+00:03:11,300 --> 00:03:11,740
+Exactly.
+
+58
+00:03:12,240 --> 00:03:15,060
+Repair isn't just fixing a broken part to make it look brand new.
+
+59
+00:03:15,360 --> 00:03:20,740
+It's the active, messy mechanism that keeps the system moving forward when things inevitably fall apart.
+
+60
+00:03:20,980 --> 00:03:23,160
+So it's not about making it pretty again.
+
+61
+00:03:23,380 --> 00:03:24,320
+No, not at all.
+
+62
+00:03:24,680 --> 00:03:30,380
+The profound shift here is moving our minds away from objects and toward trajectories.
+
+63
+00:03:30,800 --> 00:03:34,700
+You know, we are trained by our schooling to look at things as static nouns.
+
+64
+00:03:34,700 --> 00:03:37,960
+Like a contract is just a piece of paper in a file cabinet.
+
+65
+00:03:38,320 --> 00:03:38,460
+Right.
+
+66
+00:03:38,680 --> 00:03:42,320
+Or a memory is a digital file stored on a hard drive in your brain.
+
+67
+00:03:42,440 --> 00:03:45,300
+A rock layer is just a heavy object sitting in the dirt.
+
+68
+00:03:46,040 --> 00:03:49,680
+But Fliction is arguing that to understand reality, we have to look at verbs.
+
+69
+00:03:50,060 --> 00:03:51,060
+We have to look at motion.
+
+70
+00:03:51,320 --> 00:03:53,820
+So we have to stop asking, what is this object?
+
+71
+00:03:54,080 --> 00:03:56,360
+Yes, and start asking, how does this system keep going?
+
+72
+00:03:56,520 --> 00:04:01,140
+When faced with immense stress, noise, or outright catastrophic failure,
+
+73
+00:04:01,660 --> 00:04:03,640
+how does the system maintain its continuation?
+
+74
+00:04:03,640 --> 00:04:09,640
+And to really ground this in something visceral, we are starting with a high-stakes human environment,
+
+75
+00:04:10,160 --> 00:04:14,500
+where waiting for a perfect statistical snapshot isn't just bad science.
+
+76
+00:04:14,880 --> 00:04:16,760
+It is literally a matter of life and death.
+
+77
+00:04:17,040 --> 00:04:18,580
+We are looking at aviation safety.
+
+78
+00:04:18,860 --> 00:04:26,320
+Because if you want to understand how a massive, complex system survives imperfect data and constant minor failures,
+
+79
+00:04:26,780 --> 00:04:32,820
+you look at the people whose daily job is keeping 300-ton metal tubes suspended in the sky.
+
+80
+00:04:32,820 --> 00:04:39,980
+Aviation is arguably the ultimate modern test case for learning from things that almost went disastrously wrong,
+
+81
+00:04:40,140 --> 00:04:41,900
+but didn't quite end in a crash.
+
+82
+00:04:42,240 --> 00:04:45,340
+So Fliction points us directly to how the United States handles this,
+
+83
+00:04:45,420 --> 00:04:49,820
+specifically focusing on NASA's Aviation Safety Reporting System, the ASRS,
+
+84
+00:04:50,820 --> 00:04:53,640
+and the National Transportation Safety Board, the NTSB.
+
+85
+00:04:54,100 --> 00:04:58,040
+Let's look at the ASRS first, because the mechanics of this are wild.
+
+86
+00:04:58,220 --> 00:04:58,820
+They really are.
+
+87
+00:04:58,820 --> 00:05:04,360
+They process roughly 100,000 voluntary de-identified reports every single year.
+
+88
+00:05:04,740 --> 00:05:09,020
+So mechanics, pilots, dispatchers, air traffic controllers, they all voluntarily write in and say,
+
+89
+00:05:09,080 --> 00:05:11,680
+hey, I messed up, or hey, I almost flew into another plane.
+
+90
+00:05:11,800 --> 00:05:15,340
+And the brilliant part is that NASA runs this as a neutral third party.
+
+91
+00:05:15,520 --> 00:05:18,880
+Right. It's not run by the Federal Aviation Administration, the FAA.
+
+92
+00:05:19,340 --> 00:05:19,820
+Exactly.
+
+93
+00:05:19,820 --> 00:05:26,920
+So people aren't terrified that an FAA inspector is going to read their report and instantly revoke their pilot's license.
+
+94
+00:05:27,260 --> 00:05:31,520
+That structural design is genius because it completely removes the punitive threat.
+
+95
+00:05:31,920 --> 00:05:37,040
+If you want to gather the data on how a system actually operates on a Tuesday afternoon,
+
+96
+00:05:37,440 --> 00:05:41,280
+as opposed to how the manual says it should operate, you have to grant immunity.
+
+97
+00:05:41,280 --> 00:05:46,440
+And alongside that early warning system, you have the NTSB handling the actual accidents.
+
+98
+00:05:46,980 --> 00:05:50,520
+And they operate completely independently from the regulatory bodies, too, right?
+
+99
+00:05:50,600 --> 00:05:50,860
+Yes.
+
+100
+00:05:51,400 --> 00:05:56,560
+Their goal isn't to assign blame, figure out who to sue, or deal with court liability.
+
+101
+00:05:57,200 --> 00:06:01,420
+Their mandate is factual reconstruction and prospective change.
+
+102
+00:06:01,420 --> 00:06:05,700
+So they just exist to figure out the probable cause and issue safety recommendations
+
+103
+00:06:05,700 --> 00:06:08,660
+to change the future trajectory of the industry.
+
+104
+00:06:09,120 --> 00:06:13,000
+But critics look at this, especially the ASRS with all its voluntary reports,
+
+105
+00:06:13,240 --> 00:06:16,000
+and they hit it with a massive statistical critique.
+
+106
+00:06:16,140 --> 00:06:18,020
+It's called the denominator problem.
+
+107
+00:06:18,380 --> 00:06:20,400
+Okay. And if you aren't a statistician,
+
+108
+00:06:20,880 --> 00:06:23,700
+this basically means that if you have a ledger of incidents,
+
+109
+00:06:23,960 --> 00:06:28,640
+say 100,000 reports of pilots misreading a specific runway sign,
+
+110
+00:06:28,640 --> 00:06:33,700
+that massive number means absolutely nothing unless you know the denominator.
+
+111
+00:06:33,980 --> 00:06:36,520
+Right. You need to know the total number of flights
+
+112
+00:06:36,520 --> 00:06:40,400
+or the total number of opportunities for that exact failure to occur.
+
+113
+00:06:40,540 --> 00:06:43,760
+Because if a million planes landed perfectly at that runway,
+
+114
+00:06:44,340 --> 00:06:47,100
+the 100,000 mistakes are a relatively small percentage.
+
+115
+00:06:47,320 --> 00:06:52,380
+Exactly. But if only 110,000 planes landed there, it's an absolute disaster.
+
+116
+00:06:52,540 --> 00:06:53,800
+Almost everyone is crashing.
+
+117
+00:06:54,000 --> 00:06:55,860
+Right. So without the denominator,
+
+118
+00:06:55,860 --> 00:06:58,820
+critics argue that an incident count is just a meaningless,
+
+119
+00:06:59,400 --> 00:07:01,200
+biased collection of scary stories.
+
+120
+00:07:01,540 --> 00:07:05,680
+It is a pervasive critique, especially right now when engineers try to apply
+
+121
+00:07:05,680 --> 00:07:11,080
+aviation safety methods to new chaotic fields like artificial intelligence safety.
+
+122
+00:07:11,160 --> 00:07:11,760
+Oh, absolutely.
+
+123
+00:07:12,300 --> 00:07:15,020
+The strict data scientists look at voluntary reports and say,
+
+124
+00:07:15,520 --> 00:07:17,940
+well, if you don't know the exact baseline exposure rate,
+
+125
+00:07:18,280 --> 00:07:20,200
+your data is epistemically compromised.
+
+126
+00:07:20,840 --> 00:07:23,900
+You can't build a mathematical model, so the ledger is useless.
+
+127
+00:07:23,900 --> 00:07:26,860
+But Fliction pushes back completely on this.
+
+128
+00:07:27,460 --> 00:07:32,540
+Fliction argues that the history of aviation proves those strict data scientists are wrong.
+
+129
+00:07:32,700 --> 00:07:38,580
+Because a ledger doesn't need to be this pristine, mathematically perfect statistical sample
+
+130
+00:07:38,580 --> 00:07:41,200
+to actually guide human action.
+
+131
+00:07:41,440 --> 00:07:47,260
+Right. Aviation survives because it treats these messy, near-miss anecdotes as structured evidence.
+
+132
+00:07:47,260 --> 00:07:51,220
+They use it to find latent common mode failures hiding in the system.
+
+133
+00:07:51,520 --> 00:07:55,940
+And that search for lading conditions is what makes the NTSB investigation so rigorous.
+
+134
+00:07:56,600 --> 00:07:59,020
+Consider Colgan Air Flight 3407.
+
+135
+00:07:59,180 --> 00:08:02,400
+Right. That was a tragic crash in upstate New York back in 2009.
+
+136
+00:08:02,660 --> 00:08:02,900
+Yes.
+
+137
+00:08:03,440 --> 00:08:05,560
+Now, if you only looked at the sharp end of the stick,
+
+138
+00:08:05,820 --> 00:08:08,220
+meaning the immediate final moments in the cockpit,
+
+139
+00:08:08,920 --> 00:08:11,900
+you would say the crew responded inappropriately to the stick shaker.
+
+140
+00:08:12,100 --> 00:08:14,540
+The plane's automated stall warning went off, right?
+
+141
+00:08:14,540 --> 00:08:19,160
+Exactly. And the pilot pulled back on the yoke instead of pushing forward to regain airspeed.
+
+142
+00:08:19,400 --> 00:08:20,940
+Which goes against basic aerodynamics.
+
+143
+00:08:21,040 --> 00:08:22,940
+You're supposed to push the nose down to gain speed.
+
+144
+00:08:23,140 --> 00:08:26,200
+Right. So the easiest thing to do is just blame the pilots,
+
+145
+00:08:26,760 --> 00:08:29,720
+close the case, and say human error caused the crash.
+
+146
+00:08:29,940 --> 00:08:32,460
+That is the trap most industries fall into.
+
+147
+00:08:32,660 --> 00:08:34,080
+They stop at the cockpit door.
+
+148
+00:08:34,920 --> 00:08:40,080
+But the NTSB leans heavily on the framework developed by psychologist James Reason,
+
+149
+00:08:40,080 --> 00:08:44,480
+what most people know as the Swiss cheese model of human error.
+
+150
+00:08:45,200 --> 00:08:46,780
+They look for the latent conditions.
+
+151
+00:08:47,440 --> 00:08:54,120
+So they ask, why did this specific crew react in that completely counterintuitive way on that specific night?
+
+152
+00:08:54,520 --> 00:08:54,960
+Exactly.
+
+153
+00:08:55,480 --> 00:08:57,280
+And when the NTSB dug in,
+
+154
+00:08:57,520 --> 00:09:00,260
+they found exhausted pilots who were commuting across the country,
+
+155
+00:09:00,720 --> 00:09:01,900
+sleeping in crew lounges.
+
+156
+00:09:02,300 --> 00:09:05,200
+They found problems with the regional carrier's training programs,
+
+157
+00:09:05,600 --> 00:09:06,580
+professional standards,
+
+158
+00:09:06,580 --> 00:09:10,180
+and even the regulatory oversight that allowed those grueling schedules.
+
+159
+00:09:10,180 --> 00:09:14,440
+Wow. So the investigation didn't just point a finger at the sharp end of the failure.
+
+160
+00:09:14,680 --> 00:09:18,820
+It looked at the entire organizational trajectory that made that failure almost inevitable.
+
+161
+00:09:19,040 --> 00:09:21,920
+Yes. The failure wasn't just the pilot pulling the yoke.
+
+162
+00:09:22,600 --> 00:09:25,920
+The failure was a systemic trajectory that placed a fatigued,
+
+163
+00:09:26,080 --> 00:09:29,540
+inadequately trained crew in a high-stress icing environment.
+
+164
+00:09:29,720 --> 00:09:31,880
+And because they identified the systemic trajectory,
+
+165
+00:09:32,280 --> 00:09:37,500
+the recommendations that followed weren't just a memo telling pilots not to pull back on a stalling plane.
+
+166
+00:09:37,500 --> 00:09:42,000
+No. The NTSB recommendations completely changed pilot record keeping,
+
+167
+00:09:42,640 --> 00:09:45,120
+mandated massive overhauls in fatigue management,
+
+168
+00:09:45,500 --> 00:09:48,200
+and altered stall recovery training nationwide.
+
+169
+00:09:48,400 --> 00:09:52,460
+They changed the rules of admissibility for the entire commercial aviation industry.
+
+170
+00:09:52,580 --> 00:09:57,760
+Infliction brings up an even broader historical example of this kind of system-wide repair.
+
+171
+00:09:58,140 --> 00:10:01,880
+The rise of crew resource management, or CRM.
+
+172
+00:10:01,880 --> 00:10:07,720
+Oh, yeah. If we go back to the 1970s, you had some truly horrific crashes.
+
+173
+00:10:08,420 --> 00:10:11,500
+Take United Airlines Flight 173 in Portland.
+
+174
+00:10:11,660 --> 00:10:12,820
+That's a classic example.
+
+175
+00:10:12,980 --> 00:10:17,900
+The crew became so hyper-fixated on a potentially broken landing gear indicator light
+
+176
+00:10:17,900 --> 00:10:19,940
+that they circled the airport for an hour,
+
+177
+00:10:20,140 --> 00:10:22,320
+completely ignored the fact that they were running out of fuel,
+
+178
+00:10:22,520 --> 00:10:23,720
+and crashed into a neighborhood.
+
+179
+00:10:23,800 --> 00:10:26,080
+Or look at the Tenerife disaster in 1977.
+
+180
+00:10:26,440 --> 00:10:29,200
+Right. The deadliest accident in aviation history.
+
+181
+00:10:29,200 --> 00:10:33,300
+Two fully loaded 747s colliding on a foggy runway.
+
+182
+00:10:33,620 --> 00:10:35,740
+And when investigators unpacked these disasters,
+
+183
+00:10:36,040 --> 00:10:38,940
+they realized the problem wasn't the aerodynamics of the planes,
+
+184
+00:10:39,440 --> 00:10:42,380
+or the weather, or even technical flying skills.
+
+185
+00:10:42,480 --> 00:10:44,220
+It was the culture inside the cockpit.
+
+186
+00:10:44,760 --> 00:10:45,160
+Exactly.
+
+187
+00:10:45,640 --> 00:10:48,820
+Back then, the captain was essentially treated like a god.
+
+188
+00:10:49,640 --> 00:10:50,820
+If the captain made a mistake,
+
+189
+00:10:51,300 --> 00:10:53,820
+the junior officer often knew something was wrong,
+
+190
+00:10:53,820 --> 00:10:56,040
+but the authority gradient was so steep
+
+191
+00:10:56,040 --> 00:10:58,300
+that they literally did not feel empowered
+
+192
+00:10:58,300 --> 00:10:59,740
+to speak up and challenge the captain.
+
+193
+00:11:00,560 --> 00:11:02,700
+So the repair mechanism the industry needed
+
+194
+00:11:02,700 --> 00:11:05,600
+wasn't stronger aluminum or better radar.
+
+195
+00:11:05,960 --> 00:11:08,460
+The repair was a fundamental rewrite of human procedure.
+
+196
+00:11:08,900 --> 00:11:10,540
+That became crew resource management.
+
+197
+00:11:11,220 --> 00:11:14,320
+CRM explicitly trained crews on how to communicate.
+
+198
+00:11:14,560 --> 00:11:16,700
+It instituted standard cowlouts, right?
+
+199
+00:11:16,700 --> 00:11:16,940
+Yes.
+
+200
+00:11:17,440 --> 00:11:20,740
+It required the co-pilot to actively challenge the captain
+
+201
+00:11:20,740 --> 00:11:22,480
+if they crossed certain safety parameters.
+
+202
+00:11:22,480 --> 00:11:25,660
+It created the concept of the sterile cockpit,
+
+203
+00:11:26,100 --> 00:11:29,840
+where non-essential conversation is banned below 10,000 feet.
+
+204
+00:11:30,280 --> 00:11:32,180
+So CRM wasn't a technical fix.
+
+205
+00:11:32,280 --> 00:11:35,600
+It was a profound shift in what was considered admissible behavior.
+
+206
+00:11:36,260 --> 00:11:38,280
+It repaired the social fabric of the cockpit
+
+207
+00:11:38,280 --> 00:11:40,540
+so future flights could continue safely,
+
+208
+00:11:40,800 --> 00:11:43,380
+even when a captain inevitably made a mistake.
+
+209
+00:11:43,680 --> 00:11:46,000
+But wait, I want to go back to this ASRS data,
+
+210
+00:11:46,220 --> 00:11:47,720
+this voluntary reporting stuff,
+
+211
+00:11:47,840 --> 00:11:50,860
+because if we are building an entire safety philosophy
+
+212
+00:11:50,860 --> 00:11:52,480
+on voluntary complaints,
+
+213
+00:11:52,940 --> 00:11:54,820
+isn't that just building a massive database
+
+214
+00:11:54,820 --> 00:11:56,380
+of the squeakiest wheels?
+
+215
+00:11:56,380 --> 00:11:58,020
+That is a very common critique.
+
+216
+00:11:58,500 --> 00:12:00,380
+I mean, it feels like trying to judge
+
+217
+00:12:00,380 --> 00:12:02,260
+a restaurant's overall quality
+
+218
+00:12:02,260 --> 00:12:04,840
+by only reading its one-star Yelp reviews.
+
+219
+00:12:05,240 --> 00:12:07,540
+If people only report when they are scared,
+
+220
+00:12:07,880 --> 00:12:09,300
+or maybe they are just reporting
+
+221
+00:12:09,300 --> 00:12:10,980
+because filing a NASA report
+
+222
+00:12:10,980 --> 00:12:12,640
+gives them a get-out-of-jail-free card
+
+223
+00:12:12,640 --> 00:12:13,800
+for a minor violation,
+
+224
+00:12:14,280 --> 00:12:15,380
+how do you actually learn
+
+225
+00:12:15,380 --> 00:12:17,280
+from a skewed archive of anecdotes?
+
+226
+00:12:17,280 --> 00:12:19,860
+That tension is exactly what Flixion addresses,
+
+227
+00:12:20,300 --> 00:12:22,060
+and the answer is incredibly elegant.
+
+228
+00:12:22,860 --> 00:12:24,720
+The ASRS organization itself
+
+229
+00:12:24,720 --> 00:12:26,660
+explicitly warns researchers
+
+230
+00:12:26,660 --> 00:12:29,220
+not to use their database to establish prevalence.
+
+231
+00:12:29,380 --> 00:12:30,620
+Okay, so they know it's skewed.
+
+232
+00:12:30,780 --> 00:12:31,040
+Yes.
+
+233
+00:12:31,400 --> 00:12:32,160
+They state up front,
+
+234
+00:12:32,860 --> 00:12:34,200
+we are not a perfect rate table.
+
+235
+00:12:34,760 --> 00:12:36,240
+Do not use this data to calculate
+
+236
+00:12:36,240 --> 00:12:38,280
+the mathematical probability of a crash.
+
+237
+00:12:38,960 --> 00:12:40,800
+But Flixion argues that this warning
+
+238
+00:12:40,800 --> 00:12:42,280
+isn't a defect of the data,
+
+239
+00:12:42,720 --> 00:12:44,120
+it is an admissibility rule.
+
+240
+00:12:44,120 --> 00:12:46,000
+Meaning the system is deciding up front
+
+241
+00:12:46,000 --> 00:12:47,580
+what this data is legally
+
+242
+00:12:47,580 --> 00:12:49,580
+and scientifically allowed to be used for.
+
+243
+00:12:50,060 --> 00:12:50,380
+Precisely.
+
+244
+00:12:50,880 --> 00:12:52,620
+It is not admitted into the system
+
+245
+00:12:52,620 --> 00:12:54,100
+as a global rate estimate.
+
+246
+00:12:54,600 --> 00:12:57,400
+It is admitted purely as evidence of vulnerability.
+
+247
+00:12:57,900 --> 00:12:58,880
+Ah, okay.
+
+248
+00:12:58,900 --> 00:13:00,500
+Because the goal of aviation safety
+
+249
+00:13:00,500 --> 00:13:02,420
+isn't actuarial closure.
+
+250
+00:13:03,060 --> 00:13:05,160
+The goal isn't to perfectly calculate
+
+251
+00:13:05,160 --> 00:13:08,960
+that a misheard clearance happens 0.04% of the time.
+
+252
+00:13:09,200 --> 00:13:11,900
+The goal is to issue practical warning signs
+
+253
+00:13:11,900 --> 00:13:13,480
+before the crash happens.
+
+254
+00:13:13,480 --> 00:13:17,900
+So NASA takes these messy, emotional, voluntary reports
+
+255
+00:13:17,900 --> 00:13:20,180
+and rigorously codes them
+
+256
+00:13:20,180 --> 00:13:22,240
+into highly structured taxonomies.
+
+257
+00:13:22,360 --> 00:13:22,580
+Yes.
+
+258
+00:13:22,920 --> 00:13:24,180
+They tag the anomaly types,
+
+259
+00:13:24,280 --> 00:13:25,020
+the weather conditions,
+
+260
+00:13:25,140 --> 00:13:25,820
+the human factors,
+
+261
+00:13:25,960 --> 00:13:27,300
+the specific phase of flight.
+
+262
+00:13:27,700 --> 00:13:28,860
+They even have algorithms
+
+263
+00:13:28,860 --> 00:13:30,680
+to combine multiple different perspectives
+
+264
+00:13:30,680 --> 00:13:32,020
+of the exact same event.
+
+265
+00:13:32,240 --> 00:13:33,540
+So they take the messy anecdote
+
+266
+00:13:33,540 --> 00:13:35,820
+and force it into a structural grid.
+
+267
+00:13:36,100 --> 00:13:37,800
+And then they publish the callback bulletin
+
+268
+00:13:37,800 --> 00:13:39,900
+to share these very specific lessons
+
+269
+00:13:39,900 --> 00:13:40,560
+with the industry.
+
+270
+00:13:40,740 --> 00:13:40,920
+Why?
+
+271
+00:13:40,920 --> 00:13:42,560
+Because if you get a single report
+
+272
+00:13:42,560 --> 00:13:44,180
+of a pilot mishearing a clearance,
+
+273
+00:13:44,300 --> 00:13:45,440
+that might just be an anecdote.
+
+274
+00:13:45,660 --> 00:13:45,840
+Right.
+
+275
+00:13:45,840 --> 00:13:48,040
+But if you start seeing a recurrent,
+
+276
+00:13:48,340 --> 00:13:49,720
+coded family of reports,
+
+277
+00:13:49,920 --> 00:13:51,540
+all showing confusion
+
+278
+00:13:51,540 --> 00:13:54,300
+at the exact same taxiway intersection in Chicago
+
+279
+00:13:54,300 --> 00:13:57,300
+under the exact same nighttime weather conditions,
+
+280
+00:13:57,720 --> 00:14:00,500
+you don't need a perfect statistical denominator
+
+281
+00:14:00,500 --> 00:14:01,900
+to know you have a problem.
+
+282
+00:14:02,040 --> 00:14:03,080
+You don't need to know exactly
+
+283
+00:14:03,080 --> 00:14:06,080
+how many planes successfully navigated that taxiway
+
+284
+00:14:06,080 --> 00:14:08,920
+to know that the signage is dangerously confusing
+
+285
+00:14:08,920 --> 00:14:11,420
+and needs to be repainted immediately.
+
+286
+00:14:12,220 --> 00:14:12,460
+Yes.
+
+287
+00:14:12,840 --> 00:14:14,960
+You act before the statistical estimate
+
+288
+00:14:14,960 --> 00:14:16,040
+is fully stabilized.
+
+289
+00:14:16,480 --> 00:14:17,700
+Because in aviation,
+
+290
+00:14:18,380 --> 00:14:19,660
+waiting for a perfect census
+
+291
+00:14:19,660 --> 00:14:21,240
+means waiting for a fireball.
+
+292
+00:14:21,420 --> 00:14:21,860
+Wow.
+
+293
+00:14:22,220 --> 00:14:23,280
+The ledger of mistakes
+
+294
+00:14:23,280 --> 00:14:25,060
+acts as a continuation device.
+
+295
+00:14:25,700 --> 00:14:26,820
+It's a pragmatic filter
+
+296
+00:14:26,820 --> 00:14:28,180
+for deciding which disturbances
+
+297
+00:14:28,180 --> 00:14:30,000
+deserve to reshape future action.
+
+298
+00:14:30,260 --> 00:14:31,520
+Now, to be fair to the critics,
+
+299
+00:14:31,660 --> 00:14:32,520
+fliction does include
+
+300
+00:14:32,520 --> 00:14:34,680
+some vital disconfirming evidence here.
+
+301
+00:14:34,680 --> 00:14:37,560
+ASRS relies heavily on soft data.
+
+302
+00:14:38,120 --> 00:14:39,100
+It's self-reported,
+
+303
+00:14:39,180 --> 00:14:40,940
+often completely uncorroborated
+
+304
+00:14:40,940 --> 00:14:42,260
+by flight data recorders.
+
+305
+00:14:42,580 --> 00:14:44,280
+And there is massive underreporting
+
+306
+00:14:44,280 --> 00:14:45,480
+of certain types of errors.
+
+307
+00:14:45,840 --> 00:14:47,520
+Plus, modern safety scholars
+
+308
+00:14:47,520 --> 00:14:49,540
+like Sidney Decker and Eric Hulnigel
+
+309
+00:14:49,540 --> 00:14:50,780
+have heavily criticized
+
+310
+00:14:50,780 --> 00:14:52,040
+relying too much
+
+311
+00:14:52,040 --> 00:14:54,260
+on James Reason's Swiss cheese model.
+
+312
+00:14:54,860 --> 00:14:56,360
+They argue that thinking of safety
+
+313
+00:14:56,360 --> 00:14:58,900
+as just a neat stack of static barriers
+
+314
+00:14:58,900 --> 00:15:00,940
+withhold in them is way too linear.
+
+315
+00:15:01,280 --> 00:15:01,520
+Yes.
+
+316
+00:15:01,660 --> 00:15:03,600
+They point out that real human systems
+
+317
+00:15:03,600 --> 00:15:04,880
+don't fail linearly.
+
+318
+00:15:05,120 --> 00:15:05,760
+They drift.
+
+319
+00:15:06,020 --> 00:15:06,240
+Right.
+
+320
+00:15:06,440 --> 00:15:07,980
+Humans constantly adapt,
+
+321
+00:15:08,140 --> 00:15:09,620
+cut corners to save time,
+
+322
+00:15:09,780 --> 00:15:11,100
+and reorganize in ways
+
+323
+00:15:11,100 --> 00:15:12,120
+the Swiss cheese model
+
+324
+00:15:12,120 --> 00:15:13,180
+doesn't capture well.
+
+325
+00:15:13,500 --> 00:15:15,660
+That critique of the Swiss cheese model
+
+326
+00:15:15,660 --> 00:15:16,260
+is vital.
+
+327
+00:15:16,780 --> 00:15:17,600
+Safety isn't just about
+
+328
+00:15:17,600 --> 00:15:19,140
+plugging holes in a static wall.
+
+329
+00:15:19,500 --> 00:15:20,580
+It's about managing
+
+330
+00:15:20,580 --> 00:15:22,300
+that constant dynamic drift.
+
+331
+00:15:22,500 --> 00:15:22,720
+Yeah.
+
+332
+00:15:23,020 --> 00:15:24,140
+But Fliction points out
+
+333
+00:15:24,140 --> 00:15:25,500
+that even with that critique,
+
+334
+00:15:25,700 --> 00:15:27,100
+the core argument holds up.
+
+335
+00:15:27,180 --> 00:15:28,320
+Because aviation proves
+
+336
+00:15:28,320 --> 00:15:29,140
+that a data system
+
+337
+00:15:29,140 --> 00:15:30,980
+doesn't have to be epistemically perfect
+
+338
+00:15:30,980 --> 00:15:32,140
+to be a working instrument
+
+339
+00:15:32,140 --> 00:15:33,160
+of learning and repair.
+
+340
+00:15:33,160 --> 00:15:33,640
+Exactly.
+
+341
+00:15:34,440 --> 00:15:34,620
+Okay.
+
+342
+00:15:34,720 --> 00:15:35,940
+So we've seen how aviation
+
+343
+00:15:35,940 --> 00:15:37,340
+uses procedural changes
+
+344
+00:15:37,340 --> 00:15:38,820
+like CRM cowl-outs
+
+345
+00:15:38,820 --> 00:15:39,700
+and new checklists
+
+346
+00:15:39,700 --> 00:15:40,820
+as its repair mechanism
+
+347
+00:15:40,820 --> 00:15:41,860
+to survive shocks.
+
+348
+00:15:42,120 --> 00:15:43,980
+But how do the physical systems
+
+349
+00:15:43,980 --> 00:15:45,520
+that move our goods survive?
+
+350
+00:15:45,780 --> 00:15:46,900
+That's a great transition.
+
+351
+00:15:47,320 --> 00:15:47,840
+I want to move
+
+352
+00:15:47,840 --> 00:15:48,720
+from the procedural
+
+353
+00:15:48,720 --> 00:15:50,640
+shock absorption in the sky
+
+354
+00:15:50,640 --> 00:15:52,780
+down to the physical shock absorption
+
+355
+00:15:52,780 --> 00:15:53,420
+in the warehouse.
+
+356
+00:15:54,300 --> 00:15:56,020
+Let's talk about supply chains
+
+357
+00:15:56,020 --> 00:15:56,820
+and something called
+
+358
+00:15:56,820 --> 00:15:57,920
+the bullwhip effect.
+
+359
+00:15:58,440 --> 00:16:00,200
+This is a fantastic application
+
+360
+00:16:00,200 --> 00:16:01,020
+of the theory
+
+361
+00:16:01,020 --> 00:16:02,420
+because we are shifting
+
+362
+00:16:02,420 --> 00:16:04,100
+from repairing human procedures
+
+363
+00:16:04,100 --> 00:16:06,380
+to repairing the physical flow
+
+364
+00:16:06,380 --> 00:16:07,880
+of matter across the globe.
+
+365
+00:16:07,880 --> 00:16:09,160
+The bullwhip effect.
+
+366
+00:16:09,860 --> 00:16:11,260
+Fliction cites the canonical
+
+367
+00:16:11,260 --> 00:16:13,440
+1997 management paper
+
+368
+00:16:13,440 --> 00:16:14,700
+by Hao L. Li,
+
+369
+00:16:15,160 --> 00:16:16,200
+V. Padmanahan,
+
+370
+00:16:16,480 --> 00:16:17,320
+and Sun Jin Wang.
+
+371
+00:16:17,760 --> 00:16:18,880
+And for everyone listening,
+
+372
+00:16:18,980 --> 00:16:20,360
+if you want to visualize this,
+
+373
+00:16:20,580 --> 00:16:22,180
+imagine holding a long bullwhip.
+
+374
+00:16:22,300 --> 00:16:23,300
+A very helpful visual.
+
+375
+00:16:23,300 --> 00:16:24,400
+You flick your wrist.
+
+376
+00:16:24,480 --> 00:16:25,260
+This is a tiny bit
+
+377
+00:16:25,260 --> 00:16:26,180
+of very small movement.
+
+378
+00:16:26,720 --> 00:16:27,860
+But as that wave travels
+
+379
+00:16:27,860 --> 00:16:28,600
+down the letter,
+
+380
+00:16:28,720 --> 00:16:29,600
+it amplifies
+
+381
+00:16:29,600 --> 00:16:31,240
+until the very tip of the whip
+
+382
+00:16:31,240 --> 00:16:32,120
+cracks violently.
+
+383
+00:16:32,420 --> 00:16:33,960
+That is exactly what happens
+
+384
+00:16:33,960 --> 00:16:34,840
+in a supply chain.
+
+385
+00:16:35,140 --> 00:16:35,760
+It's terrifying
+
+386
+00:16:35,760 --> 00:16:36,960
+how accurate that is.
+
+387
+00:16:37,040 --> 00:16:37,180
+Right.
+
+388
+00:16:37,320 --> 00:16:38,620
+And customer demand fluctuates
+
+389
+00:16:38,620 --> 00:16:39,920
+just a tiny bit
+
+390
+00:16:39,920 --> 00:16:41,200
+at your local retail store.
+
+391
+00:16:41,480 --> 00:16:42,840
+But as that order information
+
+392
+00:16:42,840 --> 00:16:43,540
+moves upstream
+
+393
+00:16:43,540 --> 00:16:44,400
+from the retailer
+
+394
+00:16:44,400 --> 00:16:45,960
+back to the regional distributor,
+
+395
+00:16:46,180 --> 00:16:47,580
+back to the massive manufacturer,
+
+396
+00:16:48,060 --> 00:16:50,260
+and finally to the raw material supplier,
+
+397
+00:16:50,400 --> 00:16:52,560
+the order sizes amplify wildly.
+
+398
+00:16:52,560 --> 00:16:54,240
+A ripple at the cash register
+
+399
+00:16:54,240 --> 00:16:55,760
+becomes a tsunami at the factory.
+
+400
+00:16:56,320 --> 00:16:58,000
+And in that 1997 paper,
+
+401
+00:16:58,440 --> 00:16:59,380
+the authors identified
+
+402
+00:16:59,380 --> 00:17:01,240
+four classic structural causes
+
+403
+00:17:01,240 --> 00:17:02,280
+for this distortion.
+
+404
+00:17:02,580 --> 00:17:02,760
+Right.
+
+405
+00:17:02,840 --> 00:17:04,840
+The first is demand signal processing.
+
+406
+00:17:05,480 --> 00:17:06,260
+How does that work?
+
+407
+00:17:06,580 --> 00:17:07,620
+Imagine a retailer
+
+408
+00:17:07,620 --> 00:17:09,580
+normally sells 10 bicycles a week.
+
+409
+00:17:10,660 --> 00:17:11,860
+Suddenly, one week,
+
+410
+00:17:12,200 --> 00:17:13,040
+they sell 15.
+
+411
+00:17:13,700 --> 00:17:15,740
+The retailer's forecasting algorithm
+
+412
+00:17:15,740 --> 00:17:17,180
+sees a 50% spike,
+
+413
+00:17:17,720 --> 00:17:18,320
+gets nervous,
+
+414
+00:17:18,740 --> 00:17:20,660
+and adjusts their future forecast up,
+
+415
+00:17:21,080 --> 00:17:22,020
+ordering 20 bikes
+
+416
+00:17:22,020 --> 00:17:22,820
+just to be safe.
+
+417
+00:17:23,000 --> 00:17:23,280
+Okay.
+
+418
+00:17:23,940 --> 00:17:24,720
+Makes sense locally.
+
+419
+00:17:25,260 --> 00:17:26,500
+But then the regional distributor
+
+420
+00:17:26,500 --> 00:17:27,620
+sees an order for 20,
+
+421
+00:17:28,280 --> 00:17:29,900
+assumes a massive biking trend
+
+422
+00:17:29,900 --> 00:17:30,960
+is sweeping the nation,
+
+423
+00:17:31,200 --> 00:17:33,260
+and orders 40 from the manufacturer.
+
+424
+00:17:33,600 --> 00:17:34,120
+Oh, wow.
+
+425
+00:17:34,200 --> 00:17:36,320
+So everyone is rationally overreacting
+
+426
+00:17:36,320 --> 00:17:37,760
+to the signal from the node
+
+427
+00:17:37,760 --> 00:17:38,760
+directly below them,
+
+428
+00:17:38,800 --> 00:17:39,640
+rather than looking at
+
+429
+00:17:39,640 --> 00:17:41,420
+what the actual end consumer is doing.
+
+430
+00:17:41,500 --> 00:17:41,960
+Exactly.
+
+431
+00:17:41,960 --> 00:17:43,420
+And the second cause
+
+432
+00:17:43,420 --> 00:17:44,520
+is order batching.
+
+433
+00:17:44,840 --> 00:17:46,500
+Which is just trying to save money
+
+434
+00:17:46,500 --> 00:17:47,100
+on shipping, right?
+
+435
+00:17:47,120 --> 00:17:47,260
+Yeah.
+
+436
+00:17:47,340 --> 00:17:48,520
+A distributor doesn't want to pay
+
+437
+00:17:48,520 --> 00:17:49,420
+for a truck to drive
+
+438
+00:17:49,420 --> 00:17:50,600
+across the country half empty.
+
+439
+00:17:50,740 --> 00:17:50,960
+Yeah.
+
+440
+00:17:51,080 --> 00:17:52,140
+It's economically inefficient.
+
+441
+00:17:52,420 --> 00:17:52,600
+Yeah.
+
+442
+00:17:52,920 --> 00:17:53,800
+So they wait.
+
+443
+00:17:54,440 --> 00:17:55,200
+They sit on the orders
+
+444
+00:17:55,200 --> 00:17:56,600
+until they have a massive batch
+
+445
+00:17:56,600 --> 00:17:58,200
+to send upstream all at once.
+
+446
+00:17:58,200 --> 00:17:59,780
+So to the manufacturer,
+
+447
+00:18:00,160 --> 00:18:01,180
+demand looks like it's
+
+448
+00:18:01,180 --> 00:18:03,120
+flatlining at zero for weeks,
+
+449
+00:18:03,120 --> 00:18:04,140
+and then suddenly
+
+450
+00:18:04,140 --> 00:18:05,360
+a massive spike
+
+451
+00:18:05,360 --> 00:18:06,220
+hits out of nowhere.
+
+452
+00:18:06,440 --> 00:18:06,740
+Right.
+
+453
+00:18:06,740 --> 00:18:07,860
+And the third cause
+
+454
+00:18:07,860 --> 00:18:09,220
+is price fluctuations,
+
+455
+00:18:09,800 --> 00:18:11,100
+specifically trade promotions.
+
+456
+00:18:12,120 --> 00:18:13,400
+A manufacturer might offer
+
+457
+00:18:13,400 --> 00:18:15,100
+a temporary end-of-quarter discount
+
+458
+00:18:15,100 --> 00:18:15,820
+on a product,
+
+459
+00:18:15,980 --> 00:18:17,080
+so the distributor,
+
+460
+00:18:17,520 --> 00:18:19,300
+acting entirely rationally
+
+461
+00:18:19,300 --> 00:18:20,440
+to maximize profit,
+
+462
+00:18:20,920 --> 00:18:21,600
+forward buys.
+
+463
+00:18:22,040 --> 00:18:23,440
+They purchase a year's wreath
+
+464
+00:18:23,440 --> 00:18:24,700
+of inventory all at once
+
+465
+00:18:24,700 --> 00:18:26,060
+to lock in the cheap price.
+
+466
+00:18:26,140 --> 00:18:26,480
+Exactly.
+
+467
+00:18:26,760 --> 00:18:27,840
+And this massive order
+
+468
+00:18:27,840 --> 00:18:29,200
+has absolutely nothing to do
+
+469
+00:18:29,200 --> 00:18:29,960
+with what the customer
+
+470
+00:18:29,960 --> 00:18:30,940
+is actually consuming,
+
+471
+00:18:31,240 --> 00:18:32,900
+but it completely shatters
+
+472
+00:18:32,900 --> 00:18:34,120
+the manufacturer's visibility
+
+473
+00:18:34,120 --> 00:18:35,500
+into true demand.
+
+474
+00:18:35,500 --> 00:18:36,660
+And the fourth cause
+
+475
+00:18:36,660 --> 00:18:37,800
+is rationing
+
+476
+00:18:37,800 --> 00:18:38,660
+and shortage gaming,
+
+477
+00:18:38,780 --> 00:18:39,460
+which I think we've all
+
+478
+00:18:39,460 --> 00:18:40,260
+lived through recently.
+
+479
+00:18:40,420 --> 00:18:41,040
+We definitely have.
+
+480
+00:18:41,060 --> 00:18:41,900
+If a new smartphone
+
+481
+00:18:41,900 --> 00:18:42,980
+or video game console
+
+482
+00:18:42,980 --> 00:18:44,160
+is short on supply
+
+483
+00:18:44,160 --> 00:18:45,200
+and the manufacturer
+
+484
+00:18:45,200 --> 00:18:46,020
+tells the retailers,
+
+485
+00:18:46,240 --> 00:18:47,220
+look, we can only fulfill
+
+486
+00:18:47,220 --> 00:18:48,980
+50% of whatever you order,
+
+487
+00:18:49,480 --> 00:18:50,560
+what does the retailer do?
+
+488
+00:18:50,660 --> 00:18:51,600
+They game the system.
+
+489
+00:18:51,720 --> 00:18:51,880
+Right.
+
+490
+00:18:51,940 --> 00:18:52,760
+They order double
+
+491
+00:18:52,760 --> 00:18:53,840
+what they actually need.
+
+492
+00:18:54,180 --> 00:18:54,580
+Exactly.
+
+493
+00:18:54,900 --> 00:18:56,520
+Knowing it will get cut in half,
+
+494
+00:18:56,540 --> 00:18:57,200
+so they end up
+
+495
+00:18:57,200 --> 00:18:58,200
+with their true requirement.
+
+496
+00:18:58,560 --> 00:18:59,600
+But the manufacturer
+
+497
+00:18:59,600 --> 00:19:00,580
+just sees demand
+
+498
+00:19:00,580 --> 00:19:01,640
+doubling overnight.
+
+499
+00:19:01,960 --> 00:19:02,520
+And as soon as
+
+500
+00:19:02,520 --> 00:19:03,360
+the shortage is over,
+
+501
+00:19:03,540 --> 00:19:04,660
+the retailers cancel
+
+502
+00:19:04,660 --> 00:19:05,480
+all those phantom
+
+503
+00:19:05,500 --> 00:19:07,060
+mortars and the manufacturers
+
+504
+00:19:07,060 --> 00:19:08,200
+left holding the bag.
+
+505
+00:19:08,600 --> 00:19:09,440
+And beyond those
+
+506
+00:19:09,440 --> 00:19:10,900
+four mechanical causes,
+
+507
+00:19:11,640 --> 00:19:12,580
+Fliction brings in
+
+508
+00:19:12,580 --> 00:19:13,840
+John Sturman's famous
+
+509
+00:19:13,840 --> 00:19:15,400
+beer game experiment
+
+510
+00:19:15,400 --> 00:19:16,520
+from MIT.
+
+511
+00:19:17,240 --> 00:19:18,220
+It's a simulation
+
+512
+00:19:18,220 --> 00:19:19,540
+where students manage
+
+513
+00:19:19,540 --> 00:19:20,720
+a beer supply chain.
+
+514
+00:19:20,840 --> 00:19:21,860
+And what did that show?
+
+515
+00:19:22,220 --> 00:19:22,960
+Sturman showed that
+
+516
+00:19:22,960 --> 00:19:23,920
+even if you remove
+
+517
+00:19:23,920 --> 00:19:24,740
+price promotions
+
+518
+00:19:24,740 --> 00:19:26,060
+and shortage gaming entirely,
+
+519
+00:19:26,540 --> 00:19:27,260
+the bullwhip effect
+
+520
+00:19:27,260 --> 00:19:28,740
+still happens purely
+
+521
+00:19:28,740 --> 00:19:29,580
+because of bounded
+
+522
+00:19:29,580 --> 00:19:30,640
+human rationality.
+
+523
+00:19:31,420 --> 00:19:32,740
+People systematically
+
+524
+00:19:32,740 --> 00:19:34,220
+underweight the supply line.
+
+525
+00:19:34,220 --> 00:19:35,420
+Meaning what exactly?
+
+526
+00:19:35,860 --> 00:19:36,980
+Meaning people forget
+
+527
+00:19:36,980 --> 00:19:37,700
+about the delays.
+
+528
+00:19:38,660 --> 00:19:39,300
+You place an order
+
+529
+00:19:39,300 --> 00:19:40,060
+for inventory.
+
+530
+00:19:40,560 --> 00:19:41,780
+It doesn't arrive on Tuesday
+
+531
+00:19:41,780 --> 00:19:42,900
+because of shipping delays.
+
+532
+00:19:43,260 --> 00:19:43,960
+You panic,
+
+533
+00:19:44,200 --> 00:19:45,260
+assuming the order was lost,
+
+534
+00:19:45,440 --> 00:19:46,720
+and you place a second order
+
+535
+00:19:46,720 --> 00:19:47,260
+on Wednesday.
+
+536
+00:19:48,000 --> 00:19:48,920
+You completely fail
+
+537
+00:19:48,920 --> 00:19:49,780
+to account for the fact
+
+538
+00:19:49,780 --> 00:19:50,520
+that the first order
+
+539
+00:19:50,520 --> 00:19:51,360
+is still in transit.
+
+540
+00:19:51,620 --> 00:19:51,960
+Oh.
+
+541
+00:19:52,160 --> 00:19:52,920
+It's exactly like
+
+542
+00:19:52,920 --> 00:19:53,780
+standing at an elevator
+
+543
+00:19:53,780 --> 00:19:54,580
+pressing the button
+
+544
+00:19:54,580 --> 00:19:55,280
+and when the doors
+
+545
+00:19:55,280 --> 00:19:56,580
+don't open in five seconds,
+
+546
+00:19:56,720 --> 00:19:58,100
+you angrily press the button
+
+547
+00:19:58,100 --> 00:19:58,960
+four more times.
+
+548
+00:19:59,380 --> 00:20:00,000
+Pressing it more
+
+549
+00:20:00,000 --> 00:20:00,860
+doesn't make the elevator
+
+550
+00:20:00,860 --> 00:20:01,700
+travel faster.
+
+551
+00:20:02,240 --> 00:20:03,460
+It just sends redundant
+
+552
+00:20:03,460 --> 00:20:04,760
+panicked signals
+
+553
+00:20:04,760 --> 00:20:05,540
+to the system.
+
+554
+00:20:05,660 --> 00:20:06,180
+Precisely.
+
+555
+00:20:06,620 --> 00:20:08,560
+Now, usually in business schools,
+
+556
+00:20:08,840 --> 00:20:09,500
+the bullwhip effect
+
+557
+00:20:09,500 --> 00:20:10,300
+is taught purely
+
+558
+00:20:10,300 --> 00:20:11,200
+as an information
+
+559
+00:20:11,200 --> 00:20:12,220
+distortion problem.
+
+560
+00:20:12,680 --> 00:20:14,040
+People misread signals.
+
+561
+00:20:14,260 --> 00:20:15,280
+But Fliction argues
+
+562
+00:20:15,280 --> 00:20:16,740
+this is an incomplete picture.
+
+563
+00:20:17,060 --> 00:20:17,620
+Fliction says
+
+564
+00:20:17,620 --> 00:20:18,440
+the bullwhip effect
+
+565
+00:20:18,440 --> 00:20:19,440
+is actually a crisis
+
+566
+00:20:19,440 --> 00:20:21,400
+of exhausted repair capacity.
+
+567
+00:20:21,400 --> 00:20:22,460
+And this reframing
+
+568
+00:20:22,460 --> 00:20:23,120
+is brilliant.
+
+569
+00:20:23,860 --> 00:20:24,340
+Fliction says
+
+570
+00:20:24,340 --> 00:20:25,500
+we completely misunderstand
+
+571
+00:20:25,500 --> 00:20:27,120
+what buffer inventory
+
+572
+00:20:27,120 --> 00:20:28,300
+actually is.
+
+573
+00:20:28,900 --> 00:20:29,060
+Right.
+
+574
+00:20:29,160 --> 00:20:30,840
+Because in modern business,
+
+575
+00:20:31,000 --> 00:20:31,580
+we are taught
+
+576
+00:20:31,580 --> 00:20:33,360
+that having extra inventory
+
+577
+00:20:33,360 --> 00:20:34,680
+sitting on a warehouse shelf
+
+578
+00:20:34,680 --> 00:20:35,640
+is a sin.
+
+579
+00:20:36,100 --> 00:20:37,480
+It's expensive slack.
+
+580
+00:20:37,800 --> 00:20:39,320
+It's a waste of working capital,
+
+581
+00:20:39,580 --> 00:20:40,800
+a waste of floor space.
+
+582
+00:20:41,320 --> 00:20:42,120
+But Fliction says
+
+583
+00:20:42,120 --> 00:20:43,380
+no, that physical buffer
+
+584
+00:20:43,380 --> 00:20:44,400
+is a system's
+
+585
+00:20:44,400 --> 00:20:45,660
+local repair capacity.
+
+586
+00:20:45,660 --> 00:20:47,360
+It is the literal
+
+587
+00:20:47,360 --> 00:20:48,340
+physical ability
+
+588
+00:20:48,340 --> 00:20:49,760
+of that specific warehouse
+
+589
+00:20:49,760 --> 00:20:51,760
+to absorb a demand shock
+
+590
+00:20:51,760 --> 00:20:53,040
+without screaming upstream
+
+591
+00:20:53,040 --> 00:20:53,700
+for help.
+
+592
+00:20:54,000 --> 00:20:54,920
+Think about it structurally.
+
+593
+00:20:54,920 --> 00:20:56,060
+If a retailer runs
+
+594
+00:20:56,060 --> 00:20:57,460
+a perfectly lean operation
+
+595
+00:20:57,460 --> 00:20:58,860
+with zero safety stock
+
+596
+00:20:58,860 --> 00:21:00,140
+and a customer walks in
+
+597
+00:21:00,140 --> 00:21:01,780
+and buys just two extra units,
+
+598
+00:21:02,180 --> 00:21:03,360
+that retailer is immediately
+
+599
+00:21:03,360 --> 00:21:04,300
+forced into a state
+
+600
+00:21:04,300 --> 00:21:05,840
+of inadmissible continuation.
+
+601
+00:21:06,380 --> 00:21:07,520
+They literally cannot
+
+602
+00:21:07,520 --> 00:21:08,660
+fulfill the next customer
+
+603
+00:21:08,660 --> 00:21:09,840
+who walks through the door.
+
+604
+00:21:10,180 --> 00:21:11,000
+Because they lack
+
+605
+00:21:11,000 --> 00:21:11,680
+a local buffer,
+
+606
+00:21:11,920 --> 00:21:12,820
+they have no choice
+
+607
+00:21:12,820 --> 00:21:14,080
+but to immediately export
+
+608
+00:21:14,080 --> 00:21:15,360
+that volatility upstream.
+
+609
+00:21:15,680 --> 00:21:16,280
+They have to place
+
+610
+00:21:16,280 --> 00:21:17,220
+an emergency order.
+
+611
+00:21:17,560 --> 00:21:18,180
+But if they had
+
+612
+00:21:18,180 --> 00:21:20,140
+a small strategic buffer,
+
+613
+00:21:21,020 --> 00:21:22,680
+a physical repair capacity,
+
+614
+00:21:23,200 --> 00:21:23,980
+they could absorb
+
+615
+00:21:23,980 --> 00:21:25,620
+that minor hiccup locally.
+
+616
+00:21:26,220 --> 00:21:26,920
+The manufacturer
+
+617
+00:21:26,920 --> 00:21:27,840
+would never even know
+
+618
+00:21:27,840 --> 00:21:28,380
+it happened.
+
+619
+00:21:28,580 --> 00:21:29,560
+So the Bullup effect
+
+620
+00:21:29,560 --> 00:21:30,300
+on this reading
+
+621
+00:21:30,300 --> 00:21:31,220
+is what happens
+
+622
+00:21:31,220 --> 00:21:33,360
+when continuation fails locally
+
+623
+00:21:33,360 --> 00:21:34,780
+because shock absorption
+
+624
+00:21:34,780 --> 00:21:35,620
+has been thinned out
+
+625
+00:21:35,620 --> 00:21:36,460
+so aggressively
+
+626
+00:21:36,460 --> 00:21:39,220
+that ordinary daily variation
+
+627
+00:21:39,220 --> 00:21:40,260
+has to be amplified
+
+628
+00:21:40,260 --> 00:21:41,460
+and pushed elsewhere.
+
+629
+00:21:41,700 --> 00:21:43,160
+This brings us directly
+
+630
+00:21:43,160 --> 00:21:44,100
+to the holy grail
+
+631
+00:21:44,100 --> 00:21:45,380
+of modern manufacturing.
+
+632
+00:21:46,280 --> 00:21:47,640
+The Toyota production system,
+
+633
+00:21:47,740 --> 00:21:48,720
+or TPS.
+
+634
+00:21:48,960 --> 00:21:49,720
+The birthplace
+
+635
+00:21:49,720 --> 00:21:51,320
+of just-in-time manufacturing?
+
+636
+00:21:51,320 --> 00:21:51,760
+Right.
+
+637
+00:21:52,280 --> 00:21:53,260
+Taichi Ono designed
+
+638
+00:21:53,260 --> 00:21:53,800
+this system
+
+639
+00:21:53,800 --> 00:21:54,920
+in post-war Japan
+
+640
+00:21:54,920 --> 00:21:55,800
+specifically
+
+641
+00:21:55,800 --> 00:21:57,220
+to minimize inventory.
+
+642
+00:21:57,880 --> 00:21:58,560
+And on the surface,
+
+643
+00:21:59,200 --> 00:22:00,220
+that seems to completely
+
+644
+00:22:00,220 --> 00:22:01,620
+contradict Flixion's point
+
+645
+00:22:01,620 --> 00:22:02,660
+about needing buffers.
+
+646
+00:22:03,020 --> 00:22:03,980
+But Flixion points out
+
+647
+00:22:03,980 --> 00:22:05,080
+the massive difference
+
+648
+00:22:05,080 --> 00:22:06,020
+between the true,
+
+649
+00:22:06,180 --> 00:22:07,020
+authentic Toyota
+
+650
+00:22:07,020 --> 00:22:07,880
+production system
+
+651
+00:22:07,880 --> 00:22:08,920
+and the cheap
+
+652
+00:22:08,920 --> 00:22:10,380
+just-in-time knockoffs
+
+653
+00:22:10,380 --> 00:22:11,380
+that Western companies
+
+654
+00:22:11,380 --> 00:22:12,220
+tried to implement
+
+655
+00:22:12,220 --> 00:22:13,380
+in the 1990s.
+
+656
+00:22:13,700 --> 00:22:14,660
+And understanding
+
+657
+00:22:14,660 --> 00:22:15,400
+that difference
+
+658
+00:22:15,400 --> 00:22:16,100
+is crucial.
+
+659
+00:22:16,100 --> 00:22:18,240
+The popular caricature
+
+660
+00:22:18,240 --> 00:22:19,280
+of just-in-time
+
+661
+00:22:19,280 --> 00:22:20,680
+is that you simply
+
+662
+00:22:20,680 --> 00:22:22,320
+fire your warehouse staff
+
+663
+00:22:22,320 --> 00:22:23,880
+and cut inventory
+
+664
+00:22:23,880 --> 00:22:24,540
+to zero
+
+665
+00:22:24,540 --> 00:22:25,820
+to save cash.
+
+666
+00:22:26,320 --> 00:22:27,360
+But Toyota didn't just
+
+667
+00:22:27,360 --> 00:22:29,160
+slash inventory blindly.
+
+668
+00:22:29,800 --> 00:22:31,420
+They reduced physical stock
+
+669
+00:22:31,420 --> 00:22:32,520
+while simultaneously
+
+670
+00:22:32,520 --> 00:22:33,800
+building incredibly
+
+671
+00:22:33,800 --> 00:22:35,120
+high process discipline.
+
+672
+00:22:35,340 --> 00:22:35,620
+Yes.
+
+673
+00:22:35,920 --> 00:22:36,860
+They used physical
+
+674
+00:22:36,860 --> 00:22:37,740
+Kanban cards
+
+675
+00:22:37,740 --> 00:22:39,060
+to perfectly synchronize
+
+676
+00:22:39,060 --> 00:22:39,500
+production.
+
+677
+00:22:40,520 --> 00:22:41,540
+Any worker on the line
+
+678
+00:22:41,540 --> 00:22:42,920
+could pull the and-on cord
+
+679
+00:22:42,920 --> 00:22:44,380
+and stop the entire factory
+
+680
+00:22:44,380 --> 00:22:45,680
+if they spotted a defect.
+
+681
+00:22:45,680 --> 00:22:46,760
+And more importantly,
+
+682
+00:22:46,960 --> 00:22:48,080
+Toyota built deep,
+
+683
+00:22:48,440 --> 00:22:49,140
+long-term,
+
+684
+00:22:49,400 --> 00:22:50,800
+highly integrated trust
+
+685
+00:22:50,800 --> 00:22:51,700
+with their suppliers.
+
+686
+00:22:52,040 --> 00:22:53,180
+So their repair capacity
+
+687
+00:22:53,180 --> 00:22:54,460
+wasn't a giant warehouse
+
+688
+00:22:54,460 --> 00:22:55,500
+full of spare parts.
+
+689
+00:22:55,940 --> 00:22:57,360
+It was distributed repair.
+
+690
+00:22:57,620 --> 00:22:59,180
+It was rapid problem-solving,
+
+691
+00:22:59,300 --> 00:23:00,140
+immediate visibility,
+
+692
+00:23:00,540 --> 00:23:01,540
+and a social network
+
+693
+00:23:01,540 --> 00:23:02,120
+of suppliers
+
+694
+00:23:02,120 --> 00:23:03,400
+who could pivot on a dime.
+
+695
+00:23:03,620 --> 00:23:03,920
+Yes.
+
+696
+00:23:04,580 --> 00:23:05,960
+The system absorbed shocks
+
+697
+00:23:05,960 --> 00:23:07,460
+through organizational agility
+
+698
+00:23:07,460 --> 00:23:08,320
+and transparency.
+
+699
+00:23:08,840 --> 00:23:09,960
+The knockoff versions
+
+700
+00:23:09,960 --> 00:23:11,220
+implemented by other companies
+
+701
+00:23:11,220 --> 00:23:12,440
+just cut the inventory
+
+702
+00:23:12,440 --> 00:23:13,580
+to artificially boost
+
+703
+00:23:13,580 --> 00:23:14,520
+their quarterly earnings.
+
+704
+00:23:14,520 --> 00:23:15,480
+They didn't build
+
+705
+00:23:15,480 --> 00:23:16,860
+the deep supplier relationships,
+
+706
+00:23:17,180 --> 00:23:18,040
+they didn't implement
+
+707
+00:23:18,040 --> 00:23:19,420
+the and-on-cord culture
+
+708
+00:23:19,420 --> 00:23:20,660
+of stopping to fix errors,
+
+709
+00:23:20,820 --> 00:23:21,600
+and they ended up
+
+710
+00:23:21,600 --> 00:23:22,920
+with incredibly brittle,
+
+711
+00:23:23,240 --> 00:23:24,180
+fragile systems.
+
+712
+00:23:24,480 --> 00:23:25,360
+And the world
+
+713
+00:23:25,360 --> 00:23:27,100
+saw exactly how fragile
+
+714
+00:23:27,100 --> 00:23:28,400
+during the 2011
+
+715
+00:23:28,400 --> 00:23:29,440
+Tuchoku earthquake
+
+716
+00:23:29,440 --> 00:23:30,660
+and tsunami in Japan.
+
+717
+00:23:31,080 --> 00:23:32,220
+That was a wake-up call
+
+718
+00:23:32,220 --> 00:23:33,060
+for everybody.
+
+719
+00:23:33,280 --> 00:23:34,040
+The devastation
+
+720
+00:23:34,040 --> 00:23:34,840
+from that earthquake
+
+721
+00:23:34,840 --> 00:23:36,680
+cascaded across the globe
+
+722
+00:23:36,680 --> 00:23:38,040
+in ways nobody predicted.
+
+723
+00:23:38,740 --> 00:23:40,000
+Western automotive companies
+
+724
+00:23:40,000 --> 00:23:40,800
+thought they were running
+
+725
+00:23:40,800 --> 00:23:42,000
+incredibly lean,
+
+726
+00:23:42,420 --> 00:23:42,820
+efficient,
+
+727
+00:23:43,040 --> 00:23:44,020
+globally diversified
+
+728
+00:23:44,020 --> 00:23:44,860
+supply chains.
+
+729
+00:23:45,020 --> 00:23:45,660
+But it turned out
+
+730
+00:23:45,660 --> 00:23:46,920
+they were entirely dependent
+
+731
+00:23:46,920 --> 00:23:47,820
+on hidden,
+
+732
+00:23:48,120 --> 00:23:49,200
+single-source suppliers
+
+733
+00:23:49,200 --> 00:23:50,300
+buried deep
+
+734
+00:23:50,300 --> 00:23:51,720
+in their sub-tier networks.
+
+735
+00:23:52,000 --> 00:23:52,540
+For example,
+
+736
+00:23:52,760 --> 00:23:53,880
+a company called Rinesis,
+
+737
+00:23:54,040 --> 00:23:54,920
+a critical producer
+
+738
+00:23:54,920 --> 00:23:56,540
+of automotive microcontrollers,
+
+739
+00:23:57,000 --> 00:23:57,800
+was hit hard
+
+740
+00:23:57,800 --> 00:23:58,440
+by the quake.
+
+741
+00:23:58,860 --> 00:24:00,160
+Because the global supply chain
+
+742
+00:24:00,160 --> 00:24:01,060
+had optimized away
+
+743
+00:24:01,060 --> 00:24:02,100
+all their buffer stock,
+
+744
+00:24:02,100 --> 00:24:03,120
+and because they had
+
+745
+00:24:03,120 --> 00:24:04,160
+no visibility into
+
+746
+00:24:04,160 --> 00:24:05,100
+who was actually making
+
+747
+00:24:05,100 --> 00:24:06,020
+these microcontrollers
+
+748
+00:24:06,020 --> 00:24:07,580
+at Tier 3 or Tier 4 levels,
+
+749
+00:24:08,280 --> 00:24:09,300
+car plants in Europe
+
+750
+00:24:09,300 --> 00:24:09,820
+and America
+
+751
+00:24:09,820 --> 00:24:11,120
+suddenly had to halt production.
+
+752
+00:24:11,300 --> 00:24:12,540
+The local component outage
+
+753
+00:24:12,540 --> 00:24:13,840
+became a global crisis
+
+754
+00:24:13,840 --> 00:24:14,660
+because the local
+
+755
+00:24:14,660 --> 00:24:15,540
+repair capacity,
+
+756
+00:24:15,740 --> 00:24:17,080
+whether that was buffer stock
+
+757
+00:24:17,080 --> 00:24:18,460
+or alternative
+
+758
+00:24:18,460 --> 00:24:19,700
+pre-vetted suppliers,
+
+759
+00:24:19,840 --> 00:24:20,760
+was non-existent.
+
+760
+00:24:21,380 --> 00:24:22,440
+So if driving
+
+761
+00:24:22,440 --> 00:24:23,360
+a lean supply chain
+
+762
+00:24:23,360 --> 00:24:24,480
+is like driving your car
+
+763
+00:24:24,480 --> 00:24:25,540
+without a spare tire
+
+764
+00:24:25,540 --> 00:24:26,880
+just to save a tiny bit
+
+765
+00:24:26,880 --> 00:24:27,680
+on gas mileage,
+
+766
+00:24:27,840 --> 00:24:28,660
+is the answer
+
+767
+00:24:28,660 --> 00:24:29,780
+just to hoard everything.
+
+768
+00:24:30,420 --> 00:24:31,320
+Should companies
+
+769
+00:24:31,320 --> 00:24:33,280
+just build massive warehouses
+
+770
+00:24:33,280 --> 00:24:35,080
+and hold three years' worth
+
+771
+00:24:35,080 --> 00:24:36,520
+of every single microchip
+
+772
+00:24:36,520 --> 00:24:37,000
+and screw?
+
+773
+00:24:37,360 --> 00:24:38,280
+Absolutely not.
+
+774
+00:24:38,640 --> 00:24:40,260
+And the 2020 to 2022
+
+775
+00:24:40,260 --> 00:24:41,820
+global semiconductor shortage
+
+776
+00:24:41,820 --> 00:24:43,060
+is the perfect,
+
+777
+00:24:43,420 --> 00:24:44,300
+painful example
+
+778
+00:24:44,300 --> 00:24:45,420
+of why hoarding
+
+779
+00:24:45,420 --> 00:24:46,300
+destroys systems.
+
+780
+00:24:46,380 --> 00:24:46,900
+Oh man,
+
+781
+00:24:47,020 --> 00:24:47,880
+the chip shortage.
+
+782
+00:24:47,980 --> 00:24:48,540
+I remember you couldn't
+
+783
+00:24:48,540 --> 00:24:49,060
+buy a car,
+
+784
+00:24:49,140 --> 00:24:49,920
+you couldn't buy a PlayStation,
+
+785
+00:24:50,260 --> 00:24:51,120
+it was wild.
+
+786
+00:24:51,220 --> 00:24:51,420
+Right.
+
+787
+00:24:51,680 --> 00:24:52,740
+When that shortage hit
+
+788
+00:24:52,740 --> 00:24:53,760
+and the pandemic
+
+789
+00:24:53,760 --> 00:24:54,620
+disrupted shipping,
+
+790
+00:24:55,240 --> 00:24:56,020
+companies panicked.
+
+791
+00:24:56,600 --> 00:24:57,380
+They engaged
+
+792
+00:24:57,380 --> 00:24:57,960
+in the ultimate
+
+793
+00:24:57,960 --> 00:24:58,740
+shortage gaming.
+
+794
+00:24:59,240 --> 00:25:00,320
+They started panic ordering
+
+795
+00:25:00,320 --> 00:25:01,120
+and double ordering
+
+796
+00:25:01,120 --> 00:25:01,820
+components from
+
+797
+00:25:01,820 --> 00:25:02,920
+foundries in Taiwan.
+
+798
+00:25:03,060 --> 00:25:03,580
+But the panic
+
+799
+00:25:03,580 --> 00:25:04,080
+didn't create
+
+800
+00:25:04,080 --> 00:25:05,360
+genuine repair capacity.
+
+801
+00:25:05,760 --> 00:25:06,820
+It weaponized inventory.
+
+802
+00:25:07,380 --> 00:25:08,240
+A giant pile
+
+803
+00:25:08,240 --> 00:25:09,360
+of the wrong microchip
+
+804
+00:25:09,360 --> 00:25:10,020
+doesn't help you
+
+805
+00:25:10,020 --> 00:25:10,800
+finish building a car
+
+806
+00:25:10,800 --> 00:25:11,360
+if you're missing
+
+807
+00:25:11,360 --> 00:25:12,880
+a different 50 cent sensor.
+
+808
+00:25:13,180 --> 00:25:14,220
+Hoarding just tied up
+
+809
+00:25:14,220 --> 00:25:15,360
+billions of dollars
+
+810
+00:25:15,360 --> 00:25:16,260
+in working capital,
+
+811
+00:25:16,740 --> 00:25:17,720
+completely distorted
+
+812
+00:25:17,720 --> 00:25:18,760
+the demand signal
+
+813
+00:25:18,760 --> 00:25:19,580
+for the foundries,
+
+814
+00:25:19,900 --> 00:25:21,660
+and made the bullwhip effect
+
+815
+00:25:21,660 --> 00:25:22,820
+infinitely worse.
+
+816
+00:25:23,520 --> 00:25:24,880
+Fliction is very clear here.
+
+817
+00:25:25,600 --> 00:25:26,460
+More inventory
+
+818
+00:25:26,460 --> 00:25:28,120
+is not simply better.
+
+819
+00:25:29,120 --> 00:25:30,120
+A tumor is growth,
+
+820
+00:25:30,280 --> 00:25:31,220
+but it isn't healthy.
+
+821
+00:25:31,940 --> 00:25:32,800
+Repair capacity
+
+822
+00:25:32,800 --> 00:25:33,760
+has to be targeted,
+
+823
+00:25:34,300 --> 00:25:35,240
+it has to be visible,
+
+824
+00:25:35,540 --> 00:25:36,460
+and it has to be
+
+825
+00:25:36,460 --> 00:25:37,520
+relationally supported
+
+826
+00:25:37,520 --> 00:25:38,260
+by the network.
+
+827
+00:25:38,720 --> 00:25:39,320
+So we've looked
+
+828
+00:25:39,320 --> 00:25:40,060
+at physical goods
+
+829
+00:25:40,060 --> 00:25:40,740
+breaking down
+
+830
+00:25:40,740 --> 00:25:42,420
+and how strategic buffers
+
+831
+00:25:42,420 --> 00:25:43,440
+repair those breaks.
+
+832
+00:25:43,960 --> 00:25:45,100
+But physical goods
+
+833
+00:25:45,100 --> 00:25:45,640
+don't move
+
+834
+00:25:45,640 --> 00:25:46,740
+without human agreements.
+
+835
+00:25:47,440 --> 00:25:48,280
+Let's look at
+
+836
+00:25:48,280 --> 00:25:49,360
+the invisible rules
+
+837
+00:25:49,360 --> 00:25:49,880
+that govern
+
+838
+00:25:49,880 --> 00:25:50,940
+how those goods move.
+
+839
+00:25:51,460 --> 00:25:52,260
+Let's dive into
+
+840
+00:25:52,260 --> 00:25:53,140
+contract law.
+
+841
+00:25:53,240 --> 00:25:53,560
+Yes.
+
+842
+00:25:53,740 --> 00:25:54,760
+Because Fliction argues
+
+843
+00:25:54,760 --> 00:25:55,420
+that a contract
+
+844
+00:25:55,420 --> 00:25:56,480
+is not just a static
+
+845
+00:25:56,480 --> 00:25:57,140
+piece of paper
+
+846
+00:25:57,140 --> 00:25:58,040
+sitting in a lawyer's
+
+847
+00:25:58,040 --> 00:25:58,700
+filing cabinet.
+
+848
+00:25:59,080 --> 00:26:00,240
+It is a meticulously
+
+849
+00:26:00,240 --> 00:26:01,260
+managed trajectory
+
+850
+00:26:01,260 --> 00:26:02,080
+of human behavior.
+
+851
+00:26:02,280 --> 00:26:03,100
+This is one of the most
+
+852
+00:26:03,100 --> 00:26:04,080
+fascinating applications
+
+853
+00:26:04,080 --> 00:26:04,780
+of the theory
+
+854
+00:26:04,780 --> 00:26:05,620
+because it challenges
+
+855
+00:26:05,620 --> 00:26:06,240
+how lawyers
+
+856
+00:26:06,240 --> 00:26:07,320
+are fundamentally trained.
+
+857
+00:26:08,040 --> 00:26:08,620
+In law school,
+
+858
+00:26:09,000 --> 00:26:10,220
+classical contract doctrine
+
+859
+00:26:10,220 --> 00:26:11,140
+is taught strictly
+
+860
+00:26:11,140 --> 00:26:11,900
+chronologically.
+
+861
+00:26:12,280 --> 00:26:12,480
+Right.
+
+862
+00:26:12,680 --> 00:26:13,760
+You start with a concept
+
+863
+00:26:13,760 --> 00:26:14,640
+called formation.
+
+864
+00:26:15,520 --> 00:26:16,540
+According to the restatement,
+
+865
+00:26:16,840 --> 00:26:17,060
+second,
+
+866
+00:26:17,240 --> 00:26:17,920
+of contracts,
+
+867
+00:26:18,580 --> 00:26:19,760
+to form a contract,
+
+868
+00:26:20,200 --> 00:26:21,120
+you need an offer,
+
+869
+00:26:21,360 --> 00:26:22,760
+an acceptance of that offer,
+
+870
+00:26:23,000 --> 00:26:23,720
+and consideration,
+
+871
+00:26:24,040 --> 00:26:24,620
+which just means
+
+872
+00:26:24,620 --> 00:26:25,920
+a bargain for exchange
+
+873
+00:26:25,920 --> 00:26:26,460
+of value.
+
+874
+00:26:26,820 --> 00:26:28,060
+And this is heavily taught
+
+875
+00:26:28,060 --> 00:26:28,980
+as if you were building
+
+876
+00:26:28,980 --> 00:26:30,180
+a static object.
+
+877
+00:26:30,640 --> 00:26:31,900
+Does the contract exist?
+
+878
+00:26:32,000 --> 00:26:32,580
+Yes or no?
+
+879
+00:26:32,940 --> 00:26:34,180
+Is the object valid?
+
+880
+00:26:34,640 --> 00:26:35,640
+And only much later
+
+881
+00:26:35,640 --> 00:26:36,300
+in the semester,
+
+882
+00:26:36,740 --> 00:26:38,180
+as a completely separate topic,
+
+883
+00:26:38,620 --> 00:26:39,440
+do you learn about
+
+884
+00:26:39,440 --> 00:26:40,120
+what happens
+
+885
+00:26:40,120 --> 00:26:41,300
+when someone breaches
+
+886
+00:26:41,300 --> 00:26:42,000
+the contract
+
+887
+00:26:42,000 --> 00:26:43,340
+and what the remedies are.
+
+888
+00:26:43,740 --> 00:26:43,940
+Right.
+
+889
+00:26:44,020 --> 00:26:44,640
+It's taught like,
+
+890
+00:26:44,860 --> 00:26:45,760
+first we build the box
+
+891
+00:26:45,760 --> 00:26:46,700
+and then six weeks later
+
+892
+00:26:46,700 --> 00:26:47,620
+we discuss what happens
+
+893
+00:26:47,620 --> 00:26:48,940
+if someone smashes the box.
+
+894
+00:26:49,140 --> 00:26:49,900
+But Fliction
+
+895
+00:26:49,900 --> 00:26:52,240
+completely flips this framework.
+
+896
+00:26:52,640 --> 00:26:53,300
+Fliction says
+
+897
+00:26:53,300 --> 00:26:54,740
+formation isn't the creation
+
+898
+00:26:54,740 --> 00:26:55,880
+of a static object.
+
+899
+00:26:56,600 --> 00:26:57,380
+Formation is just
+
+900
+00:26:57,380 --> 00:26:58,720
+the admissibility gate.
+
+901
+00:26:58,720 --> 00:27:00,540
+It is the strict set of rules
+
+902
+00:27:00,540 --> 00:27:01,220
+that decides
+
+903
+00:27:01,220 --> 00:27:02,300
+whether the legal system
+
+904
+00:27:02,300 --> 00:27:03,100
+will even allow
+
+905
+00:27:03,100 --> 00:27:03,820
+your relationship
+
+906
+00:27:03,820 --> 00:27:05,020
+to enter a legally
+
+907
+00:27:05,020 --> 00:27:06,000
+supervised trajectory
+
+908
+00:27:06,000 --> 00:27:06,960
+in the first place.
+
+909
+00:27:07,220 --> 00:27:08,000
+And viewing it
+
+910
+00:27:08,000 --> 00:27:09,320
+as an admissibility gate
+
+911
+00:27:09,320 --> 00:27:10,720
+explains why the law
+
+912
+00:27:10,720 --> 00:27:11,920
+constantly adapts
+
+913
+00:27:11,920 --> 00:27:13,360
+when reality clashes
+
+914
+00:27:13,360 --> 00:27:14,140
+with its rules.
+
+915
+00:27:14,720 --> 00:27:15,400
+Take the classic
+
+916
+00:27:15,400 --> 00:27:16,080
+common law
+
+917
+00:27:16,080 --> 00:27:17,100
+mirror image rule.
+
+918
+00:27:17,340 --> 00:27:18,060
+Oh, I've heard of this.
+
+919
+00:27:18,280 --> 00:27:18,760
+Originally,
+
+920
+00:27:19,300 --> 00:27:19,900
+for an acceptance
+
+921
+00:27:19,900 --> 00:27:20,540
+to be valid,
+
+922
+00:27:20,760 --> 00:27:21,660
+it had to perfectly
+
+923
+00:27:21,660 --> 00:27:22,760
+mirror the offer,
+
+924
+00:27:23,100 --> 00:27:23,940
+word for word.
+
+925
+00:27:24,460 --> 00:27:25,640
+If I offer to sell you
+
+926
+00:27:25,640 --> 00:27:26,580
+100 laptops
+
+927
+00:27:26,580 --> 00:27:27,320
+for $1,000
+
+928
+00:27:27,320 --> 00:27:28,580
+and you write back,
+
+929
+00:27:28,720 --> 00:27:29,560
+I accept,
+
+930
+00:27:30,000 --> 00:27:30,680
+I will buy
+
+931
+00:27:30,680 --> 00:27:31,620
+the 100 laptops,
+
+932
+00:27:31,960 --> 00:27:33,000
+but please package them
+
+933
+00:27:33,000 --> 00:27:33,840
+in blue boxes
+
+934
+00:27:33,840 --> 00:27:34,900
+instead of brown.
+
+935
+00:27:35,260 --> 00:27:36,080
+Under the strict
+
+936
+00:27:36,080 --> 00:27:36,960
+mirror image rule,
+
+937
+00:27:37,080 --> 00:27:38,300
+you did not accept.
+
+938
+00:27:38,420 --> 00:27:38,640
+Right.
+
+939
+00:27:39,000 --> 00:27:40,020
+You legally rejected
+
+940
+00:27:40,020 --> 00:27:40,580
+my offer
+
+941
+00:27:40,580 --> 00:27:41,860
+and made a counteroffer.
+
+942
+00:27:42,180 --> 00:27:43,180
+Which sounds elegant
+
+943
+00:27:43,180 --> 00:27:43,820
+and clean
+
+944
+00:27:43,820 --> 00:27:45,080
+in a law school classroom,
+
+945
+00:27:45,220 --> 00:27:46,160
+but it is an absolute
+
+946
+00:27:46,160 --> 00:27:47,040
+nightmare for
+
+947
+00:27:47,040 --> 00:27:48,500
+actual businesses
+
+948
+00:27:48,500 --> 00:27:49,500
+trying to operate
+
+949
+00:27:49,500 --> 00:27:50,300
+in the real world.
+
+950
+00:27:50,300 --> 00:27:50,800
+Exactly.
+
+951
+00:27:51,200 --> 00:27:52,260
+Because in the real world,
+
+952
+00:27:52,600 --> 00:27:53,820
+merchants were constantly
+
+953
+00:27:53,820 --> 00:27:54,980
+sending purchase orders
+
+954
+00:27:54,980 --> 00:27:55,720
+and invoices
+
+955
+00:27:55,720 --> 00:27:56,500
+back and forth,
+
+956
+00:27:56,680 --> 00:27:57,660
+and the boilerplate
+
+957
+00:27:57,660 --> 00:27:58,840
+fine print on the back
+
+958
+00:27:58,840 --> 00:27:59,480
+of those forms
+
+959
+00:27:59,480 --> 00:28:01,120
+never perfectly matched.
+
+960
+00:28:01,200 --> 00:28:01,340
+Right.
+
+961
+00:28:01,460 --> 00:28:02,220
+One form said
+
+962
+00:28:02,220 --> 00:28:03,020
+disputes go to
+
+963
+00:28:03,020 --> 00:28:04,060
+arbitration in New York.
+
+964
+00:28:04,140 --> 00:28:04,740
+The other said
+
+965
+00:28:04,740 --> 00:28:05,880
+litigation in California.
+
+966
+00:28:06,220 --> 00:28:06,760
+But the merchants
+
+967
+00:28:06,760 --> 00:28:08,280
+were ignoring the fine print,
+
+968
+00:28:08,640 --> 00:28:09,440
+shipping the goods,
+
+969
+00:28:09,500 --> 00:28:10,520
+and paying for them anyway.
+
+970
+00:28:10,680 --> 00:28:11,100
+They were acting
+
+971
+00:28:11,100 --> 00:28:12,360
+like a contract existed.
+
+972
+00:28:12,940 --> 00:28:13,900
+The mirror image rule
+
+973
+00:28:13,900 --> 00:28:14,680
+was too strict.
+
+974
+00:28:14,820 --> 00:28:15,920
+It was making actual
+
+975
+00:28:15,920 --> 00:28:17,360
+functioning commerce
+
+976
+00:28:17,360 --> 00:28:18,760
+legally inadmissible.
+
+977
+00:28:18,760 --> 00:28:20,220
+So the law had to adapt
+
+978
+00:28:20,220 --> 00:28:20,780
+to reality.
+
+979
+00:28:21,320 --> 00:28:21,560
+Yes.
+
+980
+00:28:22,560 --> 00:28:24,000
+The Uniform Commercial Code,
+
+981
+00:28:24,480 --> 00:28:26,900
+specifically UCC Section 2207,
+
+982
+00:28:27,420 --> 00:28:28,580
+which lawyers affectionately
+
+983
+00:28:28,580 --> 00:28:30,120
+call the Battle of the Forms,
+
+984
+00:28:30,460 --> 00:28:31,680
+completely renegotiated
+
+985
+00:28:31,680 --> 00:28:32,800
+that admissibility gate.
+
+986
+00:28:32,900 --> 00:28:34,000
+It created rules
+
+987
+00:28:34,000 --> 00:28:36,000
+that allowed mismatched invoices
+
+988
+00:28:36,000 --> 00:28:38,020
+to form a binding contract
+
+989
+00:28:38,020 --> 00:28:39,120
+under certain conditions.
+
+990
+00:28:39,440 --> 00:28:41,100
+It proves that the legal system
+
+991
+00:28:41,100 --> 00:28:42,040
+actually wants
+
+992
+00:28:42,040 --> 00:28:43,100
+commercial continuation.
+
+993
+00:28:43,800 --> 00:28:45,860
+The law wants the transaction
+
+994
+00:28:45,860 --> 00:28:47,900
+to survive human slop.
+
+995
+00:28:47,900 --> 00:28:49,040
+It's like the law saying,
+
+996
+00:28:49,160 --> 00:28:50,580
+OK, you guys didn't use
+
+997
+00:28:50,580 --> 00:28:51,620
+the exact same words,
+
+998
+00:28:51,700 --> 00:28:52,820
+but you clearly wanted
+
+999
+00:28:52,820 --> 00:28:53,640
+to do a deal.
+
+1000
+00:28:53,760 --> 00:28:54,620
+You're acting like
+
+1001
+00:28:54,620 --> 00:28:55,220
+there's a deal.
+
+1002
+00:28:55,360 --> 00:28:56,700
+So we're going to admit
+
+1003
+00:28:56,700 --> 00:28:57,740
+this into our system
+
+1004
+00:28:57,740 --> 00:28:58,700
+and let it continue.
+
+1005
+00:28:59,400 --> 00:29:00,180
+But what happens
+
+1006
+00:29:00,180 --> 00:29:01,300
+when things go wrong
+
+1007
+00:29:01,300 --> 00:29:02,160
+during the performance
+
+1008
+00:29:02,160 --> 00:29:03,040
+of the contract?
+
+1009
+00:29:03,640 --> 00:29:04,480
+Flishen brings up
+
+1010
+00:29:04,480 --> 00:29:06,840
+a very famous 1921 case,
+
+1011
+00:29:07,260 --> 00:29:08,420
+Jacob and Young's v. Kent.
+
+1012
+00:29:08,620 --> 00:29:09,440
+Ah, the famous
+
+1013
+00:29:09,440 --> 00:29:10,280
+reading pipe case.
+
+1014
+00:29:10,300 --> 00:29:11,120
+I love this case.
+
+1015
+00:29:11,380 --> 00:29:12,440
+So a wealthy owner
+
+1016
+00:29:12,440 --> 00:29:13,220
+hires a builder
+
+1017
+00:29:13,220 --> 00:29:14,500
+to construct a sprawling
+
+1018
+00:29:14,500 --> 00:29:15,220
+country house,
+
+1019
+00:29:15,220 --> 00:29:16,280
+and the contract
+
+1020
+00:29:16,280 --> 00:29:17,420
+explicitly states
+
+1021
+00:29:17,420 --> 00:29:17,980
+in writing
+
+1022
+00:29:17,980 --> 00:29:19,220
+that all the plumbing
+
+1023
+00:29:19,220 --> 00:29:20,600
+must use wrought iron pipe
+
+1024
+00:29:20,600 --> 00:29:21,920
+made by the reading pipe company.
+
+1025
+00:29:22,100 --> 00:29:22,520
+Very specific.
+
+1026
+00:29:22,780 --> 00:29:23,300
+But the builder
+
+1027
+00:29:23,300 --> 00:29:24,120
+makes a mistake.
+
+1028
+00:29:24,560 --> 00:29:25,560
+For some of the plumbing
+
+1029
+00:29:25,560 --> 00:29:26,620
+hidden behind the walls,
+
+1030
+00:29:27,000 --> 00:29:27,980
+the builder accidentally
+
+1031
+00:29:27,980 --> 00:29:28,880
+installs a different
+
+1032
+00:29:28,880 --> 00:29:29,620
+brand of pipe.
+
+1033
+00:29:30,320 --> 00:29:31,320
+It was the exact
+
+1034
+00:29:31,320 --> 00:29:32,360
+same quality,
+
+1035
+00:29:32,540 --> 00:29:34,220
+the exact same market price,
+
+1036
+00:29:34,740 --> 00:29:36,320
+literally indistinguishable,
+
+1037
+00:29:36,500 --> 00:29:37,400
+except for the brand
+
+1038
+00:29:37,400 --> 00:29:38,380
+stamp on the metal.
+
+1039
+00:29:39,000 --> 00:29:40,140
+But the owner of the house
+
+1040
+00:29:40,140 --> 00:29:41,300
+eventually finds out,
+
+1041
+00:29:41,800 --> 00:29:42,620
+gets furious,
+
+1042
+00:29:42,620 --> 00:29:44,500
+and demands that the builder
+
+1043
+00:29:44,500 --> 00:29:45,940
+tear down the finished walls
+
+1044
+00:29:45,940 --> 00:29:47,500
+and replace all the pipe
+
+1045
+00:29:47,500 --> 00:29:48,600
+with the reading brand.
+
+1046
+00:29:48,600 --> 00:29:50,280
+And Judge Benjamin Cardozo,
+
+1047
+00:29:50,480 --> 00:29:51,320
+writing for the New York
+
+1048
+00:29:51,320 --> 00:29:52,040
+Court of Appeals,
+
+1049
+00:29:52,200 --> 00:29:53,040
+says no.
+
+1050
+00:29:53,280 --> 00:29:54,640
+He establishes the doctrine
+
+1051
+00:29:54,640 --> 00:29:56,020
+of substantial performance.
+
+1052
+00:29:56,380 --> 00:29:57,840
+The deviation from the contract,
+
+1053
+00:29:58,080 --> 00:29:59,100
+the wrong brand of pipe,
+
+1054
+00:29:59,180 --> 00:30:00,640
+was not a material breach.
+
+1055
+00:30:00,960 --> 00:30:02,980
+It was a minor venial fault.
+
+1056
+00:30:03,360 --> 00:30:04,520
+The law did not demand
+
+1057
+00:30:04,520 --> 00:30:05,200
+that the house be
+
+1058
+00:30:05,200 --> 00:30:06,380
+literally torn apart
+
+1059
+00:30:06,380 --> 00:30:08,020
+to achieve a bite-for-bite,
+
+1060
+00:30:08,100 --> 00:30:09,600
+perfect, literal restoration
+
+1061
+00:30:09,600 --> 00:30:10,660
+of the contract terms.
+
+1062
+00:30:10,760 --> 00:30:10,920
+Yeah.
+
+1063
+00:30:10,920 --> 00:30:12,340
+Instead, it allowed
+
+1064
+00:30:12,340 --> 00:30:13,680
+the contractual relationship
+
+1065
+00:30:13,680 --> 00:30:14,760
+to continue via
+
+1066
+00:30:14,760 --> 00:30:16,140
+a compensatory adjustment.
+
+1067
+00:30:16,900 --> 00:30:18,120
+The builder just had to pay
+
+1068
+00:30:18,120 --> 00:30:19,100
+the difference in value
+
+1069
+00:30:19,100 --> 00:30:20,160
+between the two pipes.
+
+1070
+00:30:20,420 --> 00:30:21,320
+Which, in this case,
+
+1071
+00:30:21,360 --> 00:30:22,980
+was basically zero dollars
+
+1072
+00:30:22,980 --> 00:30:23,720
+because the pipes
+
+1073
+00:30:23,720 --> 00:30:25,140
+were identical in quality.
+
+1074
+00:30:25,960 --> 00:30:26,860
+Cardozo realized
+
+1075
+00:30:26,860 --> 00:30:28,240
+that tearing down the walls
+
+1076
+00:30:28,240 --> 00:30:29,620
+would be an inadmissible,
+
+1077
+00:30:29,940 --> 00:30:31,620
+catastrophic economic waste.
+
+1078
+00:30:32,160 --> 00:30:33,300
+The legal system
+
+1079
+00:30:33,300 --> 00:30:34,280
+repairs the contract
+
+1080
+00:30:34,280 --> 00:30:35,220
+without destroying
+
+1081
+00:30:35,220 --> 00:30:36,340
+the physical progress.
+
+1082
+00:30:36,800 --> 00:30:37,620
+And this philosophy
+
+1083
+00:30:37,620 --> 00:30:38,640
+applies to how the law
+
+1084
+00:30:38,640 --> 00:30:39,720
+handles remedies, too.
+
+1085
+00:30:39,720 --> 00:30:41,820
+Flexion says legal remedies
+
+1086
+00:30:41,820 --> 00:30:42,880
+aren't just accounting
+
+1087
+00:30:42,880 --> 00:30:43,660
+ledger updates.
+
+1088
+00:30:44,140 --> 00:30:45,040
+They are active
+
+1089
+00:30:45,040 --> 00:30:46,340
+repair operators.
+
+1090
+00:30:46,740 --> 00:30:48,200
+Take expectation damages,
+
+1091
+00:30:48,500 --> 00:30:49,180
+which is highlighted
+
+1092
+00:30:49,180 --> 00:30:49,920
+in the famous
+
+1093
+00:30:49,920 --> 00:30:51,080
+Harry Hand case,
+
+1094
+00:30:51,380 --> 00:30:52,280
+Hawkins v. McGee.
+
+1095
+00:30:52,360 --> 00:30:54,140
+A classic from 1929.
+
+1096
+00:30:54,860 --> 00:30:55,700
+A doctor promised
+
+1097
+00:30:55,700 --> 00:30:56,400
+a young boy
+
+1098
+00:30:56,400 --> 00:30:57,680
+a 100% perfect
+
+1099
+00:30:57,680 --> 00:30:58,560
+or good hand
+
+1100
+00:30:58,560 --> 00:30:59,820
+after a severe burn.
+
+1101
+00:31:00,200 --> 00:31:01,040
+The doctor performed
+
+1102
+00:31:01,040 --> 00:31:01,820
+a skin graft
+
+1103
+00:31:01,820 --> 00:31:02,660
+using skin from
+
+1104
+00:31:02,660 --> 00:31:03,500
+the boy's chest.
+
+1105
+00:31:03,800 --> 00:31:04,440
+But the graft
+
+1106
+00:31:04,440 --> 00:31:05,280
+didn't just fail
+
+1107
+00:31:05,280 --> 00:31:06,180
+to heal perfectly.
+
+1108
+00:31:06,400 --> 00:31:07,440
+The hand ended up
+
+1109
+00:31:07,440 --> 00:31:08,420
+growing thick hair.
+
+1110
+00:31:08,420 --> 00:31:09,680
+A complete disaster
+
+1111
+00:31:09,680 --> 00:31:10,320
+for the patient.
+
+1112
+00:31:10,780 --> 00:31:11,280
+But when the court
+
+1113
+00:31:11,280 --> 00:31:12,320
+calculated the damages
+
+1114
+00:31:12,320 --> 00:31:13,500
+the doctor had to pay,
+
+1115
+00:31:13,840 --> 00:31:14,640
+they didn't just give
+
+1116
+00:31:14,640 --> 00:31:15,080
+the patient
+
+1117
+00:31:15,080 --> 00:31:16,220
+his surgical feedback.
+
+1118
+00:31:16,580 --> 00:31:17,340
+The court awarded
+
+1119
+00:31:17,340 --> 00:31:18,640
+expectation damages.
+
+1120
+00:31:19,240 --> 00:31:20,120
+Expectation damages
+
+1121
+00:31:20,120 --> 00:31:20,720
+are designed
+
+1122
+00:31:20,720 --> 00:31:21,980
+to put the injured party
+
+1123
+00:31:21,980 --> 00:31:23,300
+in the financial position
+
+1124
+00:31:23,300 --> 00:31:24,300
+they would have been in
+
+1125
+00:31:24,300 --> 00:31:25,180
+if the contract
+
+1126
+00:31:25,180 --> 00:31:26,280
+had been performed perfectly.
+
+1127
+00:31:26,820 --> 00:31:27,920
+The law is literally
+
+1128
+00:31:27,920 --> 00:31:29,060
+trying to repair
+
+1129
+00:31:29,060 --> 00:31:30,180
+the licensed future.
+
+1130
+00:31:30,600 --> 00:31:31,380
+It's protecting
+
+1131
+00:31:31,380 --> 00:31:32,080
+the trajectory
+
+1132
+00:31:32,080 --> 00:31:32,680
+that was promised
+
+1133
+00:31:32,680 --> 00:31:33,200
+to the patient.
+
+1134
+00:31:33,340 --> 00:31:34,240
+And what's fascinating
+
+1135
+00:31:34,240 --> 00:31:35,460
+is how that differs
+
+1136
+00:31:35,460 --> 00:31:36,900
+from other repair operators.
+
+1137
+00:31:36,900 --> 00:31:38,740
+The law also has
+
+1138
+00:31:38,740 --> 00:31:39,920
+reliance damages
+
+1139
+00:31:39,920 --> 00:31:41,600
+which just try to put you
+
+1140
+00:31:41,600 --> 00:31:42,340
+back in the position
+
+1141
+00:31:42,340 --> 00:31:42,880
+you were in
+
+1142
+00:31:42,880 --> 00:31:43,700
+before the promise
+
+1143
+00:31:43,700 --> 00:31:44,380
+was ever made
+
+1144
+00:31:44,380 --> 00:31:45,840
+reimbursing
+
+1145
+00:31:45,840 --> 00:31:47,380
+your wasted expenditures.
+
+1146
+00:31:47,860 --> 00:31:48,880
+And restitution damages
+
+1147
+00:31:48,880 --> 00:31:50,160
+which just strip
+
+1148
+00:31:50,160 --> 00:31:51,200
+the unjust enrichment
+
+1149
+00:31:51,200 --> 00:31:52,500
+away from the breaching party.
+
+1150
+00:31:53,400 --> 00:31:54,020
+Each remedy
+
+1151
+00:31:54,020 --> 00:31:55,420
+is a specific tool
+
+1152
+00:31:55,420 --> 00:31:56,300
+designed to preserve
+
+1153
+00:31:56,300 --> 00:31:57,360
+a different invariant
+
+1154
+00:31:57,360 --> 00:31:58,420
+of the human relationship.
+
+1155
+00:31:59,280 --> 00:31:59,620
+But wait,
+
+1156
+00:31:59,800 --> 00:32:00,480
+let me push back
+
+1157
+00:32:00,480 --> 00:32:01,180
+on this whole idea
+
+1158
+00:32:01,180 --> 00:32:02,040
+that contracts
+
+1159
+00:32:02,040 --> 00:32:03,300
+are these living
+
+1160
+00:32:03,300 --> 00:32:04,640
+moral relationships
+
+1161
+00:32:04,640 --> 00:32:05,340
+that the law
+
+1162
+00:32:05,340 --> 00:32:06,140
+desperately wants
+
+1163
+00:32:06,140 --> 00:32:06,600
+to repair
+
+1164
+00:32:06,600 --> 00:32:07,720
+because that flies
+
+1165
+00:32:07,720 --> 00:32:08,240
+in the face
+
+1166
+00:32:08,240 --> 00:32:09,420
+of Oliver Wendell Holmes
+
+1167
+00:32:09,420 --> 00:32:10,220
+and his famous
+
+1168
+00:32:10,220 --> 00:32:11,140
+bad man theory
+
+1169
+00:32:11,140 --> 00:32:11,680
+of the law
+
+1170
+00:32:11,680 --> 00:32:13,260
+or Judge Richard Posner
+
+1171
+00:32:13,260 --> 00:32:14,140
+and the whole law
+
+1172
+00:32:14,140 --> 00:32:15,060
+and economics idea
+
+1173
+00:32:15,060 --> 00:32:16,060
+of efficient breach.
+
+1174
+00:32:16,380 --> 00:32:17,080
+That's true, it does.
+
+1175
+00:32:17,360 --> 00:32:17,860
+Their argument
+
+1176
+00:32:17,860 --> 00:32:18,660
+is that a contract
+
+1177
+00:32:18,660 --> 00:32:20,100
+isn't a moral relationship
+
+1178
+00:32:20,100 --> 00:32:20,540
+at all.
+
+1179
+00:32:20,640 --> 00:32:21,440
+It's just a financial
+
+1180
+00:32:21,440 --> 00:32:22,240
+menu option.
+
+1181
+00:32:22,860 --> 00:32:23,620
+You either perform
+
+1182
+00:32:23,620 --> 00:32:24,600
+the service you promised
+
+1183
+00:32:24,600 --> 00:32:26,480
+or you pay the damages
+
+1184
+00:32:26,480 --> 00:32:27,200
+to walk away.
+
+1185
+00:32:27,340 --> 00:32:28,240
+It's the toll road.
+
+1186
+00:32:28,760 --> 00:32:29,660
+If it is financially
+
+1187
+00:32:29,660 --> 00:32:30,440
+cheaper for me
+
+1188
+00:32:30,440 --> 00:32:31,300
+to breach the contract
+
+1189
+00:32:31,300 --> 00:32:32,220
+and pay you damages
+
+1190
+00:32:32,220 --> 00:32:32,860
+than it is
+
+1191
+00:32:32,860 --> 00:32:34,180
+to actually finish the job,
+
+1192
+00:32:34,180 --> 00:32:35,480
+I should rationally
+
+1193
+00:32:35,480 --> 00:32:36,320
+just breach it.
+
+1194
+00:32:36,420 --> 00:32:37,480
+It's completely optional.
+
+1195
+00:32:38,100 --> 00:32:38,820
+Yes, the efficient
+
+1196
+00:32:38,820 --> 00:32:39,380
+breach theory
+
+1197
+00:32:39,380 --> 00:32:40,280
+is very popular
+
+1198
+00:32:40,280 --> 00:32:41,460
+in economics departments.
+
+1199
+00:32:42,240 --> 00:32:42,860
+But Flixen
+
+1200
+00:32:42,860 --> 00:32:45,000
+explicitly pushes back
+
+1201
+00:32:45,000 --> 00:32:46,100
+on Holmes and Posner
+
+1202
+00:32:46,100 --> 00:32:47,220
+here, arguing
+
+1203
+00:32:47,220 --> 00:32:48,040
+that the actual
+
+1204
+00:32:48,040 --> 00:32:49,060
+structure of the law
+
+1205
+00:32:49,060 --> 00:32:50,700
+does not view breach
+
+1206
+00:32:50,700 --> 00:32:52,720
+as a lawful neutral option.
+
+1207
+00:32:53,020 --> 00:32:53,580
+And the proof
+
+1208
+00:32:53,580 --> 00:32:54,820
+is found in doctrines
+
+1209
+00:32:54,820 --> 00:32:55,860
+like anticipatory
+
+1210
+00:32:55,860 --> 00:32:56,620
+repudiation
+
+1211
+00:32:56,620 --> 00:32:58,460
+established in old cases
+
+1212
+00:32:58,460 --> 00:32:59,740
+like Hoster-Vide-Latour.
+
+1213
+00:32:59,900 --> 00:33:00,360
+Exactly.
+
+1214
+00:33:00,540 --> 00:33:01,240
+How does that work
+
+1215
+00:33:01,240 --> 00:33:01,700
+mechanically?
+
+1216
+00:33:01,740 --> 00:33:02,720
+If we sign a contract
+
+1217
+00:33:02,720 --> 00:33:03,620
+today for you
+
+1218
+00:33:03,620 --> 00:33:04,340
+to paint my house
+
+1219
+00:33:04,340 --> 00:33:04,880
+next month
+
+1220
+00:33:04,880 --> 00:33:05,580
+and tomorrow
+
+1221
+00:33:05,580 --> 00:33:06,160
+you call me
+
+1222
+00:33:06,160 --> 00:33:06,440
+and say,
+
+1223
+00:33:06,540 --> 00:33:07,460
+hey, I changed my mind.
+
+1224
+00:33:07,540 --> 00:33:08,020
+I'm going to breach
+
+1225
+00:33:08,020 --> 00:33:08,980
+the contract next month.
+
+1226
+00:33:09,140 --> 00:33:09,940
+I don't have to wait
+
+1227
+00:33:09,940 --> 00:33:10,460
+until next month
+
+1228
+00:33:10,460 --> 00:33:10,940
+to see you.
+
+1229
+00:33:11,280 --> 00:33:11,860
+The law treats
+
+1230
+00:33:11,860 --> 00:33:12,940
+your verbal announcement
+
+1231
+00:33:12,940 --> 00:33:15,100
+as a present material breach.
+
+1232
+00:33:15,440 --> 00:33:17,060
+It is an inadmissible transition.
+
+1233
+00:33:17,900 --> 00:33:18,800
+The law says
+
+1234
+00:33:18,800 --> 00:33:19,740
+you cannot threaten
+
+1235
+00:33:19,740 --> 00:33:20,700
+the future trajectory
+
+1236
+00:33:20,700 --> 00:33:21,580
+of this relationship.
+
+1237
+00:33:22,060 --> 00:33:22,860
+If a contract
+
+1238
+00:33:22,860 --> 00:33:24,040
+were merely an option
+
+1239
+00:33:24,040 --> 00:33:24,780
+to perform
+
+1240
+00:33:24,780 --> 00:33:25,960
+or pay later,
+
+1241
+00:33:26,320 --> 00:33:27,420
+I would have to wait
+
+1242
+00:33:27,420 --> 00:33:28,560
+until the deadline passed.
+
+1243
+00:33:29,180 --> 00:33:29,580
+And what about
+
+1244
+00:33:29,580 --> 00:33:30,640
+specific performance?
+
+1245
+00:33:30,640 --> 00:33:32,500
+That completely destroys
+
+1246
+00:33:32,500 --> 00:33:33,700
+the toll road theory, too.
+
+1247
+00:33:33,900 --> 00:33:34,380
+Exactly.
+
+1248
+00:33:34,900 --> 00:33:35,900
+In cases where money
+
+1249
+00:33:35,900 --> 00:33:36,480
+isn't enough
+
+1250
+00:33:36,480 --> 00:33:38,220
+to repair the promised future,
+
+1251
+00:33:38,420 --> 00:33:38,720
+say,
+
+1252
+00:33:39,380 --> 00:33:40,460
+a contract to buy
+
+1253
+00:33:40,460 --> 00:33:41,680
+a one-of-a-kind painting
+
+1254
+00:33:41,680 --> 00:33:42,780
+or a specific parcel
+
+1255
+00:33:42,780 --> 00:33:43,360
+of real estate,
+
+1256
+00:33:43,860 --> 00:33:45,040
+the court will order
+
+1257
+00:33:45,040 --> 00:33:46,120
+specific performance.
+
+1258
+00:33:46,720 --> 00:33:47,340
+They will literally
+
+1259
+00:33:47,340 --> 00:33:48,180
+force you
+
+1260
+00:33:48,180 --> 00:33:49,360
+under threat of contempt
+
+1261
+00:33:49,360 --> 00:33:49,820
+of court
+
+1262
+00:33:49,820 --> 00:33:51,040
+to hand over the painting.
+
+1263
+00:33:51,460 --> 00:33:52,500
+If a contract
+
+1264
+00:33:52,500 --> 00:33:53,420
+were just an option
+
+1265
+00:33:53,420 --> 00:33:54,140
+to perform
+
+1266
+00:33:54,140 --> 00:33:55,020
+or pay a fee,
+
+1267
+00:33:55,240 --> 00:33:56,020
+specific performance
+
+1268
+00:33:56,020 --> 00:33:56,760
+wouldn't exist.
+
+1269
+00:33:57,320 --> 00:33:57,980
+The law wants
+
+1270
+00:33:57,980 --> 00:33:58,520
+the trajectory
+
+1271
+00:33:58,520 --> 00:33:59,800
+of the relationship repaired,
+
+1272
+00:33:59,800 --> 00:34:00,460
+not treated
+
+1273
+00:34:00,460 --> 00:34:01,880
+as a financial toll road
+
+1274
+00:34:01,880 --> 00:34:02,380
+where the wealthy
+
+1275
+00:34:02,380 --> 00:34:03,440
+can just buy their way
+
+1276
+00:34:03,440 --> 00:34:04,240
+out of their promises.
+
+1277
+00:34:04,740 --> 00:34:05,260
+So is there
+
+1278
+00:34:05,260 --> 00:34:06,360
+any disconfirming evidence?
+
+1279
+00:34:06,920 --> 00:34:07,620
+When does the law
+
+1280
+00:34:07,620 --> 00:34:08,780
+just throw up its hands,
+
+1281
+00:34:08,920 --> 00:34:09,300
+give up,
+
+1282
+00:34:09,380 --> 00:34:10,360
+and refuse to repair
+
+1283
+00:34:10,360 --> 00:34:10,880
+the contract?
+
+1284
+00:34:11,260 --> 00:34:12,040
+Affliction points
+
+1285
+00:34:12,040 --> 00:34:12,620
+to the doctrine
+
+1286
+00:34:12,620 --> 00:34:13,240
+of rescission.
+
+1287
+00:34:14,060 --> 00:34:14,980
+This happens in cases
+
+1288
+00:34:14,980 --> 00:34:15,920
+of outright fraud
+
+1289
+00:34:15,920 --> 00:34:16,980
+or mutual mistake.
+
+1290
+00:34:17,620 --> 00:34:19,080
+The classic law school case
+
+1291
+00:34:19,080 --> 00:34:20,180
+is Sherwood V. Walker
+
+1292
+00:34:20,180 --> 00:34:21,300
+from 1887.
+
+1293
+00:34:21,460 --> 00:34:22,560
+The barren cow case?
+
+1294
+00:34:22,840 --> 00:34:23,180
+Yes.
+
+1295
+00:34:23,860 --> 00:34:25,060
+A buyer and a seller
+
+1296
+00:34:25,060 --> 00:34:26,320
+agreed to the sale
+
+1297
+00:34:26,320 --> 00:34:27,540
+of a specific cow
+
+1298
+00:34:27,540 --> 00:34:29,240
+named Rose 2nd
+
+1299
+00:34:29,240 --> 00:34:29,880
+of Aberlone.
+
+1300
+00:34:30,540 --> 00:34:31,200
+Both the buyer
+
+1301
+00:34:31,200 --> 00:34:31,760
+and the seller
+
+1302
+00:34:31,760 --> 00:34:32,960
+genuinely believed
+
+1303
+00:34:32,960 --> 00:34:34,660
+the cow was completely barren
+
+1304
+00:34:34,660 --> 00:34:35,580
+and could not breed,
+
+1305
+00:34:35,980 --> 00:34:36,780
+so she was sold
+
+1306
+00:34:36,780 --> 00:34:38,040
+for a very cheap price,
+
+1307
+00:34:38,520 --> 00:34:39,100
+essentially just
+
+1308
+00:34:39,100 --> 00:34:39,600
+for the value
+
+1309
+00:34:39,600 --> 00:34:40,220
+of her beef.
+
+1310
+00:34:40,860 --> 00:34:41,540
+But right before
+
+1311
+00:34:41,540 --> 00:34:42,440
+the exchange happened,
+
+1312
+00:34:42,560 --> 00:34:43,540
+they realized Rose
+
+1313
+00:34:43,540 --> 00:34:44,780
+was actually pregnant,
+
+1314
+00:34:44,920 --> 00:34:45,500
+which made her
+
+1315
+00:34:45,500 --> 00:34:46,360
+a breeding cow
+
+1316
+00:34:46,360 --> 00:34:47,460
+worth roughly
+
+1317
+00:34:47,460 --> 00:34:48,820
+ten times as much money.
+
+1318
+00:34:49,360 --> 00:34:50,220
+The court allowed
+
+1319
+00:34:50,220 --> 00:34:50,580
+the seller
+
+1320
+00:34:50,580 --> 00:34:51,740
+to rescind the contract.
+
+1321
+00:34:52,040 --> 00:34:52,960
+Because the mistake
+
+1322
+00:34:52,960 --> 00:34:54,300
+went to the very root,
+
+1323
+00:34:54,400 --> 00:34:55,200
+the very essence
+
+1324
+00:34:55,200 --> 00:34:55,920
+of the agreement.
+
+1325
+00:34:55,920 --> 00:34:57,020
+They weren't selling
+
+1326
+00:34:57,020 --> 00:34:57,820
+a breeding cow,
+
+1327
+00:34:57,980 --> 00:34:58,540
+they were selling
+
+1328
+00:34:58,540 --> 00:34:59,340
+a beef cow.
+
+1329
+00:34:59,580 --> 00:35:00,740
+The object they thought
+
+1330
+00:35:00,740 --> 00:35:01,900
+they were contracting over
+
+1331
+00:35:01,900 --> 00:35:03,360
+didn't actually exist.
+
+1332
+00:35:03,780 --> 00:35:04,260
+Exactly.
+
+1333
+00:35:04,820 --> 00:35:05,840
+In cases of profound
+
+1334
+00:35:05,840 --> 00:35:07,160
+mutual mistake or fraud,
+
+1335
+00:35:07,480 --> 00:35:08,320
+the law doesn't try
+
+1336
+00:35:08,320 --> 00:35:09,240
+to repair the contract
+
+1337
+00:35:09,240 --> 00:35:10,260
+by adjusting the price
+
+1338
+00:35:10,260 --> 00:35:10,860
+with damages.
+
+1339
+00:35:11,280 --> 00:35:12,700
+It unwinds the contract
+
+1340
+00:35:12,700 --> 00:35:13,240
+entirely.
+
+1341
+00:35:13,700 --> 00:35:14,300
+It pretends
+
+1342
+00:35:14,300 --> 00:35:15,000
+it never happened.
+
+1343
+00:35:15,220 --> 00:35:15,900
+This proves
+
+1344
+00:35:15,900 --> 00:35:16,880
+that some transitions
+
+1345
+00:35:16,880 --> 00:35:18,540
+are so deeply defective
+
+1346
+00:35:18,540 --> 00:35:19,520
+that they were never
+
+1347
+00:35:19,520 --> 00:35:20,760
+admissible to begin with.
+
+1348
+00:35:21,280 --> 00:35:22,140
+You cannot repair
+
+1349
+00:35:22,140 --> 00:35:22,640
+a trajectory
+
+1350
+00:35:22,640 --> 00:35:23,580
+that was fundamentally
+
+1351
+00:35:23,580 --> 00:35:25,000
+flawed at the starting gate.
+
+1352
+00:35:25,000 --> 00:35:25,600
+Wow.
+
+1353
+00:35:26,100 --> 00:35:26,980
+Okay, so we've traveled
+
+1354
+00:35:26,980 --> 00:35:28,520
+from the physical supply chains
+
+1355
+00:35:28,520 --> 00:35:29,380
+that move our goods
+
+1356
+00:35:29,380 --> 00:35:31,700
+to the invisible social laws
+
+1357
+00:35:31,700 --> 00:35:32,740
+that govern those goods.
+
+1358
+00:35:33,380 --> 00:35:33,880
+I want to make this
+
+1359
+00:35:33,880 --> 00:35:35,000
+even more personal now.
+
+1360
+00:35:35,320 --> 00:35:36,520
+Let's look at the actual
+
+1361
+00:35:36,520 --> 00:35:37,760
+biological memories
+
+1362
+00:35:37,760 --> 00:35:38,460
+inside your head.
+
+1363
+00:35:38,520 --> 00:35:39,740
+That's a great section.
+
+1364
+00:35:39,900 --> 00:35:40,400
+Section four,
+
+1365
+00:35:41,000 --> 00:35:41,900
+sleep architecture.
+
+1366
+00:35:42,660 --> 00:35:43,860
+How does the human brain
+
+1367
+00:35:43,860 --> 00:35:45,060
+decide what information
+
+1368
+00:35:45,060 --> 00:35:46,080
+is admissible
+
+1369
+00:35:46,080 --> 00:35:47,280
+to keep for a lifetime?
+
+1370
+00:35:47,960 --> 00:35:49,580
+This is where Flick Sean
+
+1371
+00:35:49,580 --> 00:35:51,220
+targets the dominant metaphor
+
+1372
+00:35:51,220 --> 00:35:52,440
+that almost all of us
+
+1373
+00:35:52,440 --> 00:35:53,140
+use for sleep.
+
+1374
+00:35:53,140 --> 00:35:54,560
+When we talk about
+
+1375
+00:35:54,560 --> 00:35:55,200
+being tired,
+
+1376
+00:35:55,420 --> 00:35:56,220
+we usually rely on
+
+1377
+00:35:56,220 --> 00:35:57,080
+the standard model
+
+1378
+00:35:57,080 --> 00:35:57,660
+for sleep,
+
+1379
+00:35:58,060 --> 00:35:59,280
+which was heavily influenced
+
+1380
+00:35:59,280 --> 00:36:00,640
+by Alexander Borbally's
+
+1381
+00:36:00,640 --> 00:36:01,580
+two-process model
+
+1382
+00:36:01,580 --> 00:36:02,640
+in the 1980s.
+
+1383
+00:36:03,040 --> 00:36:03,480
+Specifically,
+
+1384
+00:36:03,780 --> 00:36:05,480
+we rely on process S,
+
+1385
+00:36:05,640 --> 00:36:06,340
+which is essentially
+
+1386
+00:36:06,340 --> 00:36:07,460
+a hydraulic pressure
+
+1387
+00:36:07,460 --> 00:36:08,160
+valve model.
+
+1388
+00:36:08,200 --> 00:36:08,420
+Right.
+
+1389
+00:36:08,600 --> 00:36:09,120
+Hydraulic,
+
+1390
+00:36:09,160 --> 00:36:10,220
+like a pipe building up
+
+1391
+00:36:10,220 --> 00:36:10,860
+water pressure
+
+1392
+00:36:10,860 --> 00:36:11,620
+until it bursts.
+
+1393
+00:36:11,880 --> 00:36:12,320
+Exactly.
+
+1394
+00:36:12,800 --> 00:36:13,860
+The idea is that
+
+1395
+00:36:13,860 --> 00:36:14,580
+during the day,
+
+1396
+00:36:14,700 --> 00:36:15,980
+as your brain burns energy,
+
+1397
+00:36:16,340 --> 00:36:17,480
+a neurochemical called
+
+1398
+00:36:17,480 --> 00:36:18,720
+adenosine builds up.
+
+1399
+00:36:18,880 --> 00:36:20,400
+This homeostatic sleep need
+
+1400
+00:36:20,400 --> 00:36:21,380
+builds up in your brain
+
+1401
+00:36:21,380 --> 00:36:22,540
+like physical pressure.
+
+1402
+00:36:22,540 --> 00:36:23,740
+And when you finally
+
+1403
+00:36:23,740 --> 00:36:24,340
+go to sleep,
+
+1404
+00:36:24,460 --> 00:36:26,040
+that pressure is discharged.
+
+1405
+00:36:26,540 --> 00:36:27,540
+The valve opens,
+
+1406
+00:36:27,820 --> 00:36:28,780
+the tank drains.
+
+1407
+00:36:29,200 --> 00:36:30,340
+And as we drain the tank,
+
+1408
+00:36:31,000 --> 00:36:31,960
+we cycle through
+
+1409
+00:36:31,960 --> 00:36:33,940
+roughly 90 to 110 minute
+
+1410
+00:36:33,940 --> 00:36:34,820
+cycles of sleep.
+
+1411
+00:36:35,080 --> 00:36:36,440
+We move between NREM,
+
+1412
+00:36:36,740 --> 00:36:37,800
+which is non-rapid eye
+
+1413
+00:36:37,800 --> 00:36:38,360
+movement sleep,
+
+1414
+00:36:38,500 --> 00:36:39,700
+the deep slow wave sleep
+
+1415
+00:36:39,700 --> 00:36:40,480
+that happens early
+
+1416
+00:36:40,480 --> 00:36:40,960
+in the night,
+
+1417
+00:36:41,400 --> 00:36:42,100
+and REM,
+
+1418
+00:36:42,780 --> 00:36:43,880
+rapid eye movement sleep,
+
+1419
+00:36:43,940 --> 00:36:44,740
+the dreaming phase
+
+1420
+00:36:44,740 --> 00:36:45,420
+that happens more
+
+1421
+00:36:45,420 --> 00:36:46,020
+toward the morning.
+
+1422
+00:36:46,320 --> 00:36:47,120
+So under that model,
+
+1423
+00:36:47,280 --> 00:36:48,420
+sleep is just draining
+
+1424
+00:36:48,420 --> 00:36:49,320
+the chemical tank
+
+1425
+00:36:49,320 --> 00:36:49,980
+so we can function
+
+1426
+00:36:49,980 --> 00:36:50,660
+the next day.
+
+1427
+00:36:50,660 --> 00:36:51,540
+That's the popular
+
+1428
+00:36:51,540 --> 00:36:52,020
+conception.
+
+1429
+00:36:52,740 --> 00:36:53,720
+But Fliction argues
+
+1430
+00:36:53,720 --> 00:36:54,760
+this hydraulic model
+
+1431
+00:36:54,760 --> 00:36:56,440
+is constitutively incomplete.
+
+1432
+00:36:57,480 --> 00:36:58,500
+Process S explains
+
+1433
+00:36:58,500 --> 00:36:59,480
+when we feel tired,
+
+1434
+00:36:59,840 --> 00:37:00,580
+and it explains
+
+1435
+00:37:00,580 --> 00:37:01,640
+how deeply we sleep
+
+1436
+00:37:01,640 --> 00:37:02,460
+based on how long
+
+1437
+00:37:02,460 --> 00:37:03,160
+we've been awake.
+
+1438
+00:37:03,340 --> 00:37:03,980
+But it tells us
+
+1439
+00:37:03,980 --> 00:37:04,780
+absolutely nothing
+
+1440
+00:37:04,780 --> 00:37:05,500
+about what happens
+
+1441
+00:37:05,500 --> 00:37:06,160
+to our memories
+
+1442
+00:37:06,160 --> 00:37:07,280
+while we are unconscious.
+
+1443
+00:37:07,620 --> 00:37:08,340
+A pressure valve
+
+1444
+00:37:08,340 --> 00:37:09,460
+is completely blind
+
+1445
+00:37:09,460 --> 00:37:10,000
+to content.
+
+1446
+00:37:10,780 --> 00:37:11,800
+But modern neuroscience
+
+1447
+00:37:11,800 --> 00:37:12,900
+shows us that the brain
+
+1448
+00:37:12,900 --> 00:37:14,220
+is intensely focused
+
+1449
+00:37:14,220 --> 00:37:15,480
+on content during sleep.
+
+1450
+00:37:15,480 --> 00:37:16,660
+And this brings in
+
+1451
+00:37:16,660 --> 00:37:17,500
+a framework called
+
+1452
+00:37:17,500 --> 00:37:19,300
+Active Systems Consolidation
+
+1453
+00:37:19,300 --> 00:37:20,340
+from researchers
+
+1454
+00:37:20,340 --> 00:37:21,540
+like Suzanne Diekelman
+
+1455
+00:37:21,540 --> 00:37:22,360
+and Jan Born.
+
+1456
+00:37:23,140 --> 00:37:24,140
+They argue that sleep
+
+1457
+00:37:24,140 --> 00:37:25,200
+isn't just a biological
+
+1458
+00:37:25,200 --> 00:37:26,180
+pressure release.
+
+1459
+00:37:26,320 --> 00:37:27,380
+It's a highly sophisticated
+
+1460
+00:37:27,380 --> 00:37:28,540
+record and commit
+
+1461
+00:37:28,540 --> 00:37:29,580
+IT architecture.
+
+1462
+00:37:30,100 --> 00:37:31,540
+It is actively managing
+
+1463
+00:37:31,540 --> 00:37:32,900
+and editing your memories.
+
+1464
+00:37:33,420 --> 00:37:33,560
+Right.
+
+1465
+00:37:34,080 --> 00:37:34,880
+And Fliction maps
+
+1466
+00:37:34,880 --> 00:37:35,580
+this perfectly
+
+1467
+00:37:35,580 --> 00:37:36,380
+onto the concepts
+
+1468
+00:37:36,380 --> 00:37:37,020
+of repair
+
+1469
+00:37:37,020 --> 00:37:38,320
+and admissibility.
+
+1470
+00:37:38,760 --> 00:37:39,720
+During the day,
+
+1471
+00:37:39,840 --> 00:37:40,640
+as you experience
+
+1472
+00:37:40,640 --> 00:37:41,160
+the world,
+
+1473
+00:37:41,580 --> 00:37:42,780
+you encode new,
+
+1474
+00:37:43,080 --> 00:37:44,160
+highly fragile memories
+
+1475
+00:37:44,160 --> 00:37:45,800
+in a seahorse-shaped
+
+1476
+00:37:45,800 --> 00:37:46,620
+part of the brain
+
+1477
+00:37:46,620 --> 00:37:47,720
+called the hippocampus.
+
+1478
+00:37:47,880 --> 00:37:48,880
+But the hippocampus
+
+1479
+00:37:48,880 --> 00:37:49,560
+is small.
+
+1480
+00:37:49,800 --> 00:37:51,280
+It's just temporary storage.
+
+1481
+00:37:51,740 --> 00:37:52,760
+It learns fast,
+
+1482
+00:37:52,840 --> 00:37:53,980
+but it forgets fast.
+
+1483
+00:37:54,180 --> 00:37:56,080
+During slow-wave NREM sleep,
+
+1484
+00:37:56,160 --> 00:37:56,880
+that deep sleep,
+
+1485
+00:37:56,940 --> 00:37:57,540
+early in the night,
+
+1486
+00:37:57,720 --> 00:37:58,560
+your brain enters
+
+1487
+00:37:58,560 --> 00:37:59,940
+a massive repair phase.
+
+1488
+00:38:00,640 --> 00:38:02,300
+It selectively reactivates
+
+1489
+00:38:02,300 --> 00:38:03,260
+those fragile traces
+
+1490
+00:38:03,260 --> 00:38:04,280
+in the hippocampus
+
+1491
+00:38:04,280 --> 00:38:05,360
+to see if they should be
+
+1492
+00:38:05,360 --> 00:38:06,100
+moved to the cortex
+
+1493
+00:38:06,100 --> 00:38:07,320
+for long-term storage.
+
+1494
+00:38:07,580 --> 00:38:08,480
+And this reactivation
+
+1495
+00:38:08,480 --> 00:38:09,380
+isn't just a metaphor.
+
+1496
+00:38:09,860 --> 00:38:10,660
+There is a literal,
+
+1497
+00:38:10,880 --> 00:38:12,620
+physical, electrical dialogue
+
+1498
+00:38:12,620 --> 00:38:13,620
+happening in the brain.
+
+1499
+00:38:13,620 --> 00:38:15,920
+It is incredibly precise.
+
+1500
+00:38:16,540 --> 00:38:17,160
+Researchers like
+
+1501
+00:38:17,160 --> 00:38:18,220
+Bernhard Stericina
+
+1502
+00:38:18,220 --> 00:38:19,240
+have mapped
+
+1503
+00:38:19,240 --> 00:38:20,280
+a hierarchical nesting
+
+1504
+00:38:20,280 --> 00:38:21,220
+of brain waves
+
+1505
+00:38:21,220 --> 00:38:21,800
+that looks like
+
+1506
+00:38:21,800 --> 00:38:23,080
+a perfectly timed
+
+1507
+00:38:23,080 --> 00:38:24,180
+biological orchestra.
+
+1508
+00:38:24,800 --> 00:38:26,940
+You have slow oscillations
+
+1509
+00:38:26,940 --> 00:38:27,880
+in the cortex,
+
+1510
+00:38:28,320 --> 00:38:29,260
+providing a massive,
+
+1511
+00:38:29,780 --> 00:38:31,040
+rhythmic up-and-down beat.
+
+1512
+00:38:31,280 --> 00:38:32,260
+Nested perfectly
+
+1513
+00:38:32,260 --> 00:38:33,740
+inside the up-states
+
+1514
+00:38:33,740 --> 00:38:34,700
+of those slow waves
+
+1515
+00:38:34,700 --> 00:38:36,180
+are faster bursts
+
+1516
+00:38:36,180 --> 00:38:37,240
+of electrical activity
+
+1517
+00:38:37,240 --> 00:38:38,600
+called sleep spindles.
+
+1518
+00:38:38,840 --> 00:38:39,800
+And nested perfectly
+
+1519
+00:38:39,800 --> 00:38:40,820
+inside those spindles
+
+1520
+00:38:40,820 --> 00:38:42,200
+are incredibly fast,
+
+1521
+00:38:42,340 --> 00:38:43,160
+sharp-wave ripples
+
+1522
+00:38:43,160 --> 00:38:44,400
+coming from the hippocampus.
+
+1523
+00:38:44,500 --> 00:38:45,520
+So the hippocampus
+
+1524
+00:38:45,520 --> 00:38:46,940
+is firing rapid bursts
+
+1525
+00:38:46,940 --> 00:38:47,580
+of information
+
+1526
+00:38:47,580 --> 00:38:49,020
+directly into the open windows
+
+1527
+00:38:49,020 --> 00:38:50,140
+provided by the cortex.
+
+1528
+00:38:50,620 --> 00:38:50,900
+Yes.
+
+1529
+00:38:51,340 --> 00:38:51,920
+And during those
+
+1530
+00:38:51,920 --> 00:38:53,220
+tiny, sharp-wave ripples,
+
+1531
+00:38:53,700 --> 00:38:55,440
+the actual waking experiences
+
+1532
+00:38:55,440 --> 00:38:56,320
+of your day
+
+1533
+00:38:56,320 --> 00:38:57,480
+are being replayed.
+
+1534
+00:38:57,660 --> 00:38:57,840
+Yeah.
+
+1535
+00:38:58,100 --> 00:38:58,800
+Matthew Wilson
+
+1536
+00:38:58,800 --> 00:38:59,760
+and Bruce McNaughton
+
+1537
+00:38:59,760 --> 00:39:00,900
+did these classic,
+
+1538
+00:39:01,260 --> 00:39:02,240
+mind-blowing studies
+
+1539
+00:39:02,240 --> 00:39:02,920
+with rodents.
+
+1540
+00:39:03,040 --> 00:39:03,700
+They recorded
+
+1541
+00:39:03,700 --> 00:39:04,920
+the exact neuronal
+
+1542
+00:39:04,920 --> 00:39:05,940
+firing patterns
+
+1543
+00:39:05,940 --> 00:39:06,920
+in a rat's brain
+
+1544
+00:39:06,920 --> 00:39:07,660
+while it was learning
+
+1545
+00:39:07,660 --> 00:39:08,940
+to run a physical maze.
+
+1546
+00:39:09,040 --> 00:39:09,260
+Then,
+
+1547
+00:39:09,500 --> 00:39:10,300
+when the rat fell asleep,
+
+1548
+00:39:10,300 --> 00:39:10,880
+they saw those
+
+1549
+00:39:10,880 --> 00:39:11,820
+exact same neurons
+
+1550
+00:39:11,820 --> 00:39:12,820
+firing in the exact
+
+1551
+00:39:12,820 --> 00:39:13,520
+same sequence
+
+1552
+00:39:13,520 --> 00:39:14,720
+just much faster.
+
+1553
+00:39:14,960 --> 00:39:15,800
+The brain was running
+
+1554
+00:39:15,800 --> 00:39:16,420
+the maze again
+
+1555
+00:39:16,420 --> 00:39:16,960
+in its sleep.
+
+1556
+00:39:17,120 --> 00:39:17,960
+And later research
+
+1557
+00:39:17,960 --> 00:39:19,100
+by Gabrielle Girardot
+
+1558
+00:39:19,100 --> 00:39:19,560
+showed that
+
+1559
+00:39:19,560 --> 00:39:20,660
+if you use technology
+
+1560
+00:39:20,660 --> 00:39:21,960
+to selectively suppress
+
+1561
+00:39:21,960 --> 00:39:23,360
+just those specific
+
+1562
+00:39:23,360 --> 00:39:24,240
+sharp-wave ripples,
+
+1563
+00:39:24,640 --> 00:39:25,840
+the rat doesn't remember
+
+1564
+00:39:25,840 --> 00:39:27,060
+the maze the next day.
+
+1565
+00:39:27,520 --> 00:39:28,320
+So Enrem sleep
+
+1566
+00:39:28,320 --> 00:39:29,620
+is literally cross-checking
+
+1567
+00:39:29,620 --> 00:39:30,380
+these new memories
+
+1568
+00:39:30,380 --> 00:39:31,660
+against your existing
+
+1569
+00:39:31,660 --> 00:39:32,500
+cortical network.
+
+1570
+00:39:32,720 --> 00:39:33,560
+It's asking
+
+1571
+00:39:33,560 --> 00:39:34,720
+the admissibility question.
+
+1572
+00:39:35,220 --> 00:39:36,700
+Is this memory important?
+
+1573
+00:39:37,060 --> 00:39:37,820
+Is it admissible?
+
+1574
+00:39:37,820 --> 00:39:39,300
+Can we integrate
+
+1575
+00:39:39,300 --> 00:39:40,280
+this new fact
+
+1576
+00:39:40,280 --> 00:39:41,780
+into long-term storage
+
+1577
+00:39:41,780 --> 00:39:43,180
+without destabilizing
+
+1578
+00:39:43,180 --> 00:39:43,920
+the whole system?
+
+1579
+00:39:44,160 --> 00:39:44,480
+Exactly.
+
+1580
+00:39:44,680 --> 00:39:45,460
+It's an active filter.
+
+1581
+00:39:46,180 --> 00:39:46,760
+And then we have
+
+1582
+00:39:46,760 --> 00:39:47,460
+REM sleep,
+
+1583
+00:39:47,640 --> 00:39:48,540
+the dreaming phase.
+
+1584
+00:39:48,940 --> 00:39:49,760
+Fliction calls REM
+
+1585
+00:39:49,760 --> 00:39:50,800
+the commit phase.
+
+1586
+00:39:51,300 --> 00:39:52,020
+By the time you get
+
+1587
+00:39:52,020 --> 00:39:53,160
+to the heavy REM cycles
+
+1588
+00:39:53,160 --> 00:39:53,960
+later in the morning,
+
+1589
+00:39:54,220 --> 00:39:55,340
+Enrem has already done
+
+1590
+00:39:55,340 --> 00:39:55,960
+the heavy lifting
+
+1591
+00:39:55,960 --> 00:39:57,360
+of filtering and reactivating.
+
+1592
+00:39:57,680 --> 00:39:59,000
+REM takes the memory traces
+
+1593
+00:39:59,000 --> 00:40:00,040
+that actually survive
+
+1594
+00:40:00,040 --> 00:40:00,960
+that Enrem filter
+
+1595
+00:40:00,960 --> 00:40:02,620
+and further integrates them.
+
+1596
+00:40:02,960 --> 00:40:03,380
+This is where
+
+1597
+00:40:03,380 --> 00:40:04,320
+procedural memory,
+
+1598
+00:40:04,520 --> 00:40:05,720
+like learning to ride a bike
+
+1599
+00:40:05,720 --> 00:40:06,500
+or play the piano,
+
+1600
+00:40:06,620 --> 00:40:07,460
+gets smoothed out.
+
+1601
+00:40:07,820 --> 00:40:08,480
+And importantly,
+
+1602
+00:40:08,680 --> 00:40:10,220
+it is where the emotional tone
+
+1603
+00:40:10,220 --> 00:40:11,860
+of a memory is recalibrated.
+
+1604
+00:40:12,320 --> 00:40:13,400
+Matthew Walker's work
+
+1605
+00:40:13,400 --> 00:40:14,160
+on this is famous.
+
+1606
+00:40:14,420 --> 00:40:15,520
+He talks about how we sleep
+
+1607
+00:40:15,520 --> 00:40:16,500
+to remember the facts
+
+1608
+00:40:16,500 --> 00:40:17,040
+of a trauma,
+
+1609
+00:40:17,500 --> 00:40:18,440
+but we use REM sleep
+
+1610
+00:40:18,440 --> 00:40:19,160
+to strip away
+
+1611
+00:40:19,160 --> 00:40:20,680
+the raw visceral emotion
+
+1612
+00:40:20,680 --> 00:40:21,880
+attached to those facts.
+
+1613
+00:40:22,140 --> 00:40:23,560
+Because REM operates
+
+1614
+00:40:23,560 --> 00:40:24,660
+under a totally different
+
+1615
+00:40:24,660 --> 00:40:25,740
+neurochemical environment.
+
+1616
+00:40:26,780 --> 00:40:27,420
+During REM,
+
+1617
+00:40:27,840 --> 00:40:28,920
+your brain has almost
+
+1618
+00:40:28,920 --> 00:40:30,080
+zero noradrenaline
+
+1619
+00:40:30,080 --> 00:40:30,780
+the stress chemical.
+
+1620
+00:40:31,580 --> 00:40:32,500
+It A is safe
+
+1621
+00:40:32,500 --> 00:40:33,680
+neurochemical space.
+
+1622
+00:40:34,100 --> 00:40:35,620
+It biases the continuation
+
+1623
+00:40:35,620 --> 00:40:36,360
+of the memory
+
+1624
+00:40:36,360 --> 00:40:37,320
+in a different way
+
+1625
+00:40:37,320 --> 00:40:38,320
+than NREM does,
+
+1626
+00:40:38,640 --> 00:40:39,600
+allowing you to process
+
+1627
+00:40:39,600 --> 00:40:40,800
+highly emotional events
+
+1628
+00:40:40,800 --> 00:40:41,640
+without the physical
+
+1629
+00:40:41,640 --> 00:40:42,520
+stress response.
+
+1630
+00:40:42,900 --> 00:40:43,560
+Okay, let me make sure
+
+1631
+00:40:43,560 --> 00:40:44,380
+I'm really grasping
+
+1632
+00:40:44,380 --> 00:40:45,900
+how different this is
+
+1633
+00:40:45,900 --> 00:40:47,000
+from the hydraulic model.
+
+1634
+00:40:47,240 --> 00:40:48,480
+If sleep was just
+
+1635
+00:40:48,480 --> 00:40:49,760
+a hydraulic pressure release,
+
+1636
+00:40:50,140 --> 00:40:51,100
+it would be like
+
+1637
+00:40:51,100 --> 00:40:52,580
+emptying your computer's
+
+1638
+00:40:52,580 --> 00:40:53,720
+digital trash bin
+
+1639
+00:40:53,720 --> 00:40:55,660
+to free up hard drive space.
+
+1640
+00:40:55,920 --> 00:40:57,080
+It's a generic flush.
+
+1641
+00:40:57,140 --> 00:40:58,120
+You couldn't selectively
+
+1642
+00:40:58,120 --> 00:40:59,540
+save one specific file
+
+1643
+00:40:59,540 --> 00:41:00,440
+while deleting another.
+
+1644
+00:41:00,780 --> 00:41:01,640
+That is the perfect way
+
+1645
+00:41:01,640 --> 00:41:02,240
+to look at it.
+
+1646
+00:41:02,240 --> 00:41:03,400
+And the ultimate proof
+
+1647
+00:41:03,400 --> 00:41:04,160
+that sleep isn't
+
+1648
+00:41:04,160 --> 00:41:05,260
+just a generic flush
+
+1649
+00:41:05,260 --> 00:41:06,180
+comes from something
+
+1650
+00:41:06,180 --> 00:41:07,160
+called targeted memory
+
+1651
+00:41:07,160 --> 00:41:07,940
+reactivation,
+
+1652
+00:41:08,400 --> 00:41:09,780
+or TMR experiments.
+
+1653
+00:41:09,900 --> 00:41:11,220
+Oh, this is the wild stuff
+
+1654
+00:41:11,220 --> 00:41:11,820
+with the smells
+
+1655
+00:41:11,820 --> 00:41:12,600
+and the sounds.
+
+1656
+00:41:12,960 --> 00:41:13,280
+Yes.
+
+1657
+00:41:13,820 --> 00:41:15,240
+Researchers like Bjorn Rash
+
+1658
+00:41:15,240 --> 00:41:16,160
+and Jonathan Rudoy
+
+1659
+00:41:16,160 --> 00:41:17,560
+did these incredible studies
+
+1660
+00:41:17,560 --> 00:41:18,960
+that basically hacked
+
+1661
+00:41:18,960 --> 00:41:20,060
+the admissibility gate.
+
+1662
+00:41:20,700 --> 00:41:21,520
+In Rash's study,
+
+1663
+00:41:21,640 --> 00:41:22,740
+people sat at a computer
+
+1664
+00:41:22,740 --> 00:41:23,900
+and learned the locations
+
+1665
+00:41:23,900 --> 00:41:25,400
+of card pairs on a screen,
+
+1666
+00:41:25,780 --> 00:41:26,740
+like the game memory.
+
+1667
+00:41:27,220 --> 00:41:28,400
+But while they were learning,
+
+1668
+00:41:28,780 --> 00:41:29,680
+the researchers pumped
+
+1669
+00:41:29,680 --> 00:41:30,740
+a very specific,
+
+1670
+00:41:30,960 --> 00:41:31,660
+distinct odor,
+
+1671
+00:41:32,120 --> 00:41:33,080
+the scent of roses,
+
+1672
+00:41:33,220 --> 00:41:33,780
+into the room.
+
+1673
+00:41:34,440 --> 00:41:35,640
+So their waking brains
+
+1674
+00:41:35,640 --> 00:41:37,000
+subconsciously linked
+
+1675
+00:41:37,000 --> 00:41:38,300
+the smell of roses
+
+1676
+00:41:38,300 --> 00:41:39,620
+to the spatial memory
+
+1677
+00:41:39,620 --> 00:41:40,360
+of the cards.
+
+1678
+00:41:40,480 --> 00:41:40,880
+Exactly.
+
+1679
+00:41:41,300 --> 00:41:42,080
+Then the subjects
+
+1680
+00:41:42,080 --> 00:41:42,700
+went to sleep.
+
+1681
+00:41:43,180 --> 00:41:44,140
+While they were in deep,
+
+1682
+00:41:44,320 --> 00:41:45,680
+slow-wave NREM sleep,
+
+1683
+00:41:46,060 --> 00:41:46,920
+the researchers pumped
+
+1684
+00:41:46,920 --> 00:41:48,420
+that exact same rose odor
+
+1685
+00:41:48,420 --> 00:41:49,520
+back into the room.
+
+1686
+00:41:49,680 --> 00:41:50,360
+And what happened?
+
+1687
+00:41:50,440 --> 00:41:51,220
+When they woke up,
+
+1688
+00:41:51,340 --> 00:41:52,240
+their recall for those
+
+1689
+00:41:52,240 --> 00:41:53,480
+specific card locations
+
+1690
+00:41:53,480 --> 00:41:55,300
+was significantly improved
+
+1691
+00:41:55,300 --> 00:41:56,380
+compared to control groups
+
+1692
+00:41:56,380 --> 00:41:57,280
+who didn't get the smell
+
+1693
+00:41:57,280 --> 00:41:57,960
+during sleep.
+
+1694
+00:41:58,320 --> 00:41:59,480
+And Rudoy did the exact
+
+1695
+00:41:59,480 --> 00:42:00,120
+same thing,
+
+1696
+00:42:00,200 --> 00:42:01,540
+using specific sounds
+
+1697
+00:42:01,540 --> 00:42:02,780
+associated with objects
+
+1698
+00:42:02,780 --> 00:42:03,360
+on a screen.
+
+1699
+00:42:03,580 --> 00:42:05,300
+So by playing a sound
+
+1700
+00:42:05,300 --> 00:42:06,580
+or introducing a smell,
+
+1701
+00:42:06,760 --> 00:42:07,360
+the researchers
+
+1702
+00:42:07,360 --> 00:42:08,960
+were literally hijacking
+
+1703
+00:42:08,960 --> 00:42:10,640
+the brain's admissions committee.
+
+1704
+00:42:11,160 --> 00:42:12,320
+They were artificially
+
+1705
+00:42:12,320 --> 00:42:13,720
+flagging a specific memory
+
+1706
+00:42:13,720 --> 00:42:14,160
+and saying,
+
+1707
+00:42:14,300 --> 00:42:15,960
+hey, prioritize this one
+
+1708
+00:42:15,960 --> 00:42:16,460
+for the repair
+
+1709
+00:42:16,460 --> 00:42:17,920
+and consolidation process.
+
+1710
+00:42:18,340 --> 00:42:19,320
+If sleep was just
+
+1711
+00:42:19,320 --> 00:42:20,060
+a pressure valve
+
+1712
+00:42:20,060 --> 00:42:21,140
+flushing adenosine,
+
+1713
+00:42:21,620 --> 00:42:22,440
+playing a sound
+
+1714
+00:42:22,440 --> 00:42:23,600
+or pumping in a smell
+
+1715
+00:42:23,600 --> 00:42:25,140
+wouldn't do absolutely anything
+
+1716
+00:42:25,140 --> 00:42:26,500
+to save a specific file.
+
+1717
+00:42:26,720 --> 00:42:27,280
+Precisely.
+
+1718
+00:42:27,280 --> 00:42:29,220
+Sleep is a highly selective
+
+1719
+00:42:29,220 --> 00:42:30,540
+active admissions committee.
+
+1720
+00:42:31,140 --> 00:42:32,340
+It is actively deciding
+
+1721
+00:42:32,340 --> 00:42:33,480
+which memories are fit
+
+1722
+00:42:33,480 --> 00:42:34,080
+to continue
+
+1723
+00:42:34,080 --> 00:42:35,680
+and shape your future behavior.
+
+1724
+00:42:36,340 --> 00:42:38,140
+But Fliction does mention
+
+1725
+00:42:38,140 --> 00:42:39,200
+the Tannoni-Sorelli
+
+1726
+00:42:39,200 --> 00:42:41,100
+synaptic homeostasis hypothesis,
+
+1727
+00:42:41,340 --> 00:42:42,220
+which is a big deal
+
+1728
+00:42:42,220 --> 00:42:42,980
+in sleep science.
+
+1729
+00:42:43,360 --> 00:42:44,540
+And that theory is essentially
+
+1730
+00:42:44,540 --> 00:42:46,180
+a global downscaling theory.
+
+1731
+00:42:46,380 --> 00:42:46,740
+It is.
+
+1732
+00:42:46,880 --> 00:42:47,940
+The idea is that
+
+1733
+00:42:47,940 --> 00:42:48,600
+during the day,
+
+1734
+00:42:48,660 --> 00:42:49,240
+as we learn,
+
+1735
+00:42:49,340 --> 00:42:49,960
+our synapses
+
+1736
+00:42:49,960 --> 00:42:51,020
+get chemically stronger
+
+1737
+00:42:51,020 --> 00:42:51,500
+and thicker.
+
+1738
+00:42:51,500 --> 00:42:52,640
+And if they just kept
+
+1739
+00:42:52,640 --> 00:42:53,640
+getting stronger forever,
+
+1740
+00:42:53,840 --> 00:42:54,760
+our brains would literally
+
+1741
+00:42:54,760 --> 00:42:56,120
+run out of physical space
+
+1742
+00:42:56,120 --> 00:42:56,660
+and energy.
+
+1743
+00:42:57,120 --> 00:42:58,540
+So sleep globally scales
+
+1744
+00:42:58,540 --> 00:42:59,360
+all the synapses
+
+1745
+00:42:59,360 --> 00:43:00,520
+back down to a baseline,
+
+1746
+00:43:00,760 --> 00:43:01,960
+preserving the relative strength
+
+1747
+00:43:01,960 --> 00:43:02,860
+of the important ones
+
+1748
+00:43:02,860 --> 00:43:03,600
+while clearing out
+
+1749
+00:43:03,600 --> 00:43:04,360
+the daily noise.
+
+1750
+00:43:04,720 --> 00:43:05,720
+Which is a brilliant model
+
+1751
+00:43:05,720 --> 00:43:07,000
+and it is very hydraulic
+
+1752
+00:43:07,000 --> 00:43:07,500
+in nature.
+
+1753
+00:43:07,940 --> 00:43:08,900
+It's about managing
+
+1754
+00:43:08,900 --> 00:43:09,960
+the total energetic
+
+1755
+00:43:09,960 --> 00:43:11,020
+and physical weight
+
+1756
+00:43:11,020 --> 00:43:11,940
+of the synapses.
+
+1757
+00:43:12,520 --> 00:43:13,760
+And Fliction doesn't dismiss this.
+
+1758
+00:43:13,820 --> 00:43:14,920
+He says we have to stratify
+
+1759
+00:43:14,920 --> 00:43:15,780
+our understanding.
+
+1760
+00:43:15,940 --> 00:43:16,180
+Right.
+
+1761
+00:43:16,540 --> 00:43:17,200
+Process S
+
+1762
+00:43:17,200 --> 00:43:18,380
+and synaptic downscaling
+
+1763
+00:43:18,380 --> 00:43:19,920
+are incredibly accurate
+
+1764
+00:43:19,920 --> 00:43:21,440
+for tracking sleep deprivation
+
+1765
+00:43:21,440 --> 00:43:23,500
+and the raw biological energy
+
+1766
+00:43:23,500 --> 00:43:24,560
+required by the brain.
+
+1767
+00:43:24,760 --> 00:43:26,260
+But they do not explain
+
+1768
+00:43:26,260 --> 00:43:27,680
+the content-sensitive routing
+
+1769
+00:43:27,680 --> 00:43:28,840
+of specific memories.
+
+1770
+00:43:29,540 --> 00:43:30,180
+Sleep is both.
+
+1771
+00:43:30,740 --> 00:43:32,520
+It is a vital hydraulic discharge
+
+1772
+00:43:32,520 --> 00:43:33,440
+of energetic need
+
+1773
+00:43:33,440 --> 00:43:35,380
+and it is a highly specific
+
+1774
+00:43:35,380 --> 00:43:37,320
+content-sensitive continuation
+
+1775
+00:43:37,320 --> 00:43:38,620
+pass for your memories.
+
+1776
+00:43:38,840 --> 00:43:39,520
+So tonight,
+
+1777
+00:43:39,640 --> 00:43:40,560
+when you hit that deep
+
+1778
+00:43:40,560 --> 00:43:41,480
+slow-wave sleep,
+
+1779
+00:43:41,640 --> 00:43:42,840
+your brain is actively
+
+1780
+00:43:42,840 --> 00:43:44,380
+doing this triage.
+
+1781
+00:43:44,620 --> 00:43:45,540
+It is amazing.
+
+1782
+00:43:46,080 --> 00:43:47,300
+And that transitions us
+
+1783
+00:43:47,300 --> 00:43:48,760
+perfectly from the brain
+
+1784
+00:43:48,760 --> 00:43:49,420
+using sleep
+
+1785
+00:43:49,420 --> 00:43:50,200
+to filter memories
+
+1786
+00:43:50,200 --> 00:43:50,920
+to the body
+
+1787
+00:43:50,920 --> 00:43:51,920
+using the immune system
+
+1788
+00:43:51,920 --> 00:43:53,260
+to filter out physical threats.
+
+1789
+00:43:53,260 --> 00:43:54,500
+Let's look at section five.
+
+1790
+00:43:55,440 --> 00:43:55,920
+Immunology.
+
+1791
+00:43:56,180 --> 00:43:57,300
+This might be the most brutal,
+
+1792
+00:43:57,500 --> 00:43:57,840
+ultimate,
+
+1793
+00:43:58,040 --> 00:43:59,520
+biological admissibility gate
+
+1794
+00:43:59,520 --> 00:43:59,960
+of them all.
+
+1795
+00:44:00,020 --> 00:44:00,680
+It really is.
+
+1796
+00:44:01,120 --> 00:44:01,980
+If sleep decides
+
+1797
+00:44:01,980 --> 00:44:02,580
+which memories
+
+1798
+00:44:02,580 --> 00:44:03,200
+are admissible
+
+1799
+00:44:03,200 --> 00:44:04,380
+to keep your mind coherent,
+
+1800
+00:44:04,880 --> 00:44:05,980
+the immune system decides
+
+1801
+00:44:05,980 --> 00:44:06,860
+which cells are admissible
+
+1802
+00:44:06,860 --> 00:44:08,480
+to keep your physical body alive.
+
+1803
+00:44:08,720 --> 00:44:09,720
+Every time you get a cold,
+
+1804
+00:44:09,840 --> 00:44:10,640
+your body is making
+
+1805
+00:44:10,640 --> 00:44:11,800
+a ruthless calculation.
+
+1806
+00:44:11,800 --> 00:44:13,840
+So Fliction anchors this
+
+1807
+00:44:13,840 --> 00:44:15,020
+in the classic theories
+
+1808
+00:44:15,020 --> 00:44:16,480
+that won the Nobel Prize,
+
+1809
+00:44:16,780 --> 00:44:18,220
+Niels Jern in 1955,
+
+1810
+00:44:18,660 --> 00:44:20,920
+and McFarlane Burnett in 1957,
+
+1811
+00:44:21,360 --> 00:44:22,780
+the clonal selection theory.
+
+1812
+00:44:23,140 --> 00:44:24,980
+This was a massive paradigm shift
+
+1813
+00:44:24,980 --> 00:44:25,600
+in biology.
+
+1814
+00:44:26,280 --> 00:44:26,900
+Before this,
+
+1815
+00:44:27,240 --> 00:44:28,520
+scientists actually believed
+
+1816
+00:44:28,520 --> 00:44:29,960
+in an instruction theory.
+
+1817
+00:44:30,600 --> 00:44:31,380
+They thought the body
+
+1818
+00:44:31,380 --> 00:44:32,160
+saw a virus,
+
+1819
+00:44:32,600 --> 00:44:33,380
+studied its shape,
+
+1820
+00:44:33,540 --> 00:44:34,880
+and then custom-manufactured
+
+1821
+00:44:34,880 --> 00:44:35,460
+an antibody
+
+1822
+00:44:35,460 --> 00:44:36,580
+to perfectly fit it,
+
+1823
+00:44:36,800 --> 00:44:37,660
+like a blacksmith
+
+1824
+00:44:37,660 --> 00:44:38,960
+forging a custom key
+
+1825
+00:44:38,960 --> 00:44:39,620
+for a lock.
+
+1826
+00:44:40,040 --> 00:44:40,880
+Jern and Burnett
+
+1827
+00:44:40,880 --> 00:44:42,100
+completely flipped that.
+
+1828
+00:44:42,320 --> 00:44:43,500
+They proved that your body
+
+1829
+00:44:43,500 --> 00:44:44,380
+already contains
+
+1830
+00:44:44,380 --> 00:44:45,200
+a massive,
+
+1831
+00:44:45,480 --> 00:44:46,400
+random library
+
+1832
+00:44:46,400 --> 00:44:48,580
+of millions of naive B-cells,
+
+1833
+00:44:48,780 --> 00:44:50,120
+each with a totally different,
+
+1834
+00:44:50,300 --> 00:44:51,620
+randomly-generated receptor.
+
+1835
+00:44:52,020 --> 00:44:52,900
+When a virus enters,
+
+1836
+00:44:53,060 --> 00:44:54,040
+the body doesn't build
+
+1837
+00:44:54,040 --> 00:44:54,780
+a custom key.
+
+1838
+00:44:55,120 --> 00:44:56,320
+The virus just bounces around
+
+1839
+00:44:56,320 --> 00:44:57,360
+until it randomly bumps
+
+1840
+00:44:57,360 --> 00:44:58,140
+into the one B-cell
+
+1841
+00:44:58,140 --> 00:44:59,160
+that happens to have a receptor
+
+1842
+00:44:59,160 --> 00:45:00,060
+that kind of fits it,
+
+1843
+00:45:00,400 --> 00:45:01,760
+and then that specific cell
+
+1844
+00:45:01,760 --> 00:45:03,260
+is selected to clone itself rapidly.
+
+1845
+00:45:03,440 --> 00:45:05,340
+It's a Darwinian evolutionary process
+
+1846
+00:45:05,340 --> 00:45:06,460
+happening in real time
+
+1847
+00:45:06,460 --> 00:45:07,900
+inside your own lymph nodes.
+
+1848
+00:45:08,320 --> 00:45:08,700
+Exactly.
+
+1849
+00:45:09,200 --> 00:45:10,020
+And this leads to
+
+1850
+00:45:10,020 --> 00:45:11,060
+an incredible process
+
+1851
+00:45:11,060 --> 00:45:12,560
+called affinity maturation
+
+1852
+00:45:12,560 --> 00:45:14,520
+inside the germinal centers
+
+1853
+00:45:14,520 --> 00:45:15,560
+of your lymph nodes.
+
+1854
+00:45:16,220 --> 00:45:16,780
+Germinal centers
+
+1855
+00:45:16,780 --> 00:45:17,700
+are these temporary
+
+1856
+00:45:17,700 --> 00:45:18,420
+microstructures
+
+1857
+00:45:18,420 --> 00:45:19,080
+that form
+
+1858
+00:45:19,080 --> 00:45:19,940
+when you get an infection.
+
+1859
+00:45:20,360 --> 00:45:21,380
+And this process
+
+1860
+00:45:21,380 --> 00:45:22,740
+is almost universally taught
+
+1861
+00:45:22,740 --> 00:45:23,800
+in biology textbooks
+
+1862
+00:45:23,800 --> 00:45:25,280
+as a pure optimization
+
+1863
+00:45:25,280 --> 00:45:26,100
+search engine.
+
+1864
+00:45:26,460 --> 00:45:26,940
+Right.
+
+1865
+00:45:27,140 --> 00:45:28,300
+It's Ceres taught
+
+1866
+00:45:28,300 --> 00:45:29,120
+as the body
+
+1867
+00:45:29,120 --> 00:45:29,720
+trying to find
+
+1868
+00:45:29,720 --> 00:45:31,220
+the absolute best,
+
+1869
+00:45:31,480 --> 00:45:32,540
+stickiest antibody
+
+1870
+00:45:32,540 --> 00:45:34,060
+to neutralize the threat.
+
+1871
+00:45:34,300 --> 00:45:34,580
+Yes.
+
+1872
+00:45:35,160 --> 00:45:36,320
+The B-cells enter a region
+
+1873
+00:45:36,320 --> 00:45:37,500
+called the dark zone
+
+1874
+00:45:37,500 --> 00:45:38,560
+of the germinal center
+
+1875
+00:45:38,560 --> 00:45:39,740
+and divide rapidly.
+
+1876
+00:45:40,200 --> 00:45:40,860
+As they divide,
+
+1877
+00:45:40,980 --> 00:45:43,120
+their DNA literally mutates
+
+1878
+00:45:43,120 --> 00:45:43,720
+on purpose
+
+1879
+00:45:43,720 --> 00:45:44,800
+a process called
+
+1880
+00:45:44,800 --> 00:45:46,100
+somatic hypermutation.
+
+1881
+00:45:46,580 --> 00:45:47,300
+This is driven
+
+1882
+00:45:47,300 --> 00:45:48,720
+by an enzyme called AID.
+
+1883
+00:45:49,020 --> 00:45:49,820
+AID is essentially
+
+1884
+00:45:49,820 --> 00:45:51,740
+a reckless biological copy editor
+
+1885
+00:45:51,740 --> 00:45:53,380
+that intentionally introduces
+
+1886
+00:45:53,380 --> 00:45:55,240
+typos into the B-cell's DNA,
+
+1887
+00:45:55,660 --> 00:45:56,520
+mutating the receptor
+
+1888
+00:45:56,520 --> 00:45:58,000
+to change its shape slightly.
+
+1889
+00:45:58,180 --> 00:45:58,520
+Then,
+
+1890
+00:45:58,660 --> 00:45:59,480
+these mutated cells
+
+1891
+00:45:59,480 --> 00:46:00,580
+move to the light zone
+
+1892
+00:46:00,580 --> 00:46:01,780
+to test those new shapes.
+
+1893
+00:46:02,080 --> 00:46:03,160
+They have to grab bits
+
+1894
+00:46:03,160 --> 00:46:03,620
+of the virus
+
+1895
+00:46:03,620 --> 00:46:04,540
+displayed by special
+
+1896
+00:46:04,540 --> 00:46:05,820
+follicular dendritic cells,
+
+1897
+00:46:06,260 --> 00:46:06,860
+process it,
+
+1898
+00:46:07,120 --> 00:46:07,680
+and present it
+
+1899
+00:46:07,680 --> 00:46:09,180
+to T-follicular helper cells,
+
+1900
+00:46:09,400 --> 00:46:10,120
+TFH cells.
+
+1901
+00:46:10,320 --> 00:46:11,140
+If the new mutation
+
+1902
+00:46:11,140 --> 00:46:11,840
+binds better,
+
+1903
+00:46:12,120 --> 00:46:13,180
+it gets a survival signal
+
+1904
+00:46:13,180 --> 00:46:13,940
+from the T-cell.
+
+1905
+00:46:14,140 --> 00:46:14,780
+It survives,
+
+1906
+00:46:15,020 --> 00:46:16,240
+cycles back to the dark zone
+
+1907
+00:46:16,240 --> 00:46:16,960
+to mutate again,
+
+1908
+00:46:17,120 --> 00:46:18,340
+and gets even stickier.
+
+1909
+00:46:18,680 --> 00:46:18,880
+Okay,
+
+1910
+00:46:18,960 --> 00:46:20,080
+so that sounds exactly
+
+1911
+00:46:20,080 --> 00:46:21,480
+like an optimization engine.
+
+1912
+00:46:21,820 --> 00:46:22,720
+It's an algorithm
+
+1913
+00:46:22,720 --> 00:46:23,820
+finding the highest
+
+1914
+00:46:23,820 --> 00:46:24,660
+affinity binder.
+
+1915
+00:46:25,160 --> 00:46:26,100
+But Flicksheen says
+
+1916
+00:46:26,100 --> 00:46:27,340
+that optimization story
+
+1917
+00:46:27,340 --> 00:46:28,080
+is secondary.
+
+1918
+00:46:28,900 --> 00:46:29,540
+Flicksheen argues
+
+1919
+00:46:29,540 --> 00:46:30,400
+that germinal center
+
+1920
+00:46:30,400 --> 00:46:31,120
+is primarily
+
+1921
+00:46:31,120 --> 00:46:33,080
+a strict admissibility filter.
+
+1922
+00:46:33,720 --> 00:46:34,360
+Because finding
+
+1923
+00:46:34,360 --> 00:46:35,800
+the stickiest antibody
+
+1924
+00:46:35,800 --> 00:46:37,600
+is just a ranking process
+
+1925
+00:46:37,600 --> 00:46:39,100
+internal to a much,
+
+1926
+00:46:39,220 --> 00:46:40,200
+much stricter gate.
+
+1927
+00:46:40,800 --> 00:46:42,320
+A mutated B-cell variant
+
+1928
+00:46:42,320 --> 00:46:43,240
+doesn't just have to
+
+1929
+00:46:43,240 --> 00:46:44,400
+bind well to the virus,
+
+1930
+00:46:44,540 --> 00:46:45,480
+it must remain
+
+1931
+00:46:45,480 --> 00:46:46,560
+physically foldable
+
+1932
+00:46:46,560 --> 00:46:47,780
+so it actually functions
+
+1933
+00:46:47,780 --> 00:46:49,040
+as a protein receptor.
+
+1934
+00:46:49,300 --> 00:46:50,480
+It has to successfully
+
+1935
+00:46:50,480 --> 00:46:51,140
+compete against
+
+1936
+00:46:51,140 --> 00:46:52,400
+all the other B-cells
+
+1937
+00:46:52,400 --> 00:46:54,120
+for a very limited supply
+
+1938
+00:46:54,120 --> 00:46:55,460
+of TFA survival signals.
+
+1939
+00:46:55,820 --> 00:46:56,660
+And most importantly,
+
+1940
+00:46:57,040 --> 00:46:57,340
+crucially,
+
+1941
+00:46:57,740 --> 00:46:58,300
+it must be
+
+1942
+00:46:58,300 --> 00:46:59,440
+non-self-reactive.
+
+1943
+00:46:59,440 --> 00:47:00,700
+Because aid
+
+1944
+00:47:00,700 --> 00:47:01,800
+is randomly mutating
+
+1945
+00:47:01,800 --> 00:47:02,300
+the DNA,
+
+1946
+00:47:02,800 --> 00:47:03,760
+it might accidentally
+
+1947
+00:47:03,760 --> 00:47:04,620
+create a mutation
+
+1948
+00:47:04,620 --> 00:47:05,820
+that perfectly binds
+
+1949
+00:47:05,820 --> 00:47:06,540
+to the virus,
+
+1950
+00:47:06,740 --> 00:47:08,040
+but also binds perfectly
+
+1951
+00:47:08,040 --> 00:47:09,160
+to your own heart tissue
+
+1952
+00:47:09,160 --> 00:47:10,500
+or your own nervous system.
+
+1953
+00:47:10,700 --> 00:47:11,480
+If a mutation
+
+1954
+00:47:11,480 --> 00:47:12,340
+makes the antibody
+
+1955
+00:47:12,340 --> 00:47:13,460
+attack your own body,
+
+1956
+00:47:13,680 --> 00:47:14,420
+it must be
+
+1957
+00:47:14,420 --> 00:47:15,520
+immediately disqualified.
+
+1958
+00:47:15,660 --> 00:47:16,260
+And what actually
+
+1959
+00:47:16,260 --> 00:47:17,720
+happens to the disqualified cells?
+
+1960
+00:47:17,800 --> 00:47:18,420
+How does the body
+
+1961
+00:47:18,420 --> 00:47:19,100
+get rid of them?
+
+1962
+00:47:19,420 --> 00:47:20,800
+They undergo apoptosis,
+
+1963
+00:47:21,300 --> 00:47:22,120
+which is programmed
+
+1964
+00:47:22,120 --> 00:47:22,880
+cell death.
+
+1965
+00:47:23,420 --> 00:47:24,340
+Mechanisms involving
+
+1966
+00:47:24,340 --> 00:47:25,440
+specific proteins
+
+1967
+00:47:25,440 --> 00:47:26,080
+like BIM
+
+1968
+00:47:26,080 --> 00:47:27,240
+or interactions with
+
+1969
+00:47:27,240 --> 00:47:28,040
+FAS and
+
+1970
+00:47:28,040 --> 00:47:29,200
+FAS ligand
+
+1971
+00:47:29,200 --> 00:47:30,440
+trigger a cascade
+
+1972
+00:47:30,440 --> 00:47:31,320
+inside the cell.
+
+1973
+00:47:31,460 --> 00:47:32,480
+These proteins
+
+1974
+00:47:32,480 --> 00:47:33,640
+aren't just random letters.
+
+1975
+00:47:33,820 --> 00:47:35,440
+They are chemical executioners.
+
+1976
+00:47:35,740 --> 00:47:36,620
+They tell the cells
+
+1977
+00:47:36,620 --> 00:47:37,340
+mitochondria
+
+1978
+00:47:37,340 --> 00:47:37,920
+to literally
+
+1979
+00:47:37,920 --> 00:47:38,920
+spill its guts,
+
+1980
+00:47:39,340 --> 00:47:40,200
+activate enzymes
+
+1981
+00:47:40,200 --> 00:47:41,080
+called caspices,
+
+1982
+00:47:41,300 --> 00:47:42,560
+and safely dismantle
+
+1983
+00:47:42,560 --> 00:47:42,900
+the cell
+
+1984
+00:47:42,900 --> 00:47:43,840
+from the inside out
+
+1985
+00:47:43,840 --> 00:47:44,580
+so it can be eaten
+
+1986
+00:47:44,580 --> 00:47:45,480
+by macrophages
+
+1987
+00:47:45,480 --> 00:47:46,680
+without causing inflammation.
+
+1988
+00:47:47,340 --> 00:47:48,440
+Why is the system
+
+1989
+00:47:48,440 --> 00:47:49,600
+so incredibly ruthless?
+
+1990
+00:47:50,080 --> 00:47:50,800
+Why expand
+
+1991
+00:47:50,800 --> 00:47:52,160
+all that biological energy
+
+1992
+00:47:52,160 --> 00:47:53,460
+making these cells,
+
+1993
+00:47:53,580 --> 00:47:54,460
+letting them mutate,
+
+1994
+00:47:54,460 --> 00:47:56,360
+just to instantly trigger
+
+1995
+00:47:56,360 --> 00:47:57,700
+chemical executioners
+
+1996
+00:47:57,700 --> 00:47:58,520
+to dissolve them?
+
+1997
+00:47:58,920 --> 00:47:59,760
+The system is ruthless
+
+1998
+00:47:59,760 --> 00:48:01,380
+because biological persistence
+
+1999
+00:48:01,380 --> 00:48:02,260
+isn't free.
+
+2000
+00:48:02,760 --> 00:48:03,740
+A rogue antibody
+
+2001
+00:48:03,740 --> 00:48:04,620
+with high affinity
+
+2002
+00:48:04,620 --> 00:48:05,320
+for a virus,
+
+2003
+00:48:05,460 --> 00:48:06,700
+but which also cross-reacts
+
+2004
+00:48:06,700 --> 00:48:07,780
+and attacks your own tissue,
+
+2005
+00:48:08,320 --> 00:48:09,980
+is an inadmissible continuation.
+
+2006
+00:48:10,460 --> 00:48:11,780
+If that single rogue cell
+
+2007
+00:48:11,780 --> 00:48:13,220
+survives and clones itself,
+
+2008
+00:48:13,400 --> 00:48:14,500
+it will cause a catastrophic
+
+2009
+00:48:14,500 --> 00:48:15,400
+autoimmune disease
+
+2010
+00:48:15,400 --> 00:48:16,360
+and destroy the host.
+
+2011
+00:48:16,620 --> 00:48:17,680
+Apoptosis isn't just
+
+2012
+00:48:17,680 --> 00:48:19,100
+a failed optimization search.
+
+2013
+00:48:19,240 --> 00:48:20,320
+It is a vital local
+
+2014
+00:48:20,320 --> 00:48:21,300
+repair mechanism
+
+2015
+00:48:21,300 --> 00:48:22,580
+to prevent the ultimate
+
+2016
+00:48:22,580 --> 00:48:24,100
+contradiction of self-attack.
+
+2017
+00:48:24,100 --> 00:48:24,540
+Wow.
+
+2018
+00:48:24,940 --> 00:48:25,920
+Cellular deletion
+
+2019
+00:48:25,920 --> 00:48:27,440
+is a form of systemic repair.
+
+2020
+00:48:27,800 --> 00:48:28,220
+Exactly.
+
+2021
+00:48:28,500 --> 00:48:29,360
+And the system actually
+
+2022
+00:48:29,360 --> 00:48:30,460
+tries to repair the cells
+
+2023
+00:48:30,460 --> 00:48:31,540
+before killing them
+
+2024
+00:48:31,540 --> 00:48:32,300
+in some cases.
+
+2025
+00:48:33,040 --> 00:48:34,180
+During central tolerance,
+
+2026
+00:48:34,340 --> 00:48:35,380
+when B cells are first
+
+2027
+00:48:35,380 --> 00:48:36,500
+being born in the bone marrow,
+
+2028
+00:48:36,900 --> 00:48:37,780
+if a new B cell
+
+2029
+00:48:37,780 --> 00:48:39,160
+is detected as self-reactive,
+
+2030
+00:48:39,480 --> 00:48:40,840
+it doesn't always die immediately.
+
+2031
+00:48:40,980 --> 00:48:41,720
+It can undergo
+
+2032
+00:48:41,720 --> 00:48:42,740
+receptor editing.
+
+2033
+00:48:42,980 --> 00:48:44,100
+The cell literally
+
+2034
+00:48:44,100 --> 00:48:45,500
+pauses its development,
+
+2035
+00:48:46,280 --> 00:48:47,200
+reopens its DNA,
+
+2036
+00:48:47,780 --> 00:48:48,880
+rewrites the genetic code
+
+2037
+00:48:48,880 --> 00:48:49,680
+for its light chain,
+
+2038
+00:48:49,860 --> 00:48:50,880
+and tries to create
+
+2039
+00:48:50,880 --> 00:48:51,880
+a brand new receptor
+
+2040
+00:48:51,880 --> 00:48:52,940
+that isn't dangerous.
+
+2041
+00:48:52,940 --> 00:48:54,680
+It is actively trying
+
+2042
+00:48:54,680 --> 00:48:55,880
+to find an admissible
+
+2043
+00:48:55,880 --> 00:48:57,600
+continuation rather
+
+2044
+00:48:57,600 --> 00:48:58,520
+than just dying.
+
+2045
+00:48:59,340 --> 00:49:00,820
+That is incredible mechanics,
+
+2046
+00:49:01,160 --> 00:49:02,600
+and this idea that the immune system
+
+2047
+00:49:02,600 --> 00:49:03,880
+is managing a historical
+
+2048
+00:49:03,880 --> 00:49:05,300
+ledger of continuations
+
+2049
+00:49:05,300 --> 00:49:06,840
+leads to a phenomenon
+
+2050
+00:49:06,840 --> 00:49:09,120
+called original antigenic sin,
+
+2051
+00:49:09,420 --> 00:49:10,840
+which sounds incredibly dramatic,
+
+2052
+00:49:11,120 --> 00:49:12,060
+but is also called
+
+2053
+00:49:12,060 --> 00:49:13,260
+immune imprinting.
+
+2054
+00:49:13,440 --> 00:49:14,960
+It's a very observable phenomenon,
+
+2055
+00:49:15,160 --> 00:49:16,180
+classic in decades
+
+2056
+00:49:16,180 --> 00:49:17,420
+of influenza research.
+
+2057
+00:49:17,420 --> 00:49:19,020
+When you are exposed
+
+2058
+00:49:19,020 --> 00:49:20,020
+to a brand new,
+
+2059
+00:49:20,160 --> 00:49:21,300
+slightly mutated strain
+
+2060
+00:49:21,300 --> 00:49:21,800
+of the flu,
+
+2061
+00:49:22,120 --> 00:49:22,980
+your immune system
+
+2062
+00:49:22,980 --> 00:49:24,020
+doesn't start from scratch.
+
+2063
+00:49:24,480 --> 00:49:25,800
+It preferentially wakes up
+
+2064
+00:49:25,800 --> 00:49:26,660
+memory B cells
+
+2065
+00:49:26,660 --> 00:49:28,240
+from your prior flu infections
+
+2066
+00:49:28,240 --> 00:49:29,580
+that kind of recognize
+
+2067
+00:49:29,580 --> 00:49:30,220
+the new strain,
+
+2068
+00:49:30,560 --> 00:49:31,660
+rather than taking the time
+
+2069
+00:49:31,660 --> 00:49:32,620
+to train brand new,
+
+2070
+00:49:32,740 --> 00:49:34,160
+perfect, naive B cells.
+
+2071
+00:49:34,560 --> 00:49:36,200
+Infliction cites recent work
+
+2072
+00:49:36,200 --> 00:49:37,620
+by researchers like Idolo
+
+2073
+00:49:37,620 --> 00:49:39,420
+and others showing this happens
+
+2074
+00:49:39,420 --> 00:49:41,180
+heavily with COVID-19, too.
+
+2075
+00:49:41,660 --> 00:49:42,800
+Our recall responses
+
+2076
+00:49:42,800 --> 00:49:43,740
+to new variants
+
+2077
+00:49:43,740 --> 00:49:44,860
+are heavily biased
+
+2078
+00:49:44,860 --> 00:49:46,140
+by our past exposures
+
+2079
+00:49:46,140 --> 00:49:47,340
+to the original strain.
+
+2080
+00:49:47,620 --> 00:49:48,600
+Right, and this proves
+
+2081
+00:49:48,600 --> 00:49:49,420
+Fliction's point.
+
+2082
+00:49:50,140 --> 00:49:51,000
+If the immune system
+
+2083
+00:49:51,000 --> 00:49:51,960
+was a perfect,
+
+2084
+00:49:52,140 --> 00:49:53,320
+mathematically ideal
+
+2085
+00:49:53,320 --> 00:49:54,560
+optimization engine,
+
+2086
+00:49:54,860 --> 00:49:56,040
+it would always build
+
+2087
+00:49:56,040 --> 00:49:57,240
+the absolute best,
+
+2088
+00:49:57,620 --> 00:49:58,720
+most perfect antibody
+
+2089
+00:49:58,720 --> 00:49:59,720
+for the current threat.
+
+2090
+00:50:00,340 --> 00:50:01,640
+But because immune memory
+
+2091
+00:50:01,640 --> 00:50:03,180
+is a continuation ledger,
+
+2092
+00:50:03,660 --> 00:50:04,820
+the system relies heavily
+
+2093
+00:50:04,820 --> 00:50:05,820
+on past winners.
+
+2094
+00:50:06,040 --> 00:50:06,820
+Those past winners
+
+2095
+00:50:06,820 --> 00:50:07,460
+are numerous,
+
+2096
+00:50:07,680 --> 00:50:09,040
+they activate incredibly fast,
+
+2097
+00:50:09,140 --> 00:50:09,700
+and crucially,
+
+2098
+00:50:09,880 --> 00:50:10,880
+they have already passed
+
+2099
+00:50:10,880 --> 00:50:11,780
+the safety filters.
+
+2100
+00:50:11,780 --> 00:50:12,920
+They are proven
+
+2101
+00:50:12,920 --> 00:50:14,700
+to be non-self-reactive.
+
+2102
+00:50:14,860 --> 00:50:15,660
+So the system says
+
+2103
+00:50:15,660 --> 00:50:17,020
+this old antibody
+
+2104
+00:50:17,020 --> 00:50:17,860
+is close enough,
+
+2105
+00:50:18,060 --> 00:50:19,060
+let's just use this
+
+2106
+00:50:19,060 --> 00:50:20,020
+to survive today.
+
+2107
+00:50:20,420 --> 00:50:21,180
+Sometimes this is
+
+2108
+00:50:21,180 --> 00:50:21,900
+highly protective.
+
+2109
+00:50:22,320 --> 00:50:23,440
+Other times it biases
+
+2110
+00:50:23,440 --> 00:50:24,720
+the response so heavily
+
+2111
+00:50:24,720 --> 00:50:25,740
+that the body struggles
+
+2112
+00:50:25,740 --> 00:50:27,460
+to adapt to a novel mutation.
+
+2113
+00:50:27,800 --> 00:50:29,040
+The past physically shapes
+
+2114
+00:50:29,040 --> 00:50:30,100
+this space of available
+
+2115
+00:50:30,100 --> 00:50:31,500
+continuations in the future.
+
+2116
+00:50:31,740 --> 00:50:32,700
+Now, I know there is
+
+2117
+00:50:32,700 --> 00:50:33,540
+pushback on this.
+
+2118
+00:50:34,080 --> 00:50:34,700
+Fliction mentions
+
+2119
+00:50:34,700 --> 00:50:36,080
+classic hapten systems,
+
+2120
+00:50:36,400 --> 00:50:37,480
+which are simplified
+
+2121
+00:50:37,480 --> 00:50:38,600
+experimental models
+
+2122
+00:50:38,600 --> 00:50:39,820
+using synthetic chemicals,
+
+2123
+00:50:40,040 --> 00:50:41,100
+and those models
+
+2124
+00:50:41,100 --> 00:50:42,700
+do show very straightforward,
+
+2125
+00:50:43,120 --> 00:50:44,860
+simple affinity maximization.
+
+2126
+00:50:44,860 --> 00:50:46,020
+And then there's
+
+2127
+00:50:46,020 --> 00:50:46,820
+this fascinating
+
+2128
+00:50:46,820 --> 00:50:47,940
+live imaging study
+
+2129
+00:50:47,940 --> 00:50:49,320
+by Taz and colleagues.
+
+2130
+00:50:50,120 --> 00:50:50,800
+The Taz study
+
+2131
+00:50:50,800 --> 00:50:51,840
+is a crucial piece
+
+2132
+00:50:51,840 --> 00:50:53,180
+of disconfirming evidence
+
+2133
+00:50:53,180 --> 00:50:54,260
+that we have to acknowledge.
+
+2134
+00:50:54,940 --> 00:50:55,800
+They used advanced
+
+2135
+00:50:55,800 --> 00:50:56,420
+live imaging
+
+2136
+00:50:56,420 --> 00:50:57,460
+to physically track
+
+2137
+00:50:57,460 --> 00:50:58,100
+the dynamics
+
+2138
+00:50:58,100 --> 00:50:59,260
+inside a germinal center
+
+2139
+00:50:59,260 --> 00:50:59,920
+over time.
+
+2140
+00:51:00,440 --> 00:51:01,020
+And they found
+
+2141
+00:51:01,020 --> 00:51:01,720
+that a lot of
+
+2142
+00:51:01,720 --> 00:51:02,940
+clonal extinction cells
+
+2143
+00:51:02,940 --> 00:51:03,660
+dying off
+
+2144
+00:51:03,660 --> 00:51:04,820
+didn't actually look
+
+2145
+00:51:04,820 --> 00:51:05,460
+like a perfectly
+
+2146
+00:51:05,460 --> 00:51:07,080
+principled admissibility filter
+
+2147
+00:51:07,080 --> 00:51:08,180
+catching bad cells.
+
+2148
+00:51:08,420 --> 00:51:09,140
+It looked like
+
+2149
+00:51:09,140 --> 00:51:10,060
+stochastic drift.
+
+2150
+00:51:10,380 --> 00:51:11,100
+Pure chance.
+
+2151
+00:51:11,100 --> 00:51:12,640
+Sometimes a perfectly good
+
+2152
+00:51:12,640 --> 00:51:13,640
+high affinity B cell
+
+2153
+00:51:13,640 --> 00:51:14,300
+just dies
+
+2154
+00:51:14,300 --> 00:51:14,920
+because it happened
+
+2155
+00:51:14,920 --> 00:51:15,520
+to be in the wrong
+
+2156
+00:51:15,520 --> 00:51:16,240
+physical place
+
+2157
+00:51:16,240 --> 00:51:17,000
+at the wrong time
+
+2158
+00:51:17,000 --> 00:51:18,620
+and missed a survival signal.
+
+2159
+00:51:18,940 --> 00:51:19,920
+So it's not a perfect
+
+2160
+00:51:19,920 --> 00:51:21,000
+hyper-rational filter.
+
+2161
+00:51:21,160 --> 00:51:21,680
+It's messy.
+
+2162
+00:51:22,020 --> 00:51:23,260
+It is deeply messy.
+
+2163
+00:51:23,740 --> 00:51:24,640
+But Fliction's point
+
+2164
+00:51:24,640 --> 00:51:25,280
+is that while
+
+2165
+00:51:25,280 --> 00:51:26,140
+stochastic drift
+
+2166
+00:51:26,140 --> 00:51:27,240
+certainly exists,
+
+2167
+00:51:27,500 --> 00:51:28,260
+it happens within
+
+2168
+00:51:28,260 --> 00:51:29,120
+the hard boundaries
+
+2169
+00:51:29,120 --> 00:51:29,880
+of admissibility.
+
+2170
+00:51:30,400 --> 00:51:31,140
+A good cell
+
+2171
+00:51:31,140 --> 00:51:32,320
+might die by chance,
+
+2172
+00:51:32,520 --> 00:51:33,300
+but if a cell
+
+2173
+00:51:33,300 --> 00:51:34,880
+is dangerously self-reactive,
+
+2174
+00:51:35,140 --> 00:51:36,220
+the filter will catch it.
+
+2175
+00:51:36,600 --> 00:51:37,220
+The optimization
+
+2176
+00:51:37,220 --> 00:51:38,620
+and the random drift
+
+2177
+00:51:38,620 --> 00:51:39,580
+are nested inside
+
+2178
+00:51:39,580 --> 00:51:40,740
+a much stricter
+
+2179
+00:51:40,740 --> 00:51:41,780
+life-or-death account
+
+2180
+00:51:41,780 --> 00:51:42,480
+of what is allowed
+
+2181
+00:51:42,480 --> 00:51:43,180
+to survive
+
+2182
+00:51:43,180 --> 00:51:44,700
+without destroying the host.
+
+2183
+00:51:45,060 --> 00:51:45,660
+Okay, we've gone
+
+2184
+00:51:45,660 --> 00:51:47,160
+from microscopic cells
+
+2185
+00:51:47,160 --> 00:51:48,240
+executing themselves
+
+2186
+00:51:48,240 --> 00:51:49,300
+to human brains
+
+2187
+00:51:49,300 --> 00:51:50,040
+filtering memories
+
+2188
+00:51:50,040 --> 00:51:50,940
+to social laws
+
+2189
+00:51:50,940 --> 00:51:52,400
+and global supply chains.
+
+2190
+00:51:52,700 --> 00:51:53,720
+Let's pull the camera
+
+2191
+00:51:53,720 --> 00:51:54,420
+all the way back
+
+2192
+00:51:54,420 --> 00:51:55,780
+for our final section.
+
+2193
+00:51:56,120 --> 00:51:56,720
+Section 6.
+
+2194
+00:51:57,720 --> 00:51:58,240
+Geology.
+
+2195
+00:51:58,980 --> 00:51:59,560
+We are looking
+
+2196
+00:51:59,560 --> 00:52:00,320
+at the Earth itself.
+
+2197
+00:52:00,400 --> 00:52:01,260
+How does the planet record
+
+2198
+00:52:01,260 --> 00:52:02,480
+breaks in its own continuation?
+
+2199
+00:52:02,980 --> 00:52:03,640
+We are talking
+
+2200
+00:52:03,640 --> 00:52:04,580
+about deep time.
+
+2201
+00:52:04,920 --> 00:52:05,840
+And Fliction anchors
+
+2202
+00:52:05,840 --> 00:52:06,700
+this final section
+
+2203
+00:52:06,700 --> 00:52:07,920
+in one of the most famous
+
+2204
+00:52:07,920 --> 00:52:09,060
+paradigm-shifting moments
+
+2205
+00:52:09,060 --> 00:52:10,280
+in the history of science,
+
+2206
+00:52:10,920 --> 00:52:11,900
+James Hutton standing
+
+2207
+00:52:11,900 --> 00:52:13,360
+at Sicker Point in Scotland
+
+2208
+00:52:13,360 --> 00:52:15,000
+in 1788.
+
+2209
+00:52:15,240 --> 00:52:15,700
+Sicker Point,
+
+2210
+00:52:16,040 --> 00:52:17,360
+what exactly did James Hutton
+
+2211
+00:52:17,360 --> 00:52:18,080
+see when he looked
+
+2212
+00:52:18,080 --> 00:52:18,700
+at those rocks?
+
+2213
+00:52:19,020 --> 00:52:20,080
+He saw an angular
+
+2214
+00:52:20,080 --> 00:52:20,860
+unconformity.
+
+2215
+00:52:21,520 --> 00:52:22,580
+To visualize this,
+
+2216
+00:52:22,980 --> 00:52:23,840
+imagine standing
+
+2217
+00:52:23,840 --> 00:52:24,900
+on a rocky beach.
+
+2218
+00:52:25,520 --> 00:52:27,160
+He saw near-vertical layers
+
+2219
+00:52:27,160 --> 00:52:28,900
+of older gray rock,
+
+2220
+00:52:29,080 --> 00:52:30,920
+specifically Silurian gray wax,
+
+2221
+00:52:31,340 --> 00:52:32,560
+which are hard mudstones
+
+2222
+00:52:32,560 --> 00:52:33,700
+formed in the deep ocean.
+
+2223
+00:52:34,540 --> 00:52:35,620
+These gray layers
+
+2224
+00:52:35,620 --> 00:52:36,140
+were standing
+
+2225
+00:52:36,140 --> 00:52:36,960
+almost straight up
+
+2226
+00:52:36,960 --> 00:52:37,780
+and they had been
+
+2227
+00:52:37,780 --> 00:52:38,860
+sliced off perfectly
+
+2228
+00:52:38,860 --> 00:52:39,740
+flat on top.
+
+2229
+00:52:40,120 --> 00:52:40,880
+And sitting directly
+
+2230
+00:52:40,880 --> 00:52:41,620
+on top of them,
+
+2231
+00:52:41,820 --> 00:52:42,600
+resting horizontally,
+
+2232
+00:52:42,940 --> 00:52:44,480
+were layers of younger,
+
+2233
+00:52:44,860 --> 00:52:45,540
+reddish rock,
+
+2234
+00:52:45,620 --> 00:52:47,540
+Devonian old red sandstone,
+
+2235
+00:52:47,760 --> 00:52:48,520
+which is formed
+
+2236
+00:52:48,520 --> 00:52:49,720
+from desert river sands.
+
+2237
+00:52:50,200 --> 00:52:50,920
+So you have vertical,
+
+2238
+00:52:51,260 --> 00:52:52,620
+deep ocean gray stripes
+
+2239
+00:52:52,620 --> 00:52:55,320
+with horizontal desert red stripes
+
+2240
+00:52:55,320 --> 00:52:56,440
+resting right on top of them.
+
+2241
+00:52:56,500 --> 00:52:56,880
+Exactly.
+
+2242
+00:52:57,080 --> 00:52:57,960
+And Hutton realized
+
+2243
+00:52:57,960 --> 00:52:58,640
+the immense,
+
+2244
+00:52:58,840 --> 00:52:59,840
+terrifying implications
+
+2245
+00:52:59,840 --> 00:53:01,300
+of that physical contact point.
+
+2246
+00:53:01,760 --> 00:53:03,760
+Usually, geology teaches stratigraphy
+
+2247
+00:53:03,760 --> 00:53:05,120
+as a science of positive,
+
+2248
+00:53:05,320 --> 00:53:06,100
+continuous layers.
+
+2249
+00:53:06,720 --> 00:53:07,720
+Sand settles at the bottom
+
+2250
+00:53:07,720 --> 00:53:08,180
+of a lake,
+
+2251
+00:53:08,260 --> 00:53:09,100
+it turns to rock,
+
+2252
+00:53:09,220 --> 00:53:10,440
+more sand settles on top,
+
+2253
+00:53:10,760 --> 00:53:11,640
+and you read the layers
+
+2254
+00:53:11,640 --> 00:53:12,320
+chronologically,
+
+2255
+00:53:12,480 --> 00:53:13,240
+like reading the pages
+
+2256
+00:53:13,240 --> 00:53:13,780
+in a book.
+
+2257
+00:53:14,160 --> 00:53:15,080
+Unconformities where layers
+
+2258
+00:53:15,080 --> 00:53:16,300
+are missing are often viewed
+
+2259
+00:53:16,300 --> 00:53:17,340
+as missing data,
+
+2260
+00:53:17,480 --> 00:53:18,760
+a regrettable blank spot
+
+2261
+00:53:18,760 --> 00:53:19,780
+in the historical record.
+
+2262
+00:53:19,920 --> 00:53:20,720
+But Flitchin argues
+
+2263
+00:53:20,720 --> 00:53:21,400
+these gaps,
+
+2264
+00:53:21,500 --> 00:53:22,320
+these unconformities,
+
+2265
+00:53:22,440 --> 00:53:23,680
+are actually legible boundaries.
+
+2266
+00:53:23,860 --> 00:53:25,200
+They aren't blank spots at all.
+
+2267
+00:53:25,440 --> 00:53:25,740
+Right.
+
+2268
+00:53:26,400 --> 00:53:27,200
+Hutton realized that
+
+2269
+00:53:27,200 --> 00:53:27,940
+for Sychar Point
+
+2270
+00:53:27,940 --> 00:53:29,100
+to physically exist,
+
+2271
+00:53:29,300 --> 00:53:30,200
+an enormous amount
+
+2272
+00:53:30,200 --> 00:53:30,840
+of violent,
+
+2273
+00:53:31,040 --> 00:53:31,880
+unrecorded history
+
+2274
+00:53:31,880 --> 00:53:32,640
+had to have happened
+
+2275
+00:53:32,640 --> 00:53:33,280
+in that gap.
+
+2276
+00:53:33,640 --> 00:53:34,960
+The lower gray rocks
+
+2277
+00:53:34,960 --> 00:53:36,040
+were laid down flat
+
+2278
+00:53:36,040 --> 00:53:36,880
+in a deep ocean,
+
+2279
+00:53:37,080 --> 00:53:37,380
+buried,
+
+2280
+00:53:37,600 --> 00:53:38,460
+and turned to stone.
+
+2281
+00:53:39,060 --> 00:53:39,500
+Then,
+
+2282
+00:53:39,740 --> 00:53:41,340
+massive tectonic forces
+
+2283
+00:53:41,340 --> 00:53:42,640
+of continents colliding
+
+2284
+00:53:42,640 --> 00:53:44,140
+folded and tilted them
+
+2285
+00:53:44,140 --> 00:53:45,200
+completely vertical.
+
+2286
+00:53:46,060 --> 00:53:46,560
+Then,
+
+2287
+00:53:46,700 --> 00:53:47,800
+they were pushed up
+
+2288
+00:53:47,800 --> 00:53:48,520
+above sea level
+
+2289
+00:53:48,520 --> 00:53:49,640
+to form a mountain range.
+
+2290
+00:53:50,200 --> 00:53:50,500
+Then,
+
+2291
+00:53:50,660 --> 00:53:51,400
+millions of years
+
+2292
+00:53:51,400 --> 00:53:52,440
+of rain and wind
+
+2293
+00:53:52,440 --> 00:53:53,260
+eroded the tops
+
+2294
+00:53:53,260 --> 00:53:53,960
+of those mountains
+
+2295
+00:53:53,960 --> 00:53:54,880
+completely flat.
+
+2296
+00:53:55,480 --> 00:53:56,100
+And then,
+
+2297
+00:53:56,420 --> 00:53:57,820
+the land sank back down
+
+2298
+00:53:57,820 --> 00:53:58,680
+to allow new,
+
+2299
+00:53:58,900 --> 00:53:59,720
+red desert sand
+
+2300
+00:53:59,720 --> 00:54:00,440
+to be deposited
+
+2301
+00:54:00,440 --> 00:54:01,780
+horizontally on top.
+
+2302
+00:54:02,240 --> 00:54:02,380
+So,
+
+2303
+00:54:02,420 --> 00:54:03,220
+it's like opening a novel,
+
+2304
+00:54:03,380 --> 00:54:04,820
+finding chapters 4 through 10
+
+2305
+00:54:04,820 --> 00:54:05,460
+ripped out.
+
+2306
+00:54:05,780 --> 00:54:06,860
+But realizing that
+
+2307
+00:54:06,860 --> 00:54:07,600
+the jagged edges
+
+2308
+00:54:07,600 --> 00:54:08,460
+of the torn pages
+
+2309
+00:54:08,460 --> 00:54:09,280
+and the scorch marks
+
+2310
+00:54:09,280 --> 00:54:09,860
+on the binding
+
+2311
+00:54:09,860 --> 00:54:10,860
+actually tell you
+
+2312
+00:54:10,860 --> 00:54:11,240
+a better,
+
+2313
+00:54:11,360 --> 00:54:12,160
+more accurate story
+
+2314
+00:54:12,160 --> 00:54:13,040
+about a mass of fire
+
+2315
+00:54:13,040 --> 00:54:13,620
+in the library
+
+2316
+00:54:13,620 --> 00:54:14,780
+than the missing text
+
+2317
+00:54:14,780 --> 00:54:15,480
+itself would have.
+
+2318
+00:54:15,660 --> 00:54:17,120
+That is a phenomenal analogy,
+
+2319
+00:54:17,240 --> 00:54:17,480
+yes.
+
+2320
+00:54:17,480 --> 00:54:18,620
+The physical gap
+
+2321
+00:54:18,620 --> 00:54:19,420
+encodes a period
+
+2322
+00:54:19,420 --> 00:54:20,340
+when the local system
+
+2323
+00:54:20,340 --> 00:54:21,100
+could not admit
+
+2324
+00:54:21,100 --> 00:54:22,320
+straightforward continuation.
+
+2325
+00:54:23,080 --> 00:54:23,560
+The environment
+
+2326
+00:54:23,560 --> 00:54:24,460
+violently shifted
+
+2327
+00:54:24,460 --> 00:54:25,860
+from a depositional regime
+
+2328
+00:54:25,860 --> 00:54:26,560
+where rocks are
+
+2329
+00:54:26,560 --> 00:54:27,220
+peacefully made
+
+2330
+00:54:27,220 --> 00:54:28,160
+to an active
+
+2331
+00:54:28,160 --> 00:54:29,040
+tectonic regime
+
+2332
+00:54:29,040 --> 00:54:29,640
+of uplift,
+
+2333
+00:54:29,860 --> 00:54:30,140
+deformation,
+
+2334
+00:54:30,460 --> 00:54:30,900
+and erosion.
+
+2335
+00:54:31,200 --> 00:54:32,020
+The normal rules
+
+2336
+00:54:32,020 --> 00:54:32,760
+of making rock
+
+2337
+00:54:32,760 --> 00:54:33,780
+were totally suspended.
+
+2338
+00:54:34,180 --> 00:54:34,920
+The history became
+
+2339
+00:54:34,920 --> 00:54:36,200
+physically inadmissible
+
+2340
+00:54:36,200 --> 00:54:36,860
+to record.
+
+2341
+00:54:37,120 --> 00:54:37,600
+Exactly.
+
+2342
+00:54:37,960 --> 00:54:39,000
+And the later return
+
+2343
+00:54:39,000 --> 00:54:39,720
+of the horizontal
+
+2344
+00:54:39,720 --> 00:54:40,500
+red sandstone
+
+2345
+00:54:40,500 --> 00:54:41,900
+isn't just more rock,
+
+2346
+00:54:41,980 --> 00:54:43,000
+it is a geologic
+
+2347
+00:54:43,000 --> 00:54:44,140
+repair event.
+
+2348
+00:54:44,700 --> 00:54:45,560
+It's the establishment
+
+2349
+00:54:45,560 --> 00:54:46,380
+of a new,
+
+2350
+00:54:46,580 --> 00:54:47,920
+coherent sequence
+
+2351
+00:54:47,920 --> 00:54:49,480
+across a battered surface
+
+2352
+00:54:49,480 --> 00:54:50,420
+that encodes
+
+2353
+00:54:50,420 --> 00:54:51,340
+the violent history
+
+2354
+00:54:51,340 --> 00:54:52,040
+of what broke
+
+2355
+00:54:52,040 --> 00:54:52,540
+the sequence
+
+2356
+00:54:52,540 --> 00:54:53,340
+in the first place.
+
+2357
+00:54:53,560 --> 00:54:54,580
+Flixian scales
+
+2358
+00:54:54,580 --> 00:54:55,460
+this concept up
+
+2359
+00:54:55,460 --> 00:54:56,120
+to something called
+
+2360
+00:54:56,120 --> 00:54:57,300
+the Great Unconformity
+
+2361
+00:54:57,300 --> 00:54:58,140
+in the Grand Canyon,
+
+2362
+00:54:58,500 --> 00:54:59,300
+which is truly
+
+2363
+00:54:59,300 --> 00:54:59,920
+mind-blowing.
+
+2364
+00:55:00,460 --> 00:55:00,820
+If you go to
+
+2365
+00:55:00,820 --> 00:55:01,480
+the Grand Canyon,
+
+2366
+00:55:01,700 --> 00:55:02,100
+you can see
+
+2367
+00:55:02,100 --> 00:55:03,320
+flat Cambrian
+
+2368
+00:55:03,320 --> 00:55:04,440
+sedimentary strata
+
+2369
+00:55:04,440 --> 00:55:05,160
+sitting directly
+
+2370
+00:55:05,160 --> 00:55:06,200
+on top of tilted
+
+2371
+00:55:06,200 --> 00:55:07,060
+proterozoic
+
+2372
+00:55:07,060 --> 00:55:08,320
+crystalline basement rock.
+
+2373
+00:55:08,600 --> 00:55:09,380
+There's a physical
+
+2374
+00:55:09,380 --> 00:55:09,900
+gap there
+
+2375
+00:55:09,900 --> 00:55:10,620
+representing over
+
+2376
+00:55:10,620 --> 00:55:11,300
+a billion years
+
+2377
+00:55:11,300 --> 00:55:12,080
+of missing time.
+
+2378
+00:55:12,440 --> 00:55:13,160
+A billion years
+
+2379
+00:55:13,160 --> 00:55:14,000
+where no rock
+
+2380
+00:55:14,000 --> 00:55:14,620
+was preserved.
+
+2381
+00:55:15,180 --> 00:55:15,880
+And while modern
+
+2382
+00:55:15,880 --> 00:55:16,680
+geologists like
+
+2383
+00:55:16,680 --> 00:55:17,620
+Karlstrom debate
+
+2384
+00:55:17,620 --> 00:55:18,880
+the exact synchronicity
+
+2385
+00:55:18,880 --> 00:55:19,620
+of this gap
+
+2386
+00:55:19,620 --> 00:55:20,320
+across the North
+
+2387
+00:55:20,320 --> 00:55:21,040
+American continent,
+
+2388
+00:55:21,560 --> 00:55:22,200
+researchers like
+
+2389
+00:55:22,200 --> 00:55:23,040
+Peters and Gaines
+
+2390
+00:55:23,040 --> 00:55:23,580
+have proposed
+
+2391
+00:55:23,580 --> 00:55:24,520
+something incredible.
+
+2392
+00:55:25,300 --> 00:55:26,220
+They hypothesized
+
+2393
+00:55:26,220 --> 00:55:26,840
+that the massive
+
+2394
+00:55:26,840 --> 00:55:27,820
+weathering and erosion
+
+2395
+00:55:27,820 --> 00:55:28,320
+of rock
+
+2396
+00:55:28,320 --> 00:55:29,100
+during the formation
+
+2397
+00:55:29,100 --> 00:55:30,500
+of the Great Unconformity
+
+2398
+00:55:30,500 --> 00:55:32,000
+actually flushed
+
+2399
+00:55:32,000 --> 00:55:33,420
+so many heavy minerals
+
+2400
+00:55:33,420 --> 00:55:34,200
+like calcium
+
+2401
+00:55:34,200 --> 00:55:34,800
+and phosphorus
+
+2402
+00:55:34,800 --> 00:55:36,080
+into the global oceans
+
+2403
+00:55:36,080 --> 00:55:37,260
+that it fundamentally
+
+2404
+00:55:37,260 --> 00:55:38,760
+changed ocean chemistry.
+
+2405
+00:55:39,480 --> 00:55:40,320
+And that massive
+
+2406
+00:55:40,320 --> 00:55:41,120
+chemical dump
+
+2407
+00:55:41,120 --> 00:55:41,800
+may have helped
+
+2408
+00:55:41,800 --> 00:55:42,720
+trigger the Cambrian
+
+2409
+00:55:42,720 --> 00:55:43,280
+explosion,
+
+2410
+00:55:43,840 --> 00:55:44,840
+the sudden rapid
+
+2411
+00:55:44,840 --> 00:55:46,140
+appearance of complex
+
+2412
+00:55:46,140 --> 00:55:47,320
+hard-shelled life
+
+2413
+00:55:47,320 --> 00:55:47,860
+on Earth.
+
+2414
+00:55:48,020 --> 00:55:48,300
+Wait,
+
+2415
+00:55:48,520 --> 00:55:49,260
+so the gap,
+
+2416
+00:55:49,500 --> 00:55:50,220
+the missing time,
+
+2417
+00:55:50,340 --> 00:55:51,140
+the violent erosion
+
+2418
+00:55:51,140 --> 00:55:52,800
+was actually an active
+
+2419
+00:55:52,800 --> 00:55:53,920
+participant in
+
+2420
+00:55:53,920 --> 00:55:55,080
+planetary continuation.
+
+2421
+00:55:55,920 --> 00:55:56,820
+The breakdown
+
+2422
+00:55:56,820 --> 00:55:57,860
+seeded the minerals
+
+2423
+00:55:57,860 --> 00:55:59,000
+for complex life.
+
+2424
+00:55:59,000 --> 00:56:00,200
+That is the hypothesis.
+
+2425
+00:56:00,520 --> 00:56:01,360
+The boundary wasn't
+
+2426
+00:56:01,360 --> 00:56:02,500
+just a quiet pause
+
+2427
+00:56:02,500 --> 00:56:03,320
+in the rock record.
+
+2428
+00:56:03,780 --> 00:56:04,660
+The violent weathering
+
+2429
+00:56:04,660 --> 00:56:05,520
+process recorded
+
+2430
+00:56:05,520 --> 00:56:06,160
+in that gap
+
+2431
+00:56:06,160 --> 00:56:07,080
+actively changed
+
+2432
+00:56:07,080 --> 00:56:08,240
+the admissibility rules
+
+2433
+00:56:08,240 --> 00:56:09,380
+for biology on Earth.
+
+2434
+00:56:09,760 --> 00:56:11,020
+The breakdown of the rock
+
+2435
+00:56:11,020 --> 00:56:11,880
+allowed the continuation
+
+2436
+00:56:11,880 --> 00:56:12,580
+of life.
+
+2437
+00:56:12,900 --> 00:56:14,020
+That is absolutely astonishing.
+
+2438
+00:56:14,320 --> 00:56:15,380
+Is there any pushback
+
+2439
+00:56:15,380 --> 00:56:16,000
+in geology
+
+2440
+00:56:16,000 --> 00:56:16,960
+against this idea
+
+2441
+00:56:16,960 --> 00:56:17,860
+that gaps are always
+
+2442
+00:56:17,860 --> 00:56:19,140
+so profoundly informative?
+
+2443
+00:56:19,700 --> 00:56:19,980
+Yes,
+
+2444
+00:56:19,980 --> 00:56:20,860
+there is a concept
+
+2445
+00:56:20,860 --> 00:56:22,020
+called paraconformities.
+
+2446
+00:56:22,440 --> 00:56:23,200
+These are gaps
+
+2447
+00:56:23,200 --> 00:56:24,020
+in the rock record
+
+2448
+00:56:24,020 --> 00:56:24,720
+where the layers
+
+2449
+00:56:24,720 --> 00:56:25,380
+above and below
+
+2450
+00:56:25,380 --> 00:56:26,400
+are perfectly parallel
+
+2451
+00:56:26,400 --> 00:56:27,320
+with almost no
+
+2452
+00:56:27,320 --> 00:56:28,280
+erosional relief.
+
+2453
+00:56:28,820 --> 00:56:29,680
+To the naked eye,
+
+2454
+00:56:29,800 --> 00:56:30,360
+it looks like
+
+2455
+00:56:30,360 --> 00:56:31,500
+a continuous sequence.
+
+2456
+00:56:31,660 --> 00:56:32,160
+The only way
+
+2457
+00:56:32,160 --> 00:56:32,700
+you even know
+
+2458
+00:56:32,700 --> 00:56:33,660
+there is missing time
+
+2459
+00:56:33,660 --> 00:56:34,540
+is through microscopic
+
+2460
+00:56:34,540 --> 00:56:36,460
+fossils or radiometric dating.
+
+2461
+00:56:37,140 --> 00:56:38,220
+In these specific cases,
+
+2462
+00:56:38,360 --> 00:56:39,360
+the gap really does
+
+2463
+00:56:39,360 --> 00:56:40,540
+approach pure absence.
+
+2464
+00:56:41,060 --> 00:56:41,540
+It doesn't tell
+
+2465
+00:56:41,540 --> 00:56:42,420
+a dramatic story
+
+2466
+00:56:42,420 --> 00:56:43,420
+of uplift and collision.
+
+2467
+00:56:43,800 --> 00:56:44,600
+It just signifies
+
+2468
+00:56:44,600 --> 00:56:46,040
+a quiet, boring pause
+
+2469
+00:56:46,040 --> 00:56:46,740
+where no BERT
+
+2470
+00:56:46,740 --> 00:56:47,620
+settled for a few
+
+2471
+00:56:47,620 --> 00:56:48,380
+million years.
+
+2472
+00:56:48,940 --> 00:56:49,800
+Affliction acknowledges
+
+2473
+00:56:49,800 --> 00:56:50,340
+this limit.
+
+2474
+00:56:50,600 --> 00:56:51,320
+Not every break
+
+2475
+00:56:51,320 --> 00:56:52,440
+is dramatically articulate.
+
+2476
+00:56:52,940 --> 00:56:53,600
+But the major
+
+2477
+00:56:53,600 --> 00:56:54,380
+unconformities,
+
+2478
+00:56:54,500 --> 00:56:55,340
+the ones that literally
+
+2479
+00:56:55,340 --> 00:56:56,840
+define geological eras,
+
+2480
+00:56:56,940 --> 00:56:57,580
+are profound,
+
+2481
+00:56:57,860 --> 00:56:58,560
+legible records
+
+2482
+00:56:58,560 --> 00:57:00,020
+of inadmissible continuation.
+
+2483
+00:57:00,500 --> 00:57:00,800
+Wow.
+
+2484
+00:57:01,220 --> 00:57:01,860
+Okay, so what does
+
+2485
+00:57:01,860 --> 00:57:02,700
+this all mean for us?
+
+2486
+00:57:02,980 --> 00:57:03,600
+We have covered
+
+2487
+00:57:03,600 --> 00:57:04,580
+an insane amount
+
+2488
+00:57:04,580 --> 00:57:05,260
+of ground today.
+
+2489
+00:57:05,760 --> 00:57:06,540
+But whether you are
+
+2490
+00:57:06,540 --> 00:57:08,080
+a CEO trying to manage
+
+2491
+00:57:08,080 --> 00:57:09,220
+a supply chain crisis,
+
+2492
+00:57:09,660 --> 00:57:10,820
+a lawyer negotiating
+
+2493
+00:57:10,820 --> 00:57:11,940
+a complex contract,
+
+2494
+00:57:12,160 --> 00:57:12,900
+a person just trying
+
+2495
+00:57:12,900 --> 00:57:13,920
+to get a good night's sleep
+
+2496
+00:57:13,920 --> 00:57:14,780
+so your brain
+
+2497
+00:57:14,780 --> 00:57:15,400
+can consolidate
+
+2498
+00:57:15,400 --> 00:57:16,000
+your memories,
+
+2499
+00:57:16,380 --> 00:57:17,520
+a patient relying
+
+2500
+00:57:17,520 --> 00:57:18,520
+on your immune system
+
+2501
+00:57:18,520 --> 00:57:19,060
+to fight off
+
+2502
+00:57:19,060 --> 00:57:19,920
+a novel virus,
+
+2503
+00:57:20,040 --> 00:57:21,340
+or a hiker standing
+
+2504
+00:57:21,340 --> 00:57:21,740
+at the edge
+
+2505
+00:57:21,740 --> 00:57:22,460
+of the Grand Canyon
+
+2506
+00:57:22,460 --> 00:57:23,540
+looking at a billion years
+
+2507
+00:57:23,540 --> 00:57:24,340
+of missing time,
+
+2508
+00:57:24,780 --> 00:57:25,480
+you are witnessing
+
+2509
+00:57:25,480 --> 00:57:27,620
+the exact same universal law
+
+2510
+00:57:27,620 --> 00:57:28,700
+operating in the background.
+
+2511
+00:57:28,820 --> 00:57:29,940
+The law of admissibility
+
+2512
+00:57:29,940 --> 00:57:30,600
+and repair.
+
+2513
+00:57:30,860 --> 00:57:31,120
+Yes.
+
+2514
+00:57:31,980 --> 00:57:32,720
+Complex systems
+
+2515
+00:57:32,720 --> 00:57:33,960
+do not demand perfection.
+
+2516
+00:57:34,500 --> 00:57:35,360
+They do not demand
+
+2517
+00:57:35,360 --> 00:57:36,440
+that nothing ever breaks
+
+2518
+00:57:36,440 --> 00:57:37,120
+or that the data
+
+2519
+00:57:37,120 --> 00:57:38,560
+is always mathematically pure.
+
+2520
+00:57:39,080 --> 00:57:40,640
+They demand a coherent way
+
+2521
+00:57:40,640 --> 00:57:41,280
+to keep going.
+
+2522
+00:57:42,000 --> 00:57:42,960
+They use strict filters
+
+2523
+00:57:42,960 --> 00:57:44,040
+to decide what is allowed
+
+2524
+00:57:44,040 --> 00:57:44,560
+to proceed,
+
+2525
+00:57:44,560 --> 00:57:46,140
+and they rely on messy
+
+2526
+00:57:46,140 --> 00:57:47,340
+active mechanisms
+
+2527
+00:57:47,340 --> 00:57:48,560
+to repair the trajectory
+
+2528
+00:57:48,560 --> 00:57:50,120
+when a massive shock hits.
+
+2529
+00:57:50,460 --> 00:57:51,040
+It is a profound
+
+2530
+00:57:51,040 --> 00:57:52,060
+philosophical shift
+
+2531
+00:57:52,060 --> 00:57:53,260
+from demanding static,
+
+2532
+00:57:53,500 --> 00:57:54,320
+fragile perfection
+
+2533
+00:57:54,320 --> 00:57:55,560
+to managing dynamic,
+
+2534
+00:57:55,840 --> 00:57:56,560
+robust resilience.
+
+2535
+00:57:57,100 --> 00:57:57,840
+And I want to leave you
+
+2536
+00:57:57,840 --> 00:57:58,740
+with a final thought today,
+
+2537
+00:57:59,120 --> 00:57:59,940
+something that wasn't
+
+2538
+00:57:59,940 --> 00:58:01,720
+explicitly in Flictionian's papers,
+
+2539
+00:58:02,200 --> 00:58:03,260
+but builds directly
+
+2540
+00:58:03,260 --> 00:58:04,540
+on this incredible idea.
+
+2541
+00:58:05,460 --> 00:58:07,260
+What about our own
+
+2542
+00:58:07,260 --> 00:58:08,280
+personal identities?
+
+2543
+00:58:09,000 --> 00:58:10,180
+We tend to think of ourselves
+
+2544
+00:58:10,180 --> 00:58:12,460
+as a single static object.
+
+2545
+00:58:13,120 --> 00:58:14,300
+I am who I am,
+
+2546
+00:58:14,560 --> 00:58:15,880
+from childhood to old age.
+
+2547
+00:58:16,220 --> 00:58:17,180
+But what if you
+
+2548
+00:58:17,180 --> 00:58:19,580
+are just an admissibility regime?
+
+2549
+00:58:19,880 --> 00:58:21,240
+That is a very compelling
+
+2550
+00:58:21,240 --> 00:58:22,580
+way to view psychology.
+
+2551
+00:58:22,860 --> 00:58:23,420
+Think about it.
+
+2552
+00:58:23,800 --> 00:58:25,420
+We constantly forget memories
+
+2553
+00:58:25,420 --> 00:58:26,020
+that don't fit
+
+2554
+00:58:26,020 --> 00:58:26,980
+our current self-image.
+
+2555
+00:58:27,460 --> 00:58:28,720
+We repair our worldview
+
+2556
+00:58:28,720 --> 00:58:29,600
+after a trauma,
+
+2557
+00:58:29,820 --> 00:58:30,380
+a heartbreak,
+
+2558
+00:58:30,460 --> 00:58:31,500
+or a massive shock.
+
+2559
+00:58:31,780 --> 00:58:33,620
+We rewrite our personal narratives
+
+2560
+00:58:33,620 --> 00:58:34,540
+to allow ourselves
+
+2561
+00:58:34,540 --> 00:58:35,600
+to step into tomorrow
+
+2562
+00:58:35,600 --> 00:58:36,880
+without collapsing
+
+2563
+00:58:36,880 --> 00:58:37,500
+under the weight
+
+2564
+00:58:37,500 --> 00:58:38,600
+of cognitive dissonance.
+
+2565
+00:58:39,240 --> 00:58:39,940
+You aren't a perfectly
+
+2566
+00:58:39,940 --> 00:58:40,780
+preserved fossil
+
+2567
+00:58:40,780 --> 00:58:41,580
+sitting in a museum.
+
+2568
+00:58:41,940 --> 00:58:42,920
+You are a continuous
+
+2569
+00:58:42,920 --> 00:58:44,260
+living act of repair.
+
+2570
+00:58:44,560 --> 00:58:45,480
+Every single day
+
+2571
+00:58:45,480 --> 00:58:46,120
+you wake up,
+
+2572
+00:58:46,180 --> 00:58:47,080
+your mind and body
+
+2573
+00:58:47,080 --> 00:58:48,680
+run a massive admissibility check,
+
+2574
+00:58:48,800 --> 00:58:49,620
+and you find a way
+
+2575
+00:58:49,620 --> 00:58:50,120
+to continue.
+
+2576
+00:58:50,280 --> 00:58:51,100
+You are a trajectory,
+
+2577
+00:58:51,280 --> 00:58:51,900
+not a snapshot.
+
+2578
+00:58:52,580 --> 00:58:52,980
+Exactly.
+
+2579
+00:58:53,240 --> 00:58:53,960
+So the next time
+
+2580
+00:58:53,960 --> 00:58:54,760
+you face a breakdown
+
+2581
+00:58:54,760 --> 00:58:55,840
+in your own life,
+
+2582
+00:58:56,360 --> 00:58:56,980
+a failure,
+
+2583
+00:58:57,260 --> 00:58:57,840
+a mistake,
+
+2584
+00:58:57,940 --> 00:58:58,960
+a moment of chaos,
+
+2585
+00:58:59,420 --> 00:59:00,940
+maybe don't view it
+
+2586
+00:59:00,940 --> 00:59:01,500
+as a failure
+
+2587
+00:59:01,500 --> 00:59:02,840
+of your entire system.
+
+2588
+00:59:03,300 --> 00:59:04,460
+View it as the raw material
+
+2589
+00:59:04,460 --> 00:59:05,660
+for your next continuation.
+
+2590
+00:59:06,660 --> 00:59:07,580
+The muddy waters
+
+2591
+00:59:07,580 --> 00:59:08,440
+aren't a mistake.
+
+2592
+00:59:08,700 --> 00:59:09,360
+They are exactly
+
+2593
+00:59:09,360 --> 00:59:10,420
+where the repair happens.
+
+2594
+00:59:10,480 --> 00:59:11,280
+Just like that x-ray
+
+2595
+00:59:11,280 --> 00:59:12,080
+at the doctor's office
+
+2596
+00:59:12,080 --> 00:59:12,760
+we started with
+
+2597
+00:59:12,760 --> 00:59:13,560
+a broken bone
+
+2598
+00:59:13,560 --> 00:59:14,680
+doesn't mean the body
+
+2599
+00:59:14,680 --> 00:59:15,180
+has failed.
+
+2600
+00:59:15,400 --> 00:59:16,320
+The break is just
+
+2601
+00:59:16,320 --> 00:59:16,800
+the boundary
+
+2602
+00:59:16,800 --> 00:59:17,900
+where the body begins,
+
+2603
+00:59:18,400 --> 00:59:19,120
+the complex,
+
+2604
+00:59:19,360 --> 00:59:19,960
+messy work
+
+2605
+00:59:19,960 --> 00:59:20,720
+of knitting itself
+
+2606
+00:59:20,720 --> 00:59:21,300
+back together
+
+2607
+00:59:21,300 --> 00:59:22,000
+so it can keep
+
+2608
+00:59:22,000 --> 00:59:22,740
+moving forward.
+
+2609
+00:59:23,000 --> 00:59:24,320
+That captures the spirit
+
+2610
+00:59:24,320 --> 00:59:25,520
+of this research perfectly.
+
+2611
+00:59:25,780 --> 00:59:26,460
+Thank you all
+
+2612
+00:59:26,460 --> 00:59:27,180
+for joining us
+
+2613
+00:59:27,180 --> 00:59:28,040
+on this deep dive.
+
+2614
+00:59:28,220 --> 00:59:28,840
+Keep questioning
+
+2615
+00:59:28,840 --> 00:59:29,720
+the snapshots,
+
+2616
+00:59:29,920 --> 00:59:30,820
+look for the trajectories
+
+2617
+00:59:30,820 --> 00:59:31,640
+in your own life,
+
+2618
+00:59:31,720 --> 00:59:32,460
+and we will see you
+
+2619
+00:59:32,460 --> 00:59:32,920
+next time.
+

@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>VIM :: Vi IMproved (1991) :: Interactive Tutorial</title>
+<style>
+  body {
+    background: #000000;
+    color: #e0e0e0;
+    font-family: "Courier New", "Lucida Console", monospace;
+    font-size: 16px;
+    padding: 20px;
+  }
+  a { color: #7fdcff; }
+  a:visited { color: #5aa9c9; }
+  .amber { color: #ffb000; }
+  .white { color: #ffffff; }
+  .dim { color: #888888; }
+  .wrap {
+    max-width: 820px;
+    margin: 0 auto;
+  }
+  .screen {
+    border: 2px solid #e0e0e0;
+    padding: 16px;
+    box-shadow: 0 0 12px #444;
+  }
+  hr { border: none; border-top: 1px dashed #555; }
+  h1, h2 {
+    color: #ffffff;
+    font-size: 1.1em;
+    border-bottom: 1px dashed #555;
+    padding-bottom: 4px;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 10px 0;
+  }
+  th, td {
+    border: 1px solid #555;
+    padding: 6px 10px;
+    text-align: left;
+    vertical-align: top;
+  }
+  th { color: #ffffff; }
+
+  /* --- lesson panel --- */
+  .lesson-panel {
+    background: #101010;
+    border: 1px solid #555;
+    padding: 12px 16px;
+    margin: 16px 0;
+  }
+  .lesson-panel h2 { margin-top: 0; }
+  .lesson-panel .btn-row { margin-top: 10px; }
+  button {
+    font-family: inherit;
+    background: #222;
+    color: #e0e0e0;
+    border: 1px solid #666;
+    padding: 6px 12px;
+    cursor: pointer;
+    margin-right: 8px;
+  }
+  button:hover { background: #333; }
+  button:disabled { opacity: 0.4; cursor: default; }
+  #lesson-status {
+    margin-top: 8px;
+    min-height: 1.4em;
+    font-weight: bold;
+  }
+  #lesson-status.success { color: #4caf50; }
+  #lesson-status.info { color: #ffb000; }
+
+  /* --- terminal --- */
+  .terminal {
+    background: #000;
+    border: 2px solid #444;
+    padding: 10px;
+    outline: none;
+    cursor: text;
+  }
+  .terminal:focus { border-color: #7fdcff; }
+  .buffer-line {
+    display: flex;
+    white-space: pre;
+    line-height: 1.5em;
+  }
+  .buffer-line .lineno {
+    color: #666;
+    width: 3ch;
+    text-align: right;
+    margin-right: 1ch;
+    user-select: none;
+  }
+  .buffer-line.current-row .lineno { color: #ffb000; }
+  .buffer-line.visual-line { background: #23405a; }
+  .cursor-block {
+    background: #e0e0e0;
+    color: #000;
+  }
+  .terminal.insert-mode .cursor-block {
+    background: #4caf50;
+    color: #000;
+  }
+  .status-line {
+    margin-top: 8px;
+    background: #e0e0e0;
+    color: #000;
+    padding: 2px 8px;
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+  }
+  .status-line .mode-tag.insert { background: #4caf50; color: #000; padding: 0 6px; }
+  .status-line .mode-tag.normal { background: #7fdcff; color: #000; padding: 0 6px; }
+  .status-line .mode-tag.command { background: #ffb000; color: #000; padding: 0 6px; }
+  .status-line .mode-tag.visual-line { background: #d16bd1; color: #000; padding: 0 6px; }
+  .focus-hint {
+    font-size: 0.85em;
+    color: #888;
+    margin-top: 6px;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="screen">
+
+<h1>VI (1976) &rarr; VIM (1991): A REAL, TINY EMULATOR</h1>
+<p>
+<span class="white">vi</span> was written by Bill Joy in 1976 for BSD Unix,
+for a world of slow serial terminals where every keystroke sent over the
+wire was expensive &mdash; hence a language of single-letter commands and
+no menus. <span class="white">Vim</span> ("Vi IMproved") followed in 1991
+and is still, thirty-plus years later, what half the internet's servers
+get edited with over SSH. The best way to learn it isn't to read about
+it &mdash; it's to type into it. Below is a small but <em>real</em> modal
+editor, implemented in JavaScript, with six guided lessons.
+</p>
+
+<div class="lesson-panel">
+  <h2 id="lesson-title">Lesson</h2>
+  <p id="lesson-instructions"></p>
+  <div id="lesson-status"></div>
+  <div class="btn-row">
+    <button id="btn-prev" onclick="prevLesson()">&laquo; Prev</button>
+    <button id="btn-reset" onclick="resetLesson()">&#8635; Reset Lesson</button>
+    <button id="btn-next" onclick="nextLesson()">Next &raquo;</button>
+  </div>
+</div>
+
+<div class="terminal" id="terminal" tabindex="0">
+  <div id="buffer-view"></div>
+  <div class="status-line">
+    <span><span class="mode-tag normal" id="mode-tag">NORMAL</span> <span id="cmdline-text"></span></span>
+    <span id="message-text" class="dim"></span>
+  </div>
+</div>
+<p class="focus-hint">Click the black terminal above, then type. It captures your keyboard the way a real terminal window would &mdash; click elsewhere (or press Esc then Tab) to escape it.</p>
+
+<hr>
+
+<h2>CHEAT SHEET (what this emulator supports)</h2>
+<table>
+<tr><th>Key(s)</th><th>Mode</th><th>Effect</th></tr>
+<tr><td><code>h</code> <code>j</code> <code>k</code> <code>l</code></td><td>Normal</td><td>move left / down / up / right</td></tr>
+<tr><td><code>0</code> / <code>$</code></td><td>Normal</td><td>jump to start / end of line</td></tr>
+<tr><td><code>gg</code> / <code>G</code></td><td>Normal</td><td>jump to first / last line</td></tr>
+<tr><td><code>i</code> / <code>a</code></td><td>Normal</td><td>insert before / after cursor &rarr; INSERT mode</td></tr>
+<tr><td><code>I</code> / <code>A</code></td><td>Normal</td><td>insert at start / end of line</td></tr>
+<tr><td><code>o</code> / <code>O</code></td><td>Normal</td><td>open new line below / above &rarr; INSERT mode</td></tr>
+<tr><td><code>x</code></td><td>Normal</td><td>delete the character under the cursor</td></tr>
+<tr><td><code>dd</code></td><td>Normal</td><td>delete (cut) the current line</td></tr>
+<tr><td><code>yy</code></td><td>Normal</td><td>yank (copy) the current line</td></tr>
+<tr><td><code>p</code></td><td>Normal</td><td>paste after the current line</td></tr>
+<tr><td><code>V</code></td><td>Normal</td><td>enter VISUAL LINE mode (select whole lines with j/k)</td></tr>
+<tr><td><code>d</code> / <code>y</code></td><td>Visual line</td><td>delete / yank the selected lines</td></tr>
+<tr><td><code>Esc</code></td><td>Insert / Visual</td><td>back to NORMAL mode</td></tr>
+<tr><td><code>:</code></td><td>Normal</td><td>enter COMMAND-LINE mode (bottom of screen)</td></tr>
+<tr><td><code>:w</code> <code>:q</code> <code>:wq</code></td><td>Command-line</td><td>write / quit / write-and-quit (simulated)</td></tr>
+</table>
+
+<hr>
+<p class="dim">
+See also:
+<a href="lisp-1959.html">1959 LISP console (prefix / Polish notation)</a> &middot;
+<a href="forth-1970.html">1970 FORTH terminal (postfix / RPN)</a> &middot;
+<a href="bbs-1985.html">1985 dial-up BBS</a> &middot;
+<a href="mosaic-1993.html">1993 Mosaic homepage</a> &middot;
+<a href="gopher-1991.html">1991 Gopher menu</a> &middot;
+<a href="index.html">return to the surface (WWW homepage)</a>
+</p>
+</div>
+</div>
+
+<script>
+(function () {
+  "use strict";
+
+  var lessons = [
+    {
+      title: "Lesson 1: Movement (h j k l)",
+      instructions: "Vim uses h (left), j (down), k (up), l (right) instead of arrow keys — your fingers never leave the \"home row\". Move the cursor so it sits on top of the word TARGET.",
+      buffer: ["Move around this text.", "Use h j k l to navigate.", "Find the word TARGET on this line.", "Then hold still \u2014 you win!"],
+      check: function (s) {
+        var line = s.buffer[s.cursor.row] || "";
+        return line.slice(s.cursor.col, s.cursor.col + 6) === "TARGET";
+      }
+    },
+    {
+      title: "Lesson 2: Insert mode (i, a, Esc)",
+      instructions: "Press i to enter INSERT mode before the cursor (or a for after it), type your fix, then press Esc to return to NORMAL mode. Fix the typo so the line reads exactly: Hello, world!",
+      buffer: ["Hello, wrld!"],
+      check: function (s) { return s.buffer[0] === "Hello, world!"; }
+    },
+    {
+      title: "Lesson 3: Delete a line (dd)",
+      instructions: "Move down to the line that says DELETE ME, then press d twice (dd) to delete the whole line.",
+      buffer: ["Keep this line.", "DELETE ME", "Keep this one too."],
+      check: function (s) { return !s.buffer.some(function (l) { return l.indexOf("DELETE ME") !== -1; }); }
+    },
+    {
+      title: "Lesson 4: Yank & paste (yy, p)",
+      instructions: "Press yy on the COPY ME line to yank (copy) it, then press p to paste a duplicate right below it.",
+      buffer: ["COPY ME", "---"],
+      check: function (s) { return s.buffer.filter(function (l) { return l === "COPY ME"; }).length >= 2; }
+    },
+    {
+      title: "Lesson 5: Delete a character (x)",
+      instructions: "Move the cursor onto the stray x at the end of the word, then press x to delete just that character, turning \"goodx\" into \"good\".",
+      buffer: ["goodx"],
+      check: function (s) { return s.buffer[0] === "good"; }
+    },
+    {
+      title: "Lesson 6: Command-line mode (:wq)",
+      instructions: "Press : to open COMMAND-LINE mode at the bottom of the screen, type wq, then press Enter to \"write and quit\" (simulated \u2014 nothing actually closes).",
+      buffer: ["This lesson checks what you type on the : line, not the text above."],
+      check: function (s) { return s.flags.savedQuit === true; }
+    }
+  ];
+
+  var current = 0;
+  var buffer, cursor, mode, pending, register, registerType, cmdline, visualStart, flags, message;
+
+  var terminalEl = document.getElementById("terminal");
+  var bufferViewEl = document.getElementById("buffer-view");
+  var modeTagEl = document.getElementById("mode-tag");
+  var cmdlineTextEl = document.getElementById("cmdline-text");
+  var messageTextEl = document.getElementById("message-text");
+  var lessonTitleEl = document.getElementById("lesson-title");
+  var lessonInstructionsEl = document.getElementById("lesson-instructions");
+  var lessonStatusEl = document.getElementById("lesson-status");
+  var btnPrev = document.getElementById("btn-prev");
+  var btnNext = document.getElementById("btn-next");
+
+  function escapeHtml(s) {
+    return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+  }
+
+  function clampCol() {
+    var len = buffer[cursor.row].length;
+    if (mode === "insert") {
+      cursor.col = Math.max(0, Math.min(cursor.col, len));
+    } else {
+      cursor.col = len === 0 ? 0 : Math.max(0, Math.min(cursor.col, len - 1));
+    }
+  }
+
+  function flashMessage(text) {
+    message = text;
+  }
+
+  function loadLesson(i) {
+    current = Math.max(0, Math.min(i, lessons.length - 1));
+    var lesson = lessons[current];
+    buffer = lesson.buffer.slice();
+    cursor = { row: 0, col: 0 };
+    mode = "normal";
+    pending = null;
+    register = "";
+    registerType = null;
+    cmdline = "";
+    visualStart = 0;
+    flags = { savedQuit: false };
+    message = "";
+    lessonTitleEl.textContent = lesson.title;
+    lessonInstructionsEl.textContent = lesson.instructions;
+    lessonStatusEl.textContent = "";
+    lessonStatusEl.className = "";
+    btnPrev.disabled = current === 0;
+    btnNext.disabled = current === lessons.length - 1;
+    render();
+  }
+
+  function deleteLine(row) {
+    register = buffer[row];
+    registerType = "line";
+    buffer.splice(row, 1);
+    if (buffer.length === 0) buffer = [""];
+    cursor.row = Math.min(row, buffer.length - 1);
+    cursor.col = 0;
+    flashMessage("1 line deleted");
+  }
+
+  function executeCommand(cmd) {
+    var body = cmd.slice(1);
+    if (body === "w") {
+      flashMessage('"buffer" written');
+    } else if (body === "q" || body === "q!") {
+      flashMessage("(demo) :" + body + " would quit \u2014 this is a tutorial page, so it just stays open");
+    } else if (body === "wq" || body === "x") {
+      flashMessage('"buffer" written; quitting (simulated)');
+      flags.savedQuit = true;
+    } else if (body === "") {
+      flashMessage("");
+    } else {
+      flashMessage("E492: Not an editor command: " + body);
+    }
+  }
+
+  function handleNormal(key) {
+    if (pending === "d") {
+      pending = null;
+      if (key === "d") { deleteLine(cursor.row); return; }
+    } else if (pending === "y") {
+      pending = null;
+      if (key === "y") { register = buffer[cursor.row]; registerType = "line"; flashMessage("1 line yanked"); return; }
+    } else if (pending === "g") {
+      pending = null;
+      if (key === "g") { cursor.row = 0; cursor.col = 0; return; }
+    }
+
+    switch (key) {
+      case "h": cursor.col = Math.max(0, cursor.col - 1); break;
+      case "l": clampCol(); cursor.col = Math.min(Math.max(0, buffer[cursor.row].length - 1), cursor.col + 1); break;
+      case "j": cursor.row = Math.min(buffer.length - 1, cursor.row + 1); clampCol(); break;
+      case "k": cursor.row = Math.max(0, cursor.row - 1); clampCol(); break;
+      case "0": cursor.col = 0; break;
+      case "$": cursor.col = Math.max(0, buffer[cursor.row].length - 1); break;
+      case "i": mode = "insert"; break;
+      case "a": cursor.col = Math.min(buffer[cursor.row].length, cursor.col + 1); mode = "insert"; break;
+      case "A": cursor.col = buffer[cursor.row].length; mode = "insert"; break;
+      case "I": cursor.col = 0; mode = "insert"; break;
+      case "o": buffer.splice(cursor.row + 1, 0, ""); cursor.row++; cursor.col = 0; mode = "insert"; break;
+      case "O": buffer.splice(cursor.row, 0, ""); cursor.col = 0; mode = "insert"; break;
+      case "x":
+        if (buffer[cursor.row].length > 0) {
+          buffer[cursor.row] = buffer[cursor.row].slice(0, cursor.col) + buffer[cursor.row].slice(cursor.col + 1);
+          clampCol();
+        }
+        break;
+      case "d": pending = "d"; break;
+      case "y": pending = "y"; break;
+      case "g": pending = "g"; break;
+      case "G": cursor.row = buffer.length - 1; cursor.col = 0; break;
+      case "p":
+        if (register && registerType === "line") {
+          buffer.splice(cursor.row + 1, 0, register);
+          cursor.row++;
+          cursor.col = 0;
+        } else if (register && registerType === "lines") {
+          var lines = register.split("\n");
+          buffer.splice.apply(buffer, [cursor.row + 1, 0].concat(lines));
+          cursor.row++;
+          cursor.col = 0;
+        }
+        break;
+      case "V": mode = "visual-line"; visualStart = cursor.row; break;
+      case ":": mode = "command"; cmdline = ":"; break;
+      default: break;
+    }
+  }
+
+  function handleInsert(key) {
+    if (key === "Escape") { mode = "normal"; cursor.col = Math.max(0, cursor.col - 1); return; }
+    if (key === "Enter") {
+      var line = buffer[cursor.row];
+      var before = line.slice(0, cursor.col);
+      var after = line.slice(cursor.col);
+      buffer[cursor.row] = before;
+      buffer.splice(cursor.row + 1, 0, after);
+      cursor.row++; cursor.col = 0;
+      return;
+    }
+    if (key === "Backspace") {
+      if (cursor.col > 0) {
+        var l = buffer[cursor.row];
+        buffer[cursor.row] = l.slice(0, cursor.col - 1) + l.slice(cursor.col);
+        cursor.col--;
+      } else if (cursor.row > 0) {
+        var prevLen = buffer[cursor.row - 1].length;
+        buffer[cursor.row - 1] += buffer[cursor.row];
+        buffer.splice(cursor.row, 1);
+        cursor.row--; cursor.col = prevLen;
+      }
+      return;
+    }
+    if (key.length === 1) {
+      var ln = buffer[cursor.row];
+      buffer[cursor.row] = ln.slice(0, cursor.col) + key + ln.slice(cursor.col);
+      cursor.col++;
+    }
+  }
+
+  function handleCommand(key) {
+    if (key === "Escape") { mode = "normal"; cmdline = ""; return; }
+    if (key === "Enter") { executeCommand(cmdline); mode = "normal"; cmdline = ""; return; }
+    if (key === "Backspace") { cmdline = cmdline.length > 1 ? cmdline.slice(0, -1) : cmdline; return; }
+    if (key.length === 1) cmdline += key;
+  }
+
+  function handleVisualLine(key) {
+    if (key === "Escape") { mode = "normal"; return; }
+    if (key === "j") { cursor.row = Math.min(buffer.length - 1, cursor.row + 1); return; }
+    if (key === "k") { cursor.row = Math.max(0, cursor.row - 1); return; }
+    if (key === "d" || key === "y") {
+      var lo = Math.min(visualStart, cursor.row), hi = Math.max(visualStart, cursor.row);
+      register = buffer.slice(lo, hi + 1).join("\n");
+      registerType = "lines";
+      if (key === "d") {
+        buffer.splice(lo, hi - lo + 1);
+        if (buffer.length === 0) buffer = [""];
+        cursor.row = Math.min(lo, buffer.length - 1);
+        cursor.col = 0;
+        flashMessage((hi - lo + 1) + " lines deleted");
+      } else {
+        flashMessage((hi - lo + 1) + " lines yanked");
+        cursor.row = lo;
+      }
+      mode = "normal";
+    }
+  }
+
+  function handleKey(key) {
+    if (mode === "normal") handleNormal(key);
+    else if (mode === "insert") handleInsert(key);
+    else if (mode === "command") handleCommand(key);
+    else if (mode === "visual-line") handleVisualLine(key);
+  }
+
+  function render() {
+    var rows = [];
+    for (var r = 0; r < buffer.length; r++) {
+      var text = buffer[r];
+      var classes = "buffer-line";
+      if (r === cursor.row) classes += " current-row";
+      if (mode === "visual-line" && r >= Math.min(visualStart, cursor.row) && r <= Math.max(visualStart, cursor.row)) {
+        classes += " visual-line";
+      }
+      var lineno = String(r + 1).padStart ? String(r + 1).padStart(2, " ") : String(r + 1);
+      var content;
+      if (r === cursor.row && mode !== "command") {
+        var before = escapeHtml(text.slice(0, cursor.col));
+        var atChar = cursor.col < text.length ? escapeHtml(text[cursor.col]) : "\u00a0";
+        var after = escapeHtml(text.slice(cursor.col + 1));
+        content = before + '<span class="cursor-block">' + atChar + "</span>" + after;
+      } else {
+        content = text.length ? escapeHtml(text) : "\u00a0";
+      }
+      rows.push('<div class="' + classes + '"><span class="lineno">' + lineno + "</span>" + content + "</div>");
+    }
+    bufferViewEl.innerHTML = rows.join("");
+
+    terminalEl.className = "terminal" + (mode === "insert" ? " insert-mode" : "");
+    var tagText = mode === "visual-line" ? "VISUAL LINE" : mode.toUpperCase();
+    modeTagEl.textContent = tagText;
+    modeTagEl.className = "mode-tag " + mode;
+    cmdlineTextEl.textContent = mode === "command" ? cmdline : "";
+    messageTextEl.textContent = message || "";
+  }
+
+  function checkLesson() {
+    var lesson = lessons[current];
+    var ok = lesson.check({ buffer: buffer, cursor: cursor, flags: flags });
+    if (ok) {
+      lessonStatusEl.textContent = "\u2705 Solved! " + (current < lessons.length - 1 ? "Click \u201cNext\u201d to continue." : "You\u2019ve finished every lesson \u2014 nice work.");
+      lessonStatusEl.className = "success";
+    } else {
+      lessonStatusEl.textContent = "";
+      lessonStatusEl.className = "";
+    }
+  }
+
+  terminalEl.addEventListener("keydown", function (e) {
+    if (e.key === "Tab") return; // let Tab escape the widget for accessibility
+    e.preventDefault();
+    handleKey(e.key);
+    render();
+    checkLesson();
+  });
+
+  window.prevLesson = function () { loadLesson(current - 1); };
+  window.nextLesson = function () { loadLesson(current + 1); };
+  window.resetLesson = function () { loadLesson(current); };
+
+  loadLesson(0);
+})();
+</script>
+</body>
+</html>

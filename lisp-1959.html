@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>LISP 1.5 :: PDP-1 Console :: S-Expressions &amp; Polish Notation</title>
+<style>
+  body {
+    background: #000000;
+    color: #66d9ff;
+    font-family: "Courier New", "Lucida Console", monospace;
+    font-size: 16px;
+    padding: 20px;
+  }
+  a { color: #66d9ff; }
+  a:visited { color: #4aa9c9; }
+  .amber { color: #ffb000; }
+  .white { color: #ffffff; }
+  .dim { color: #2f7d94; }
+  .screen {
+    border: 2px solid #66d9ff;
+    padding: 16px;
+    max-width: 760px;
+    margin: 0 auto;
+    box-shadow: 0 0 12px #66d9ff;
+  }
+  hr { border: none; border-top: 1px dashed #66d9ff; }
+  h1, h2 {
+    color: #ffffff;
+    font-size: 1.1em;
+    border-bottom: 1px dashed #66d9ff;
+    padding-bottom: 4px;
+  }
+  pre.stack {
+    background: #001622;
+    border: 1px solid #66d9ff;
+    padding: 10px;
+    overflow-x: auto;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 10px 0;
+  }
+  th, td {
+    border: 1px solid #66d9ff;
+    padding: 6px 10px;
+    text-align: left;
+    vertical-align: top;
+  }
+  th { color: #ffffff; }
+  .cursor {
+    display: inline-block;
+    width: 9px;
+    background: #66d9ff;
+    animation: blink-cursor 1s steps(1) infinite;
+  }
+  @keyframes blink-cursor { 50% { opacity: 0; } }
+</style>
+</head>
+<body>
+<div class="screen">
+<span class="amber">** PDP-1 LISP 1.5 **</span> CORE LOADED FROM DECTAPE...
+<span class="white">EVAL:</span>
+
+<h1>S-EXPRESSIONS: EVERYTHING IS A LIST</h1>
+<p>
+LISP (McCarthy, 1958, running here on a PDP-1 the way it originally ran at
+MIT) makes a different bet than Forth does. Instead of a stack of numbers,
+LISP has one universal data shape: the <span class="white">list</span>,
+written as parentheses around space-separated items. A LISP program is
+itself just a list &mdash; there's no separate "syntax" for code versus
+data, which is the single strangest and most powerful idea in the language.
+</p>
+
+<pre class="stack">
+(+ 3 4)              ; a list: the symbol +, then 3, then 4
+                      ; EVAL treats the first item as an operator
+                      ; and the rest as its arguments &rarr; 7
+
+(+ 3 (* 4 5))         ; nested lists nest naturally
+                      ; EVAL: (* 4 5) &rarr; 20, then (+ 3 20) &rarr; 23
+</pre>
+
+<h2>PREFIX NOTATION: THE OPERATOR COMES FIRST</h2>
+<p>
+This <code>(operator arg1 arg2)</code> ordering is called
+<span class="white">prefix notation</span>, or historically
+<span class="amber">Polish notation</span> &mdash; named for logician
+Jan &#321;ukasiewicz, who invented it in the 1920s (in Warsaw,
+Poland, hence the name) so that logical formulas could be written
+completely unambiguously <em>without any parentheses at all</em>, since
+the position of each operator alone determines how the expression groups.
+LISP borrowed that ordering but kept the parentheses anyway, to make the
+grouping visible to humans and trivial for the reader ("EVAL") to parse.
+</p>
+
+<h2>CONS, CAR, CDR: BUILDING LISTS BY HAND</h2>
+<p>
+Under the hood every list is a chain of two-slot cells called
+<span class="white">cons cells</span>. <code>CONS</code> builds one,
+<code>CAR</code> reads the first slot, <code>CDR</code> reads the rest.
+</p>
+<pre class="stack">
+(CONS 1 (CONS 2 (CONS 3 NIL)))    ; builds the list (1 2 3)
+(CAR '(1 2 3))                    ; &rarr; 1
+(CDR '(1 2 3))                    ; &rarr; (2 3)
+</pre>
+
+<h2>WORD REFERENCE (CORE)</h2>
+<table>
+<tr><th>Form</th><th>What it does</th></tr>
+<tr><td><code>(QUOTE x)</code> / <code>'x</code></td><td>treat x as data, not code to evaluate</td></tr>
+<tr><td><code>(CONS a b)</code></td><td>build a new cell holding a and b</td></tr>
+<tr><td><code>(CAR x)</code></td><td>the first element of list x</td></tr>
+<tr><td><code>(CDR x)</code></td><td>everything after the first element</td></tr>
+<tr><td><code>(COND (p1 e1) (p2 e2) ...)</code></td><td>the original if/else: first true p, run its e</td></tr>
+<tr><td><code>(LAMBDA (x) ...)</code></td><td>an anonymous function of x</td></tr>
+</table>
+
+<hr>
+
+<h1>THREE NOTATIONS, ONE FAMILY TREE</h1>
+<p>
+Ordinary arithmetic uses <span class="white">infix</span> notation
+(<code>3 + 4</code>, operator in the middle), which needs parentheses and
+precedence rules (why does <code>2 + 3 * 4</code> mean 14, not 20?) to stay
+unambiguous. Both LISP and Forth exist specifically to get rid of that
+ambiguity, but they throw the operator to opposite ends of the expression:
+</p>
+
+<table>
+<tr><th>Notation</th><th>Operator position</th><th>Example: (3 + 4) * 5</th><th>Where it shows up here</th></tr>
+<tr>
+  <td>Infix</td>
+  <td>between the operands</td>
+  <td><code>(3 + 4) * 5</code></td>
+  <td>ordinary math class; needs parens/precedence</td>
+</tr>
+<tr>
+  <td>Prefix (Polish notation)</td>
+  <td>before the operands</td>
+  <td><code>(* (+ 3 4) 5)</code></td>
+  <td><a href="#" onclick="return false;">this page</a> &mdash; LISP S-expressions</td>
+</tr>
+<tr>
+  <td>Postfix (Reverse Polish)</td>
+  <td>after the operands</td>
+  <td><code>3 4 + 5 *</code></td>
+  <td><a href="forth-1970.html">the FORTH-70 terminal</a></td>
+</tr>
+</table>
+
+<p>
+Prefix and postfix are mirror images of the same trick: put the operator
+somewhere <em>fixed</em> relative to its arguments so a reader (human or
+machine) never has to guess how the expression groups &mdash; no
+parentheses required for the notation itself to be unambiguous. LISP kept
+the parentheses anyway, as a readability aid and because a parenthesized
+list turned out to double perfectly as LISP's own data structure. Forth
+went the opposite direction: no parentheses, no ambiguity, because a
+stack machine reading strictly left to right never needs to look ahead
+&mdash; by the time it reads an operator, both arguments are already
+sitting on the stack waiting for it.
+</p>
+
+<p class="dim">
+Historical note: Reverse Polish notation itself wasn't invented by
+Forth &mdash; it was described by Charles Hamblin in the mid-1950s, drawing
+on &#321;ukasiewicz's earlier prefix scheme and simply reversing it.
+Forth (1970) was one of the first popular <em>programming languages</em>
+to build its entire execution model around it; LISP (1958) is twelve
+years older and took the prefix branch of the same family tree instead.
+</p>
+
+<hr>
+<span class="amber">EVAL:</span> <span class="cursor">&nbsp;</span>
+<p class="dim">
+See also:
+<a href="forth-1970.html">1970 FORTH terminal (postfix / RPN)</a> &middot;
+<a href="bbs-1985.html">1985 dial-up BBS</a> &middot;
+<a href="mosaic-1993.html">1993 Mosaic homepage</a> &middot;
+<a href="gopher-1991.html">1991 Gopher menu</a> &middot;
+<a href="index.html">return to the surface (WWW homepage)</a>
+</p>
+</div>
+</body>
+</html>

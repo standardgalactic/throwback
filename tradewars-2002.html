@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>TradeWars 2002 - Door Game (Node 1)</title>
+<style>
+  body {
+    background: #000000;
+    color: #33ff33;
+    font-family: "Courier New", "Lucida Console", monospace;
+    font-size: 16px;
+    padding: 20px;
+    white-space: pre-wrap;
+  }
+  a { color: #33ff33; }
+  a:visited { color: #22cc22; }
+  .amber { color: #ffb000; }
+  .white { color: #ffffff; }
+  .cyan { color: #33ffff; }
+  .red { color: #ff3333; }
+  .cursor {
+    display: inline-block;
+    width: 9px;
+    background: #33ff33;
+    animation: blink-cursor 1s steps(1) infinite;
+  }
+  @keyframes blink-cursor { 50% { opacity: 0; } }
+  .screen {
+    border: 2px solid #33ff33;
+    padding: 16px;
+    max-width: 700px;
+    margin: 0 auto;
+    box-shadow: 0 0 12px #33ff33;
+  }
+  hr { border: none; border-top: 1px dashed #33ff33; }
+
+  .flash-warning {
+    animation: flash-warning 1s steps(1) infinite;
+    font-weight: bold;
+  }
+  @keyframes flash-warning {
+    0%, 50% { opacity: 1; }
+    51%, 100% { opacity: 0; }
+  }
+</style>
+</head>
+<body>
+<div class="screen">
+<span class="white">TradeWars 2002</span> <span class="amber">v1.03</span> - The Original Space Trading Door Game
+Copyright (C) 1984-1991, Gary Martin / Eric Wybenga - All Rights Reserved
+------------------------------------------------------------
+<pre class="cyan">
+  ______              _     _       __
+ /_  __/______ ______| |__ | |     / /___ ______  ___
+  / / / ___/ __ `/ __  / _ \| | /| / / __ `/ ___/ / _ \
+ / / / /  / /_/ / /_/ /  __/| |/ |/ / /_/ / /  /  __/
+/_/ /_/   \__,_/\__,_/\___/ |__/|__/\__,_/_/   \___/
+</pre>
+------------------------------------------------------------
+
+Loading game data for Node 1... <span class="white">OK</span>
+Checking sector database......... <span class="white">OK</span>
+Verifying player turns............ <span class="white">45 remaining today</span>
+
+<span class="white">Sysop's Basement BBS</span> - TradeWars 2002 Sub-Board
+
+You are jacked into the Alpha Sector.
+Ship: <span class="amber">Merchant Cruiser</span>  |  Fighters: 500  |  Shields: 400  |  Credits: 10,000
+Current Sector: 1 (Federation Space, Class 0)
+
+------------------------------------------------------------
+Command [TL=00:45:00]:<span class="white"> (Q,?,I)? </span><span class="cursor">&nbsp;</span>
+------------------------------------------------------------
+
+Establishing inter-node link for multiplayer combat and trading...
+Scanning other nodes for active traders...
+
+<span class="red">*** No other players currently online. ***</span>
+
+<p class="amber flash-warning">*** WAITING FOR OTHER PLAYERS TO JOIN - PLEASE STAND BY ***</p>
+
+<hr>
+<a href="bbs-1985.html">[H] Hang up this door, return to BBS main menu</a>
+<span class="amber">NO CARRIER</span> is what you'll see if you disconnect without logging off properly, so please don't do that to me.
+</div>
+</body>
+</html>

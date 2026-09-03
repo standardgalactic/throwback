@@ -1,0 +1,33 @@
+% preamble.tex — shared preamble for the Flyxion connective-essay series
+% Compile target: XeLaTeX. \input this file, or copy its contents, at the
+% top of each essay after \documentclass.
+
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Termes} % Times-like serif; falls back gracefully if absent
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage[margin=1.25in]{geometry}
+\usepackage[hidelinks]{hyperref}
+\usepackage{microtype}
+\usepackage{enumitem}
+\usepackage{footmisc}
+
+\newtheorem{claim}{Claim}
+\newtheorem{definition}{Definition}
+\newtheorem{observation}{Observation}
+
+% --- Corpus vocabulary macros -------------------------------------------
+\newcommand{\admissible}{\textsc{admissible}}
+\newcommand{\inadmissible}{\textsc{inadmissible}}
+\newcommand{\repair}{\textit{repair}}
+\newcommand{\continuation}{\textit{continuation}}
+\newcommand{\rsvp}{\textsc{rsvp}}
+
+% --- Title block helper ---------------------------------------------------
+% Usage: \essaytitle{Title}{Subtitle or tagline}
+\newcommand{\essaytitle}[2]{%
+  \title{#1\\[0.3em]\large #2}
+  \author{Flyxion\\\normalsize Independent Researcher}
+  \date{\today}
+}
+
+\pagestyle{plain}

@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>FORTH-70 :: Interactive Terminal :: Stacks &amp; Words</title>
+<style>
+  body {
+    background: #000000;
+    color: #33ff33;
+    font-family: "Courier New", "Lucida Console", monospace;
+    font-size: 16px;
+    padding: 20px;
+  }
+  a { color: #33ff33; }
+  a:visited { color: #22cc22; }
+  .amber { color: #ffb000; }
+  .white { color: #ffffff; }
+  .dim { color: #1f9d1f; }
+  .screen {
+    border: 2px solid #33ff33;
+    padding: 16px;
+    max-width: 760px;
+    margin: 0 auto;
+    box-shadow: 0 0 12px #33ff33;
+  }
+  hr { border: none; border-top: 1px dashed #33ff33; }
+  h1, h2 {
+    color: #ffffff;
+    font-size: 1.1em;
+    border-bottom: 1px dashed #33ff33;
+    padding-bottom: 4px;
+  }
+  pre.stack {
+    background: #001a00;
+    border: 1px solid #33ff33;
+    padding: 10px;
+    overflow-x: auto;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 10px 0;
+  }
+  th, td {
+    border: 1px solid #33ff33;
+    padding: 6px 10px;
+    text-align: left;
+    vertical-align: top;
+  }
+  th { color: #ffffff; }
+  .cursor {
+    display: inline-block;
+    width: 9px;
+    background: #33ff33;
+    animation: blink-cursor 1s steps(1) infinite;
+  }
+  @keyframes blink-cursor { 50% { opacity: 0; } }
+</style>
+</head>
+<body>
+<div class="screen">
+<span class="amber">READY.</span> LOADING FORTH-70 KERNEL FROM PAPER TAPE...
+<span class="white">ok</span>
+
+<h1>WHAT IS A STACK?</h1>
+<p>
+Forth (the language, ~1970, born on an IBM 1130 and later famous on the
+minicomputers that ran radio telescopes) has almost no syntax. Instead it
+has one big idea: <span class="white">everything happens on a stack.</span>
+A stack is just a pile of numbers where you can only see the top one. You
+can <span class="amber">push</span> a number onto it, or <span class="amber">pop</span>
+the top number off. That's it. No variables, no expressions, no operator
+precedence &mdash; just a pile of numbers and a tiny vocabulary of
+instructions ("words") that rearrange the pile.
+</p>
+
+<pre class="stack">
+push 3        stack: ( 3 )
+push 4        stack: ( 3 4 )
+add           stack: ( 7 )        &lt;-- add pops 4 and 3, pushes 7
+</pre>
+
+<h2>WORDS: FORTH HAS NO FUNCTIONS, ONLY WORDS</h2>
+<p>
+In Forth every instruction, built-in or user-defined, is called a
+<span class="white">word</span>. A word reads zero or more numbers off the
+top of the stack, does something, and pushes zero or more numbers back.
+There's no distinction between "operator" and "function" &mdash; <code>+</code>
+is a word, <code>DUP</code> is a word, and the word <code>SQUARED</code> you
+define yourself is exactly as first-class as the built-in ones.
+</p>
+
+<pre class="stack">
+: SQUARED  DUP * ;      \ define a new word "SQUARED"
+
+5 SQUARED .             \ prints 25
+
+\ trace of 5 SQUARED:
+5           stack: ( 5 )
+DUP         stack: ( 5 5 )     &lt;-- duplicate the top item
+*           stack: ( 25 )      &lt;-- multiply pops 5 and 5, pushes 25
+.           stack: ( )         &lt;-- print pops 25 and prints it
+</pre>
+
+<p>
+The colon <code>:</code> starts a new word definition, its name comes next
+(<code>SQUARED</code>), then the sequence of existing words that make it
+up, and <code>;</code> ends the definition. Once defined, <code>SQUARED</code>
+can be used exactly like <code>DUP</code> or <code>+</code> &mdash; Forth
+doesn't know or care that you just wrote it yourself five seconds ago. This
+is why Forth systems are described as "extensible": you're not writing
+programs <span class="amber">in</span> the language so much as growing the
+language until your problem is a single word.
+</p>
+
+<h2>WORD REFERENCE (CORE)</h2>
+<table>
+<tr><th>Word</th><th>Stack effect</th><th>What it does</th></tr>
+<tr><td><code>DUP</code></td><td>( n -- n n )</td><td>duplicate the top item</td></tr>
+<tr><td><code>DROP</code></td><td>( n -- )</td><td>discard the top item</td></tr>
+<tr><td><code>SWAP</code></td><td>( a b -- b a )</td><td>swap the top two items</td></tr>
+<tr><td><code>OVER</code></td><td>( a b -- a b a )</td><td>copy the 2nd item to the top</td></tr>
+<tr><td><code>+ - * /</code></td><td>( a b -- n )</td><td>pop two, push the result</td></tr>
+<tr><td><code>.</code></td><td>( n -- )</td><td>pop and print the top item</td></tr>
+</table>
+<p class="dim">
+That comment notation "( n -- n n )" is called a <span class="white">stack
+effect diagram</span>: what the stack looks like before the "--", and what
+it looks like after. It's the closest thing Forth has to a type signature.
+</p>
+
+<hr>
+
+<h1>FORTH vs. REVERSE POLISH NOTATION (RPN)</h1>
+<p>
+Forth's surface syntax, numbers and words separated by spaces, evaluated
+left to right against a stack, <span class="white">is</span> Reverse
+Polish Notation. Every Forth program is a stream of RPN. But RPN itself is
+older and narrower: RPN is just a notation for arithmetic expressions
+(made famous by HP calculators like the HP-35 and HP-12C), while Forth
+takes that same postfix idea and turns it into an entire general-purpose,
+extensible <span class="amber">programming language</span>.
+</p>
+
+<table>
+<tr><th></th><th>Reverse Polish Notation</th><th>Forth</th></tr>
+<tr>
+  <td>What it is</td>
+  <td>a notation for writing arithmetic without parentheses</td>
+  <td>a complete programming language built around a stack</td>
+</tr>
+<tr>
+  <td>Example</td>
+  <td><code>3 4 +</code> means (3 + 4)</td>
+  <td><code>3 4 + .</code> computes 3+4 <em>and prints it</em></td>
+</tr>
+<tr>
+  <td>Vocabulary</td>
+  <td>fixed: numbers and a handful of math operators</td>
+  <td>open-ended: you define new words that extend the language itself</td>
+</tr>
+<tr>
+  <td>Data</td>
+  <td>usually just numbers</td>
+  <td>numbers, addresses, strings, and control-flow all ride the same stack(s)</td>
+</tr>
+<tr>
+  <td>Control flow</td>
+  <td>none &mdash; it's just an expression grammar</td>
+  <td>has it: <code>IF...ELSE...THEN</code>, <code>DO...LOOP</code>, recursion</td>
+</tr>
+<tr>
+  <td>Precedence rules</td>
+  <td>none needed &mdash; that's the entire point of postfix notation</td>
+  <td>none needed, for the same reason, applied to a whole language</td>
+</tr>
+</table>
+
+<p>
+Put another way: <span class="white">every RPN calculator expression is
+valid Forth</span>, but Forth also lets you name a sequence of stack
+operations, save it as a new word, and use it forever after &mdash; something
+plain RPN, being just a notation and not a language, has no mechanism for.
+An HP calculator in RPN mode evaluates <code>3 ENTER 4 +</code> and shows
+<code>7</code>. Forth does the same underlying stack dance, but also lets
+you write <code>: ADD-THEM + ;</code> once and reuse <code>ADD-THEM</code>
+in every program you ever write again.
+</p>
+
+<hr>
+<span class="amber">ok</span> <span class="cursor">&nbsp;</span>
+<p class="dim">
+See also:
+<a href="lisp-1959.html">1959 LISP console (prefix / Polish notation)</a> &middot;
+<a href="bbs-1985.html">1985 dial-up BBS</a> &middot;
+<a href="mosaic-1993.html">1993 Mosaic homepage</a> &middot;
+<a href="gopher-1991.html">1991 Gopher menu</a> &middot;
+<a href="index.html">return to the surface (WWW homepage)</a>
+</p>
+</div>
+</body>
+</html>
